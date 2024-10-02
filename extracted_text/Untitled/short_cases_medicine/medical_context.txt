@@ -1,0 +1,703 @@
+INSTRUCTION
+Examine this patient's chest.
+Examine this patient's chest from the back. Examine this patient's chest from the front.
+SALIENT FEATURES History
+· Fever.
+· Pleuritic pain (made worse on coughing or deep breathing).
+· Cough (pneumonia, TB).
+· Haemoptysis (associated parenchymal involvement in bronchogenic carcinoma or TB).
+· Shortness of breath (large effusions, cardiac failure).
+· Exposure to asbestos (mesothelioma).
+· Nephrotic syndrome.
+Examination
+· Decreased movement on the affected side.
+· Tracheal deviation to the opposite side.
+* Stony dull note on the affected side.
+· Decreased vocal resonance and diminished breath sounds on the affected side.
+Proceed as follows:
+· Comment on aspiration marks.
+· Percuss for the upper level of effusion in the axilla.
+· Listen for bronchial breath sounds.
+· Listen for aegophony at the upper level of the effusion.
+· It is important to elicit any evidence of an underlying cause, such as clubbing, tar staining, lymph nodes, radiation burns and
+mastectomy, raised JVP, rheumatoid hands or butterfly rash.
+Remember. 500 mi of pleural fluid should be present for clinical detection and there are 5 major types of pleural effusion: exudate, transudate, empyema, haemor-rhagic pleural effusion or haemothorax, and chylous effusion.
+DIAGNOSIS
+This patient has a pleural effusion (lesion), probably due to bronchogenic carci-noma, and is short of breath at rest (functional status). 
+||
+INSTRUCTION
+This patient presented with sudden onset of lateral chest pain aggravated by deep inspiration and coughing. Listen to this patient's chest. Examine her chest.
+SALIENT FEATURES History
+· Sharp localized pain worse on coughing or deep respiration.
+· Nature of the sputum (purulent expectoration in a patient with chest infection, haemoptysis in puhnonary embolism).
+· Drug history (oral contraceptives).
+Examination
+Pleural rub (superficial, scratchy, grating sound heard on deep inspiration).
+Proceed as follows:
+· D~tlerentiate between pleural rub and crackles by asking the patient to cough and check whether or not there is any change in
+the nature. (Note. No change with the pleural rub.)
+· Tell the examiner that you would like to listen for tachycardia and right ven-tricular gallop (pulmonary embolism).
+DIAGNOSIS
+This patient has a pleural rub (lesion) which is caused by either underlying infection or pulmonary embolism (aetiology). You would like to analyse blood gases to determine whether she is hypoxic (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES History
+· Determine whether there is a reversible airway obstruction by history. Are the wheezing and breathlessness reversible?
+· Tightness in the chest.
+· Recurrent cough.
+· Exacerbation of the cough or wheeze at night or after exercise.
+· Improvement of the cough or wheeze with bronchodilator therapy.
+· Fever, yellowish sputum.
+· History of atopy (eczema, hay fever).
+· History of rhinitis, nasal polyps.
+Examination
+· Bilateral scattered wheeze.
+· Examine the sputum cup.
+· Comment on accessory muscles of respiration, tachycardia, pulsus paradoxus and whether the patient can utter sentences
+without stopping to take a breath.
+DIAGNOSIS
+This patient has a history of hay fever and bilateral scattered wheeze (lesion) due to bronchial asthma (aetiology), and is breathless at rest (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES History
+· Productive cough.
+· Increasing dyspnoea.
+· Weight loss.
+* History of smoking.
+· History of alpha-antitrypsin deficiency.
+Examination
+· Begin with examination of the sputum pot.
+· Observe the patient from the end of the bed - for obvious breathlessness, pursed lip breathing and symmetrical chest
+movements - and count respiratory rate.
+· Look for nail changes such as tar staining.
+· Feel the palms for warmth and the pulse for rapid bounding pulse (signs of carbon dioxide retention).
+· Look at the lips and tongue for central cyanosis.
+Neck
+· Comment on the active contractions of the accessory muscles of respiration such as sternocleidomastoids, scaleni and trapezii.
+· Palpate for tracheal deviation and measure the distance between the cricoid cartilage and suprasternal notch (less than three
+fingers' breadth in emphysema).
+· Comment on the raised JVP.
+Chest
+Comment on the barrel-shaped chest.
+Palpate for:
+· Apex beat.
+· Chest expansion. · Vocal fremitus.
+Percussion:
+Look for hyper-resonance and obliteration of cardiac and liver dullness.
+Auscultate for:
+· Breath sounds (diminished breath sounds). · Vocal resonance.
+· Forced expiratory time: normal individuals can empty their chest from full inspiration in 4 seconds or less. The end-point of FET
+is detected by auscultating
+over the trachea in the suprasternal notch. Prolongation of the FET to more than 6 seconds indicates airflow obstruction. · Loud pulmonary second heart sound.
+Abdomen
+Palpable liver due to hepatic displacement comment on upper border of liver by percussion).
+DIAGNOSIS
+This patient has features of chronic obstructive airway disease (COAD) (lesion) due to cigarette smoking (aetiology) and is very cyanosed at rest (functional status).
+||
+INSTRUCTION
+Examine this patient's chest. Listen to this patient's chest.
+SALIENT FEATURES
+History
+· Cough with copious purulent sputum, recurrent haemoptysis. · Intermittent fever and night sweats.
+· History of recurrent chest infections.
+· Weight loss.
+Examination
+· Copious purulent expectoration (remember to check the sputum cup in a chest case).
+· Finger clubbing.
+· Bilateral coarse, late, inspiratory crackles.
+Proceed as follows:
+· Comment on kyphoscoliosis if present.
+· Tell the examiner that you would like to know whether the bronchiectasis is of long standing; if so, you would like to examine
+the abdomen for splenomegaly (amyloidosis).
+In addition there may be signs of collapse, fibrosis or pneumonia.
+DIAGNOSIS
+This patient has bilateral, coarse, late inspiratory crackles with purulent sputum (lesion) due to bronchiectasis (aetiology), and is cyanosed.
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES
+History
+· Symptoms of COAD (see pp 261 6).
+· Easy fatiguability, shortness of breath on exertion, weakness. · Leg oedema, and right upper quadrant pain.
+Examination
+· Patient is short of breath at rest and is centrally cyanosed.
+· Tar staining of the fingers.
+· JVP is raised: both 'a' and 'v' waves are seen, 'v' waves being prominent if there is associated tricuspid regurgitation.
+· On examination of the chest there is bilateral wheeze and other signs of chronic bronchitis (see pp 261-6).
+Proceed as follows:
+· Examine the cardiovascular system for signs of pulmonary hypertension:
+-Left parasternal heave (often absent when the chest is barrel shaped). -Right ventricular gallop rhythm.
+-Loud P2 and a loud ejection click.
+Pansystolic murmur of tricuspid regurgitation.
+-Early diastolic Graham Steell murmur in the pulmonary area. · Look for signs of:
+- Hepatomegaly. - Pedal oedema.
+DIAGNOSIS
+This patient has chronic cot pulmonale (lesion) due to long-standing COAD (aetiology) and is in congestive cardiac failure (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES
+History
+· Abrupt onset of symptoms.
+· Cough with purulent sputum.
+· Fever with sweating or rigors.
+· Pleuritic chest pain (pp 251,256).
+· Shortness of breath.
+· Haemoptysis.
+· Nausea, vomiting, diarrhoea (consider Legionella). · Mental status changes (esp. elderly).
+Examination
+· Purulent sputum (if bacterial in aetiology). · Tachypnoea.
+· Reduced movement of the affected side. · Trachea central.
+· Impaired percussion note. · Bronchial breath sounds. · Crackles.
+DIAGNOSIS
+This patient has left lower lobe consolidation with purulent sputum (lesion) indicating a bacterial pneumonia (aetiology).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES
+History
+· Symptoms related to:
+-Primary tumour (cough, dyspnoea, haemoptysis, post-obstructive pneumonia).
+-Mediastinal spread (hoarseness with left-sided lesions due to recurrent laryngeal nerve palsy; obstruction of the superior vena cava
+with right-sided tumours or associated lymphadenopathy; elevation of the hemidiaphragm as result of phrenic nerve paralysis;
+dysphagia from oesophageal obstruction and pericardial tamponade).
+- Metastases (sites include liver, brain, pleural cavity, bone, adrenal glands, contra-lateral lung and skin). (Initial presentation
+with symptoms from a metastatic focus is particularly common with adenocarcinoma.)
+-Paraneoplastic syndrome (pain in arms or legs due to hypertrophic osteo-arthropathy, symptoms of hypercalcaemia due to
+squamous cell carcinoma, neurological syndromes).
+-Systemic effects (anorexia, weight loss, weakness and profound fatigue).
+· History of smoking.
+Examination
+· Patient 1 has clubbing and tar staining of the fingers.
+-Dull percussion note at the apex with absent breath sounds.
+-Look for Homer's syndrome and wasting of the small muscles of the hand.
+· Patient 2 has signs of pleural effusion on one side.
+· Patient 3 shows signs of unilateral collapse or consolidation of the upper lobe on one side.
+Note. If you suspect bronchogenic carcinoma, always look for clubbing, tar staining, cervical lymph nodes and radiation marks, and comment on cachexia.
+DIAGNOSIS
+This patient with marked clubbing and large pleural effusion (lesion) probably has bronchogenic carcinoma (aetiology) and is very short of breath due to the large
+||
+INSTRUCTION
+Examine the chest of this male patient who has had a good appetite, poor weight gain and foul fatty stool.
+SALIENT FEATURES History
+· Cough with purulent and viscous expectoration.
+· Diabetes mellitus.
+· Gastrointestinal symptoms (steatorrhoea, failure to thrive in childhood, rectal prolapse, meconium ileus or distal intestinal
+obstruction).
+· Heat stroke, salt depletion.
+· Sterility in men and decreased fertility in women.
+Examination
+· Sputum is purulent.
+· Patient is short of breath.
+· Central cyanosis.
+· Finger clubbing.
+· Bilateral coarse crackles.
+Proceed as follows:
+Tell the examiner that you would like to check the following levels:
+· Urine sugar.
+ · Faecal fat.
+· Sweat sodium.
+DIAGNOSIS
+This patient has bilateral coarse crackles, asthenia and foul fatty stool (lesion) due to cystic fibrosis (aetiology) and requires continuous oxygen indicating respiratory failure (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+Examine the respiratory system from the back.
+SALIENT FEATURES History
+· Progressive exertional dyspnoea (90%).
+· Chronic cough (74%).
+· ArthralgiaJarthritis (19%).
+· Obtain a drug history (amiodarone, nitrofurantoin and busulfan).
+Examination
+· Clubbing.
+· Central cyanosis.
+· Bilateral, basal, fine, end-inspiratory crackles which disappear or become quieter on leaning forwards. Furthermore, the
+crackles do not disappear on coughing (unlike those of pulmonary oedema). The crackles have been called 'Velcro' or
+'Cellophane' crackles.
+· Tachypnoea (in advanced cases).
+Proceed as follows:
+· Examine the following:
+-Hands (for rheumatoid arthritis, systemic sclerosis).
+-Face (for typical rash of SLE, heliotropic rash of dermatomyositis, typical
+facies of systemic sclerosis, lupus pernio of sarcoid).
+-Mouth (for aphthous ulcers of Crohn's disease, dry mouth of Sj6gren's
+syndrome).
+· Look for signs of pulmonary hypertension: 'a' wave in the JVP, left parasternal heave and P2.
+DIAGNOSIS
+This patient has bilateral, basal, fine, end-inspiratory crackles (lesion) due to fibrosing alveolitis (aetiology) and is tachypnoeic at rest (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES
+History
+· History of TB, ankylosing spondylitis, radiation.
+· History of phrenic nerve crush, plombage, thoracotomy.
+· The fibrosis is usually apical.
+· Flattening of the chest on the affected side.
+· Tracheal deviation to the affected side.
+· Reduced expansion on the affected side.
+· Dull percussion note.
+· Presence of localized crackles; bronchial breathing may be present.
+Proceed as follows:
+Look for the following signs:
+· Scars of phrenic nerve crush, plombage, thoracotomy.
+· Radiation scars.
+DIAGNOSIS
+This patient has flattening of the R/L side of the chest with diminished movements on that side, tracheal deviation and localized crackles (lesion) due to pulmonary fibrosis secondary to tuberculosis (aetiology), and is comfortable at rest (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES History
+· Sudden onset or rapidly progressive dyspnoea.
+· Ipsilateral acute pleuritic pain - the pain is either sharp or a steady ache.
+· A small pneumothorax may be asymptomatic.
+· Obtain history of recent pleural aspiration or insertion of subclavian line (J R Soc Med 1997: 90: 319-21), recent surgery to
+head and neck, abdominal procedures using bowel or peritoneal distension.
+· History of asthma, COAD, ARDS, pneumonia, trauma to chest.
+· History of Marfan's syndrome.
+· History of HIV.
+· History of positive pressure ventilation.
+Examination
+· Decreased movement of the affected side.
+· Increased percussion note.
+· Trachea may be central (small pneumothorax) or deviated to the affected side (underlying collapse of lung) or the opposite side
+(large pneumothorax).
+· Increased vocal resonance with diminished breath sounds.
+Proceed as follows:
+· Look for clues regarding aetiology:
+-Pleural aspiration site.
+-Infraclavicular region for a bruise from the central line. -Comment if the patient is thin or has marfanoid features.
+Inhaler or peak flow meter by the bedside (asthma, COAD).
+· Tell the examiner that you would suspect tension pneumothorax when there is tachycardia (>135 beats/minute), hypotension
+and pulsus paradoxus.
+DIAGNOSIS
+This patient has diminished breath sounds and hyper-resonant note on R/L side of the chest (lesion) due to pneumothorax
+secondary to Marfan's syndrome (aetiology), and is not breathless at rest (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES History
+· Fever and night sweats.
+· Malaise, fatigue, anorexia. · Weight loss.
+· Cough with sputum.
+Examination
+These'patients tend to have signs of common chest diseases which are not cut and dried. There are several masons for this, such as pleural thickening, thoracotomy and pneumonectomy, associated COAD, associated chest infection, plombage or phrenic nerve crush.
+The following provide some examples:
+Patient 1
+The candidate was asked to examine the chest from the front, as a result of which the old thoracotomy scar was not seen. The patient was wheezy. The trachea was deviated to the right. Percussion note was stony dull from the right second inter-costal space downwards. Wheeze was present on the left side. This patient had a right pneumonectomy with COAD in the left lung. The candidate's diagnosis of right-sided pleural effusion with underlying collapse and left-sided COAD was accepted.
+Patient 2
+The trachea was central. A phrenic nerve crush scar was seen. Percussion note was dull in the left infra-axillary region and there were associated crackles. The diag-nosis of pleural thickening with associated chest infection was accepted; that of pleural effusion was not.
+||
+INSTRUCTION
+Look at this patient.
+SALIENT FEATURES History
+· Daytime somnolence.
+· Unrefreshing sleep.
+· Daytime fatigue.
+· Snoring.
+· Shortness of breath.
+· Headache, particularly in the morning. · Swelling of feet.
+· Poor concentration.
+· Systemic hypertension.
+· Family history of obesity.
+· Gastro-oesophageal reflux.
+· Poor quality of life.
+Examination
+· Obese patient who is plethoric and cyanosed.
+· Maxillary or mandibular hypoplasia.
+· Shortness of breath at rest.
+· May be nodding off to sleep.
+· Systemic hypertension.
+· Nocturnal angina.
+· Look for signs of pulmonary hypertension and right heart failure.
+Remember. Nearly 50% of patients with sleep apnoea syndrome are not obese.
+DIAGNOSIS
+This patient has marked obesity and hypersomnolence with signs of pulmonary hypertension (lesion) which indicate that she has pickwickian syndrome. The patient is in cardiac failure (functional status).
+||
+INSTRUCTION
+Examine this patient's chest.
+SALIENT FEATURES History
+· Sudden onset of breathlessness.
+· History of cough.
+· History of asthma, TB, lung cancer.
+Examination
+· Trachea deviated to the affected side.
+· Movements decreased on the affected side.
+· Percussion note dull on the affected side.
+· Breath sounds diminished on the affected side.
+Proceed as follows:
+Tell the examiner that you would like to look for tar staining (tobacco smoking), clubbing and cachexia (bronchogenic carcinoma, see pp 274-6).
+DIAGNOSIS
+This patient has a collapsed lung (lesion); you would like to exclude malignancy (aetiology). He is breathless at rest (functional status).
+|||
+INSTRUCTION
+Examine the thyroid.
+Test this patient's thyroid status. Look at this patient's neck.
+SALIENT FEATURES
+1. Introduce yourself to the patient and, while shaking hands, note whether the palms are warm and sweaty.
+2. Inspection of the neck:
+· Look for the JVP.
+· Scars of surgery (often missed by candidates). · Enlarged cervical lymph nodes.
+· Goitre.
+3. Palpation (always begin by palpating from behind):
+Seat the patient comfortably.
+Comment first on exophthalmos.
+While palpating the gland, ensure that there is a glass of water to swallow. Palpate the thyroid and note the following: - Size - specify the World Health
+Organization grade (see below). - Mobility. -Texture - simple or nodular (solitary or multiple)? - Tenderness.
+Pemberton's sign (on raising the arms above the head, patients with retro-sternal goitres may develop signs of compressim, i.e. suffusion of the face, syncope or giddiness).
+Palpate cervical lymph nodes.
+Feel the carotid arteries.
+Palpate for tracheal deviation.
+Percuss for retrosternal extension.
+Auscultate over the gland for bruit, carotid bruits.
+Test sternomastoid function (this muscle m. ty be infiltrated in thyroid malignancy).
+4. Thyroid function should then be assessed: · Eye signs:
+- Lid lag.
+- Exophthalmos.
+-Lid retraction (sclera visible above the cornea). - Extraocular movements.
+· Hands:
+ 
+- Pulse for tachycardia or atrial fibrillation. - Tremor.
+-Acropachy or clubbing.
+-Palmar erythema (thyrotoxicosis). - Supinator jerks (inverted in hypothyrcidism). -Proximal weakness in the upper arm. · Skin: look for pretibial myxoedema.
+·
+Elicit the ankle jerks.
+If you are permitted to ask questions, enquire about shortness of breath, dysphagia,
+iodine-containing medications and possible exposure to radiation.
+||
+INSTRUCTION
+Look at this patient.
+Determine this patient's thyroid status.
+SALIENT FEATURES
+Patient is fidgety and restless.
+Proceed as follows:
+History
+· Easy irritability, nervousness, insomnia.
+· Fatigue.
+· Weight loss with increased appetite.
+· Frequent defaecation.
+· Oligomenorrhoea.
+· Dislike for hot weather, heat intolerance, excessiv ,- sweating.
+· Palpitations, dyspnoea.
+· Family history of thyroid disease.
+· Proximal muscle weakness, muscle atrophy, periodic paralysis (particularly in patients of Oriental extraction).
+Examination
+Hands:
+· While shaking hands with the patient note the wa'm sweaty palms.
+· Look for tremor, thyroid acropachy, onycholysis Plummer's nails), vitiligo and
+palmar erythema.
+· Check pulse (for tachycardia or the irregularly irregular pulse of atrial fibrillation).
+Eyes:
+· Comment on proptosis (after looking at the eyes t rom behind and above). · Check for lid lag.
+· Check for scars of previous tarsorrhaphy.
+Neck:
+· Mention previous thyroidectomy scar if present.
+· Examine the neck for goitre and auscultate over the gland.
+Chest:
+· Gynaecomastia can occur in men due to increased oestrogen production.
+· Examine the cardiovascular system: sinus tachycardia, widened pulse pressure,
+loud first heart sound, third heart sound, systolic murmur, atrial fibrillation.
+Lower limbs:
+· Examine the shins for pretibial myxoedema (bilateral pinkish brown dermal plaques).
+· Test for proximal myopathy with hyper-refiexia.
+Tell the examiner:
+That you would like to check for thyroid-stimulating antibodies, TsAb, which give near
+100ok detection rate in Graves' patients.
+DIAGNOSIS
+This patient has tremor, proptosis and lid lag (lesions) due to autoimmune Graves' disease (aetiology), and is in fast atrial fibrillation and hyperthyroid (functional status).
+||
+INSTRUCTION
+Examine this patient's face.
+Perform a general examination of this patient.
+SALIENT FEATURES
+History
+· Obtain a history of thyrotoxicosis (see p. 355).
+· History of smoking (ophthalmopathy is more common in cigarette smokers).
+Examination
+Prominent eyeballs.
+Look at the patient's eyes from behind and above for proptosis.
+Comment on lid retraction (the sclera above the upper limbus of the cornea will be seen); this is Dalrymple's sign.
+Comment on the sclera visible between the lower eyelid and the lower limbus of the cornea (i.e. comment on the exophthalmos). Most patients have bilateral exophthalmos with unilateral prominence.
+Check for lid lag (ask the patient to follow your finger and then move it along the arc of a circle from a point above her head to a point below the nose - the move-ment of the lid lags behind that of the globe); this is von Graefe's sign. Voluntary staring can result in a false lid lag, and the patient must be suitably relaxed before eliciting this sign.
+Check for extraocular movements and comment on the cornea.
+Look for the following:
+Signs of thyrotoxicosis (fast pulse rate, tremor and sweating). - Goitre (listen for a
+bruit). - Post-thyroidectomy scar.
+DIAGNOSIS
+This patient has marked exophthalmos with ophthalmoplegia (lesions) with signs of thyrotoxicosis (functional status) due to Graves' disease (aetiology).
+||
+INSTRUCTION
+Obtain a history and perform relevant general examination.
+SALIENT FEATURES
+History
+· Dryness of skin.
+· Hair dryness or loss.
+· Cold intolerance.
+· Change in the voice (hoarse, husky).
+· Lethargy, undue tiredness.
+· Constipation.
+· Moderate weight gain in spite of loss of appetite.
+· Menstrual irregularity, especially menorrhagia.
+· Infertility.
+· Depression.
+Dementia.
+Muscle cramps.
+Oedema.
+Radioiodine therapy for previous Graves' disease (the patient may have
+associated eye signs of Graves' disease).
+Medications and other compounds such as lithium carbonate and
+iodine-containing compounds (e.g. amiodarone, radiocontrast agents, expectorants containing potassium iodide, and kelp).
+Family history of thyroid dysfunction, pernicious anaemia, diabetes mellitus, primary adrenal insufficiency.
+Obtain history of hypercholesterolaemia, angina pectoris and hypertension (remember, hypertension occurs in 10% of these patients and disappears with thyroxine replacement).
+Examination
+Coarse, dry skin (look for yellowish tint of carotenaemia - 'peaches and cream' complexion).
+'Dirty elbows and knees' sign (Ber A 1954 The sign of 'dirty' knees and elbows. Acta Endocrinol (Copenh) 16: 305).
+Puffy lower eyelids.
+Loss of outer third of eyebrows, xanthelasma.
+Proceed as follows:
+Examine the neck for goitre and the scar of previous thyroidectomy. The typical Hashimoto gland is firm and lobulated.
+-Proximal muscle weakness. - Cerebellar signs. -Carpal tunnel syndrome.
+Slow pulse.
+Check the ankle jerks, looking for delayed relaxation. Look for:
+DIAGNOSIS
+This patient has delayed ankle jerks, puffy lower eyelids, slow pulse and hoarse, husky voice (lesions) indicating that he has hypothyroidism (functional status); the cause needs to be determined (aetiology).
+||
+INSTRUCTION
+Examine this patient's neck.
+SALIENT FEATURES
+History
+Strider (trachea must be narrowed to 20-30% for this symptom).
+Hoarseness of voice (due to pressure on recurrent laryngeal nerve; suggests thyroid malignancy).
+Acute painful enlargement (suggests bleeding into thyroid nodule).
+Suffusion of face when the patient raises the arms above the head (suggests substernal goitre).
+Dysphagia.
+Deafness (if due to eighth cranial nerve involvement suggests Pendred's
+syndrome; rare).
+· Symptoms of thyroid hyper- or hypofunction.
+Examination
+· Middle-aged or elderly patient.
+· Multinodular goitre.
+· Atrial fibrillation.
+· Signs of thyrotoxicosis (see p. 355).
+DIAGNOSIS
+This patient has a multinodular goitre (lesion) and is hyperthyroid with atrial fibrillation (functional status).
+||
+INSTRUCTION
+Look at this patient, who presented with weakness, loss of appetite and weight loss.
+SALIENT FEATURES
+History
+· Dizziness, syncope.
+· Skin pigmentation (ask if the patient has been sitting in the sun).
+· Ask questions regarding fatigue, weakness, apathy, anorexia, nausea, vomiting, weight loss and abdominal pain.
+· Depression.
+Examination
+The striking abnormality is hyperpigmentation.
+Proceed as follows:
+· Examine for hyperpigmentation:
+-The hand: compare the creases with your own.
+-The mouth and lips for pigmentation.
+-Areas not usually covered by clothing: nipples, areas irritated by belts, straps, collars or rings.
+· Look for vitiligo.
+· Tell the examiner that you would like to investigate as follows: -Examine the blood
+pressure, in particular for postural hypotension. -Look for sparse axillary and pubic
+hair.
+-Examine the abdomen for adrenal scar (if the scar is pigmented, think of Nelson's syndrome and examine field defects).
+· If you suspect Addison's disease, tell the examiner that you would like to do a
+short ACTH (1-24) test (Synacthen test).
+DIAGNOSIS
+This patient has postural hypotension, marked hyperpigmentation and sparse axillary hair (lesion) due to autoimmune Addison's disease (aetiology). The patient has marked hypoadrenalism (functional status).
+||
+INSTRUCTION
+Examine this patient's face.
+This patient complains of excessive sweating; examine him. Examine this patient's
+hands.
+SALIENT FEATURES
+History
+· Ask the patient about old photographs of him/herself for comparison. · Ask whether the patient has outgrown wedding ring and shoes.
+· Hyperhidrosis.
+· Headaches, visual field defects (depends on the size of the tumour). · Paraesthesia and symptoms of carpal tunnel syndrome (p. 212).
+· Hypertension.
+· Acral and facial changes.
+* Oligomenorrhoea/amenorrhoea, galactorrhoea in females. · Impotence in males.
+· Shortness of breath (cardiac failure).
+· Arthritis (hands, feet, hips and knees).
+Examination
+Hands
+. On shaking hands there is excessive sweating - moist, doughy, enveloping
+handshake.
+· Large hands with broad palms, spatulate fingers; there is an increase in the
+'volume' of the hands.
+Proceed as follows:
+Look for evidence of carpal tunnel syndrome (tap over the flexor retinaculum for
+Tin~l'~ ~ign).
+Face
+· Prominent supraorbital ridges.
+· Large nose and lips.
+· Protrusion of the lower jaw (prognathism); ask the patient to clench his teeth and
+note the malocclusion and splaying of the teeth (i.e. interdental separation).
+Proceed as follows:
+Ask the patient to show his tongue and look for macroglossia and for impressions of
+the teeth on the edges of the tongue.
+Test
+For bitemporal hemianopia (see pp 133-4) and optic atrophy. Neck for goitre.
+Axillae for skin tags (molluscum fibrosum), acanthosis nigricans (black velvety papillomas).
+Chest for cardiomegaly, gynaecomastia and galactorrhoea. Abdomen for hepatosplenomegaly.
+Joints for arthropathy, i.e. osteoarthrosis, chondrocalcinosis. Spine for kyphosis.
+Blood pressure for hypertension (present in 15% of cases).
+Tell the examiner that you would like to examine the urine for sugar (impaired glucose tolerance).
+DIAGNOSIS
+This patient has a protruding lower jaw, splaying of teeth and large spade-like hands (lesions) which are features of acromegaly due to a pituitary tumour (aetiology).
+||
+INSTRUCTION
+Look at this patient.
+SALIENT FEATURES
+History
+· In a male, the frequency of shaving, impotence.
+· In a female, postpartum haemorrhage, amenorrhoea.
+· History of radiation (e.g. proton-beam radiation) - causes hypopituitarism primarily
+because of its effects on hypothalamic function, whereas high-dose radiation can directly affect the pituitary.
+Examination
+· Patient is pale; the skin is soft.
+· Paucity of axillary and pubic hair.
+· Atrophy of breast (in females).
+· Examine the blood pressure for postural hypotension.
+· Check visual fields: bitemporal hemianopia may be present. · Examine the fundus for optic atrophy.
+Proceed as follows:
+Tell the examiner that you would like to examine the external genitalia for
+hypo-gonadism (small testes).
+DIAGNOSIS
+This patient has pale soft skin and absence of axillary hair with atrophied breasts    
+(lesion) due to hypopituitarism (functional status) secondary to postpartum necrosis (aetiology).
+||
+INSTRUCTION
+Look at this patient's chest.
+SALIENT FEATURES
+History
+· Take a drug history - oestrogens, digoxin, spironolactone, cimetidine, diazepam, alkylating agents, methyldopa, clomifene.
+· Ask the patient if it is painful.
+Examination
+Unilateral or bilateral enlargement of the breasts in a male patient.
+Proceed as follows:
+· Palpate to confirm the presence of glandular tissue.
+· Tell the examiner that you would like to look for stigmata of cirrhosis of the liven
+DIAGNOSIS
+This patient has gynaecomastia (lesion) due to spironolactone therapy (aetiology), which is cosmetically distressing to the patient (functional status).
+||
+INSTRUCTION
+Look at this patient's hands.
+SALIENT FEATURES
+History
+· History of thyroid surgery.
+· Paraesthesias of fingers, toes and circumoral region.
+· Muscle cramping, carpopedal spasm, laryngeal stridor, convulsions.
+Examination
+Spasm of the hands - the fingers are extended, except at the metacarpophalangeal joints, and the thumb is strongly adducted.
+Proceed as follows:
+· Look at the feet for spasm and then investigate as follows:
+-Tap over the facial nerve (in front of the tragus of the ear). There is contraction
+of the lips and facial muscles (Chvostek's sign or Chvostek-Weiss sign). -Inflate the
+cuff just above the systolic pressure for 3 minutes; this will cause the hand to go into spasm - Trousseau's sign.
+-Look into the mouth for candidiasis (may be seen in primary hypopara- thyroidism) and defective teeth.
+-Fingernails may be thin and brittle. -Check for thyroidectomy scar. -Look for cataracts.
+· Tell the examiner that you would like to perform the following tests: - Skull radiograph (looking for basal ganglia calcification). -Measurement of serum calcium and magnesium levels.
+-ECG for prolonged QT intervals and T-wave abnormalities.
+- Slit-lamp examination for early posterior lenticular cataract formation.
+DIAGNOSIS
+This patient has carpopedal spasm (lesion) due to hypoparathyroidism as a com-plication of thyroidectomy (aetiology).
+||
+INSTRUCTION
+Look at this patient who was told by her GP that she has a 'nervous bowel'.
+SALIENT FEATURES
+History
+Confirm a history of chronic intermittent diarrhoea.
+Flushing attacks, which may be associated with increased lacrimation and periorbital oedema. Flushing may be provoked by eating, exertion, excitement or ethanol.
+Wheeze (due to bronchoconstriction during flushing attacks).
+Examination
+· Flushed face ('fire-engine' face). · Telangiectasia.
+Proceed as follows:
+· Listen to the chest for wheeze (bronchial carcinoid).
+· Listen to the heart (right-sided murmurs in intestinal, gastric, hepatic and ovarian
+carcinoid, left-sided murmurs in bronchial carcinoid).
+· Look for hepatomegaly (nodular and firm due to metastases, may be pulsatile due
+to tricuspid regurgitation).
+DIAGNOSIS
+This patient has facial flushing and tricuspid regurgitation (lesion) due to carcinoid syndrome (aetiology) and is in cardiac failure (functional status).
+||
+INSTRUCTION
+Look at this patient.
+SALIENT FEATURES
+History
+· Cancer of gallbladder and biliary system (obese women have a higher incidence). · Cancer of colon, rectum and prostate, and renal cell cancer (N Engl J Med 2000;
+343:1305-11) (higher in obese men).
+Examination
+Patient has excessive adipose tissue.
+Family history of obesity (parental obesity more than doubles the risk of adult obesity among both obese and non-obese children under 10 years of age, N Engl J Med 1997; 337: 869-73).
+History of sleep apnoea, snoring and insomnia.
+History of hypertension, diabetes, hyperlipidaemia, cardiovascular disease. Gastro-oesophageal reflux.
+History of gallstones (cholesterol gallstones more prevalent in obesity). History of endometrial cancer in women (two to three times more common in
+obese than in lean women).
+History of breast cancer (risk increases with body mass index in postmenopausal
+· women).
+Proceed as follows:
+· Measure the height and body weight (to determine body mass index).
+Check blood pressure (the prevalence of hypertension is approximately three times higher in the obese than the non-obese).
+Examine the joints to exclude osteoarthrosis.
+Examine skin for intertrigo in redundant folds of skin (fungal and yeast infections of skin are also common).
+· Tell the examiner that you would like to:
+-Assess urine sugar (the prevalence of diabetes is three times higher in over- weight than in non-overweight persons).
+-Check serum lipids (these patients otlen have an adverse pattern of plasma lipoproteins that generally improves with weight loss).
+-Assess pulmonary function (sleep apnoea).
+-Exclude secondary causes (hypothyroidism, Cushing's syndrome, polycystic ovary syndrome).
+DIAGNOSIS
+This patient has gross obesity (lesion) of genetic origin, complicated by hyper-tension and osteoarthrosis.
+||
+INSTRUCTION
+Examine this patient. Look at this patient's face.
+SALIENT FEATURES
+History
+· History of steroid therapy.
+· Central weight gain.
+· Hirsutism (see pp 428-31).
+· Easy braising.
+· Acne.
+· Weakness of muscle.
+· Menstrual disturbance.
+· Loss of libido.
+· Depression, sleep disturbances.
+· Back pain due to spinal osteoporosis.
+Examination
+Moon-like facies (Fig. 3), acne, hirsutism and plethora (due to telangiectasia).
+Proceed as follows:
+· Examine the following:
+-The mouth for superimposed thrush.
+-The interscapular area for 'buffalo hump'.
+-Increased fat pads and bulge above supraclavicular fossae (more specific for Cushing's syndrome).
+-The abdomen for thinning of skin and purple striae (also seen over the shoulders and thighs) - said to be present on almost all patients (Fig. 4).
+-The limbs for bruising, wasting of the limbs, weakness of the muscles of the
+shoulders and hips - get the patient to squat (proximal myopathy).
+-Ask the patient whether she has back pain and then examine the spine, looking for
+evidence of osteoporosis and collapse of vertebra, kyphoscoliosis. -Measure the blood pressure. · Tell the examiner you would like to: -Test the urine for glucose.
+-Check visual fields (for pituitary tumour).
+-Examine the fundus for optic atrophy, papilloedema, signs of hypertensive or diabetic retinopathy.
+Note. Hirsutism is not common in Cushing's syndrome caused by exogenous steroids because they suppress adrenal androgen secretion.
+Also comment on signs of asthma, rheumatoid arthritis, SLE, fibrosing alveolitis (as these are conditions that are treated with long-term steroids).
+DIAGNOSIS
+This patient has moon-like facies, acne and supraclavicular pads of fat (lesions), which are features of Cushing's syndrome caused by long-term steroid therapy (aetiology) for asthma. The patient is now steroid dependent and is disabled by proximal myopathy and kyphoscoliosis due to osteoporosis (functional status).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

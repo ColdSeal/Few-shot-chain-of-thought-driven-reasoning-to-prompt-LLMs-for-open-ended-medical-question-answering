@@ -1,0 +1,1021 @@
+{
+    "1": {
+        "q_no": "1",
+        "question": "All of the following are typically characterized as an obstructive lung disease EXCEPT:",
+        "options": [
+            "Asbestosis",
+            "Asthma",
+            "Bronchiectasis",
+            "Chronic bronchitis",
+            "Emphysema"
+        ],
+        "answer": "A",
+        "explanation": "is a lung disease caused by the\ninhalation of asbestos fibers. It is a fibrotic lung disease and typically manifests with a restrictive\nventilator defect and gas transfer defect (reduced diffusion capacity for carbon monoxide\n[DLCO]) on pulmonary function testing."
+    },
+    "2": {
+        "q_no": "2",
+        "question": "A 25-year-old man is brought to the emergency department by ambulance after his family found him unresponsive at home. He has a history of intravenous drug abuse and human immunodeficiency virus (HIV) with medical noncompliance. His last CD4 count was <200/\u03bcL. On initial evaluation, his blood pressure is 120/75 mmHg, heart rate is 105 bpm, respiratory rate 8 breaths/min, oxygen saturation (SaO2) of 83%, and temperature of 36.0\u00b0C. A blood gas on room air reveals pH of 7.16, partial pressure of carbon dioxide (PCO2) of 70 mmHg, and partial pressure of oxygen (PO2) of 55 mmHg. Which of the following is the most likely diagnosis?",
+        "options": [
+            "Asthma",
+            "Narcotic overdose",
+            "Pneumococcal pneumonia",
+            "Pneumocystis pneumonia",
+            "Pulmonary embolism"
+        ],
+        "answer": "B",
+        "explanation": "The alveolar-arterial oxygen (A-a O2) difference can be helpful in\ndistinguishing hypoventilation (elevated partial pressure of carbon dioxide [PCO2]) as a cause of\nhypoxemia. The A-a O2 difference on room air should be less than 15 mmHg in a young adult\nand typically increases slightly with age. The A-a O2 difference cannot easily be interpreted\nwhen the fraction of inspired oxygen (FiO2) is greater than 0.21. The A-a O2 difference on room\nair is elevated in situations of hypoxemia due to ventilation-perfusion (V/Q) mismatch, shunt, or\ndiffusion defect. It will be normal when the hypoxemia is solely due to hypoventilation. In this\ncase, the gradient is 7.5 mmHg, consistent with hypoventilation secondary to a presumed\nnarcotic overdose. Asthma and pulmonary embolism typically cause hypoxemia due to V/Q\nmismatch. Pneumococcal and pneumocystis pneumonias cause hypoxemia for multifactorial\nreasons, including shunt."
+    },
+    "3": {
+        "q_no": "3",
+        "question": "At what lung volume does the outward recoil of the chest wall equal the inward elastic recoil of the lung?",
+        "options": [
+            "Expiratory reserve volume",
+            "Functional residual capacity",
+            "Residual volume",
+            "Tidal volume",
+            "Total lung capacity"
+        ],
+        "answer": "B",
+        "explanation": "The functional residual capacity of the lung refers to the volume\nof air that remains in the lung following a normal tidal respiration. This volume of air represents\nthe point at which the outward recoil of the chest wall is in equilibrium with the inward elastic\nrecoil of the lungs. The lungs would remain at this volume if not for the actions of the\nrespiratory muscles. The functional residual capacity is comprised of two lung volumes: the\nexpiratory reserve volume and the residual volume. The expiratory reserve volume represents\nthe additional volume of air that can be exhaled from the lungs when acted upon by the\nrespiratory muscles of exhalation. The residual volume is the volume of air that remains in the\nlung following a complete exhalation and is determined by the closing pressure of the small\nairways."
+    },
+    "5": {
+        "q_no": "5",
+        "question": "A 22-year-old woman presents to the emergency department in her 23rd week of pregnancy complaining of acute dyspnea. She has had an uncomplicated pregnancy and has no other medical problems. She is taking no medications other than prenatal vitamins. On examination, she appears dyspneic. Her vital signs are as follows: blood pressure 128/78 mmHg, heart rate 126 bpm, respiratory rate 28 breaths/min, and oxygen saturation 96% on room air. She is afebrile. Her lung and cardiac examinations are normal. There is trace bilateral pitting pedal edema. A chest x-ray performed with abdominal shielding is normal, and the electrocardiogram (ECG) demonstrates sinus tachycardia. An arterial blood gas is performed. The pH is 7.52, partial pressure of arterial carbon dioxide (PaCO2) is 26 mmHg, and partial pressure of arterial oxygen (PaO2) is 85 mmHg. What is the next best step in the diagnosis and management of this patient?",
+        "options": [
+            "Initiate therapy with amoxicillin for acute bronchitis.",
+            "Perform a computed tomography (CT) pulmonary angiogram .",
+            "Perform an echocardiogram.",
+            "Reassure the patient that dyspnea is normal during this stage of pregnancy and no abnormalities are seen on testing.",
+            "Treat with clonazepam for a panic attack."
+        ],
+        "answer": "B",
+        "explanation": "Ventilatory\nfunction can be easily measured with lung volume measurement and the FEV1/FVC ratio. A\ndecreased FEV1/FVC ratio is characteristic of obstructive lung diseases. Alternatively, low lung\nvolumes, specifically decreased total lung capacity (TLC), and occasionally decreased residual\nvolume (RV) are characteristic of restrictive lung diseases. With extensive air trapping in\nobstructive lung disease, TLC is often increased, and RV may also be increased. Vital capacity\n(VC) is proportionally decreased. Maximal inspiratory pressure (MIP) measures respiratory\nmuscle strength and is decreased in patients with neuromuscular disease. Thus, myasthenia\ngravis will produce low lung volumes and decreased MIP, whereas patients with idiopathic\npulmonary fibrosis will have normal muscle strength and subsequently a normal MIP but\ndecreased TLC and RV. In some cases of pulmonary parenchymal restrictive lung disease, the\nincrease in elastic recoil results in an increased FEV1/FVC ratio. The hallmark of obstructive\nlung disease, such as chronic obstructive pulmonary disease (COPD), is a decreased FEV1/FVC\nratio."
+    },
+    "10": {
+        "q_no": "10",
+        "question": "A 78-year-old woman is admitted to the medical intensive care unit (ICU) with multilobar pneumonia. On initial presentation to the emergency department, her initial oxygen saturation was 60% on room air and only increased to 82% on a non-rebreather face mask. She was in marked respiratory distress and intubated in the emergency department. Upon admission to the ICU, she was sedated and paralyzed. The ventilator is set in the assist-control mode with a respiratory rate of 24 breaths/min, tidal volume of 6 mL/kg, FiO2 of 1.0, and positive end-expiratory pressure of 12 cmH2O. An arterial blood gas measurement is performed on these settings; the results are pH of 7.20, PCO2 of 32 mmHg, and PO2 of 54 mmHg. What is the cause of the hypoxemia?",
+        "options": [
+            "Hypoventilation alone",
+            "Hypoventilation and ventilation-perfusion mismatch",
+            "Shunt",
+            "Ventilation-perfusion mismatch"
+        ],
+        "answer": "C",
+        "explanation": "In this patient presenting with multilobar pneumonia,\nhypoxemia is present that does not correct with increasing the concentration of inspired oxygen.\nThe inability to overcome hypoxemia or the lack of a notable increase in partial pressure of\narterial oxygen (PaO2) or oxygen saturation (SaO2) with increasing fraction of inspired oxygen\nphysiologically defines a shunt. A shunt occurs when deoxygenated blood is transported to the\nleft heart and systemic circulation without having the capability of becoming oxygenated. Causes\nof shunt include alveolar collapse (atelectasis), intra-alveolar filling processes, intrapulmonary\nvascular malformations, or structural cardiac disease leading to right-to-left shunt. In this case,\nthe patient has multilobar pneumonia leading to alveoli that are being perfused but unable to\nparticipate in gas exchange because they are filled with pus and inflammatory exudates. Acute\nrespiratory distress syndrome is another common cause of shunt physiology. V/Q mismatch is\nthe most common cause of hypoxemia and results when there are some alveolar units with low\nratios (low ventilation to perfusion) that fail to fully oxygenate perfused blood. When blood is\nreturned to the left heart, the poorly oxygenated blood admixes with blood from normal alveolar\nunits. The resultant hypoxemia is less severe than with shunt and can be corrected with\nincreasing the inspired oxygen concentration. Hypoventilation with or without other causes of\nhypoxemia is not present in this case, as the PCO2 <40 mmHg indicates hyperventilation. The\nacidosis present in this case is of a metabolic rather than a pulmonary source. Because the\npatient is paralyzed, she is unable to increase her respiratory rate above the set rate to\ncompensate for the metabolic acidosis."
+    },
+    "11": {
+        "q_no": "11",
+        "question": "Mrs. Wittstine, a 72-year-old woman, has been complaining of low-grade fever and dyspnea for 2 weeks. She has a 10-year history of scleroderma with involvement of the digits and esophagus. She has a 30-pack-year history of cigarette smoking but quit 8 years ago. On chest radiograph, she has a nodular infiltrate in the right lower lobe. Positron emission tomography (PET)/CT shows the right lower lobe lesion to be 3 cm in diameter with nodular infiltrate characteristics and enhanced fluorodeoxyglucose (FDG) uptake. Which of the following statements about Mrs. Wittstine is most accurate?",
+        "options": [
+            "Additional diagnostic studies are indicated.",
+            "The findings on PET/CT make infection very likely.",
+            "The findings on PET/CT make infection very unlikely.",
+            "The findings on PET/CT make malignancy very likely.",
+            "The findings on PET/CT make malignancy very unlikely."
+        ],
+        "answer": "A",
+        "explanation": "This patient is at risk of infection and malignancy. The findings\non positron emission tomography (PET)/CT are consistent with either diagnosis. Her risk of\ninfection, particularly aspiration pneumonia, is related to her scleroderma-induced esophageal\ndysfunction, history of low-grade fever, and location. Most aspiration pneumonias involve the\nright lower lobe, particularly the superior segment. They may appear as consolidation or nodular\ninfiltrates. Given her history of smoking, she is also at risk of primary lung malignancies.\nFluorodeoxyglucose (FDG)-PET can often differentiate benign from malignant lesions as small as\n1 cm. However, false-positive results are seen in inflammatory conditions, such as pneumonia or\ngranulomatous diseases. False-negative findings can occur in lesions with low metabolic activity\nsuch as carcinoid tumors and bronchioloalveolar cell carcinomas."
+    },
+    "12": {
+        "q_no": "12",
+        "question": "A 65-year-old man is evaluated for progressive dyspnea on exertion and dry cough that have worsened over the course of 6 months. He has not had dyspnea at rest and denies wheezing. He has not experienced chest pain. He has a history of coronary artery disease and atrial fibrillation and previously underwent a coronary artery bypass surgery 12 years previously. His medications include metoprolol, aspirin, warfarin, and enalapril. He previously smoked 1 pack of cigarettes daily for 40 years, quitting 5 years previously. His vital signs are as follows: blood pressure 122/68 mmHg, heart rate 68 bpm, respiratory rate 18 breaths/min, and oxygen saturation 92% on room air. His chest examination demonstrates bibasilar crackles present about one-third of the way up bilaterally. No wheezing is heard. He has an irregularly irregular rhythm with a II/VI holosystolic murmur at the apex. The jugular venous pressure is not elevated. No edema is present, but clubbing is noted. Pulmonary function testing reveals an FEV1 of 65% predicted, FVC of 67% predicted, FEV1/FVC ratio of 74%, TLC of 68% predicted, and diffusion capacity for carbon monoxide (DLCO) of 62% predicted. Which test is most likely to determine the etiology of the patient\u2019s dyspnea?",
+        "options": [
+            "Bronchoscopy with transbronchial lung biopsy",
+            "CT pulmonary angiography",
+            "Echocardiography",
+            "High-resolution CT scan of the chest",
+            "Nuclear medicine stress test"
+        ],
+        "answer": "D",
+        "explanation": "This patient presents with a slowly progressive illness manifested\nby dyspnea on exertion, dry cough, clubbing, and the presence of crackles on examination. In\naddition, the pulmonary function tests demonstrate restrictive lung disease. This scenario is\ncharacteristic of an individual with interstitial lung disease, most commonly idiopathic\npulmonary fibrosis in individuals at this age. A more thorough history should be obtained to\ndetermine if there are any other exposures or symptoms that could identify other causes of\ninterstitial lung disease. The next step in the evaluation of this patient is to perform a high-\nresolution CT scan (HRCT) of the chest. HRCT employs thinner cross-sectional images at\napproximately 1\u20132 mm rather than the usual 7\u201310 mm. This creates more visible details and is\nparticularly useful for recognizing subtle changes of the interstitium and small airways including\ninterstitial lung disease, bronchiolitis, and bronchiectasis. Bronchoscopy with transbronchial\nbiopsy typically does not provide the detail required to adequately diagnose interstitial lung\ndisease. It may be considered if there are specific features on HRCT that would suggest an\nalternative diagnosis. However, in most instances, the pathologic diagnosis of interstitial lung\ndisease requires a surgical lung biopsy to provide definitive diagnosis. This patient\u2019s symptoms\ndo not suggest coronary artery disease or congestive heart failure. Thus, echocardiography and\nnuclear stress testing are not indicated. CT scanning has evolved over the years to offer several\ndifferent techniques that are useful in a variety of circumstances. Standard CT imaging is most\nuseful for the evaluation and staging of lung masses. Helical CT scanning requires only a single\nbreath hold and provides continuous collection of data with improved contrast enhancement and\nthinner collimation. Once the data are obtained, the images can be reconstructed into other\nviews including sagittal and coronal planes as well as three-dimensional volumetric\nrepresentations. A recent use of this technology is employed in the setting of virtual\nbronchoscopy to aid in the planning and performance of bronchoscopy. Multidectector CT scans\ncan obtain multiple slices in a single rotation that are thinner than the usual cuts. Multidetector\nCT scanners are used in the performance of the CT pulmonary angiogram."
+    },
+    "13": {
+        "q_no": "13",
+        "question": "Which of the following is the major risk factor for asthma?",
+        "options": [
+            "Air pollution",
+            "Atopy",
+            "Diet",
+            "Maternal cigarette smoking",
+            "Upper respiratory viral infections"
+        ],
+        "answer": "B",
+        "explanation": "Asthma is a heterogeneous disease with interplay between genetic\nand environmental factors (Table VI-13). Several risk factors that predispose to asthma have\nbeen identified. These should be distinguished from triggers, which are environmental factors\nthat worsen asthma in a patient with established disease. Atopy is the major risk factor for\nasthma, and nonatopic individuals have a very low risk of developing asthma. Patients with\nasthma commonly suffer from other atopic diseases, particularly allergic rhinitis, which may be\nfound in over 80% of asthmatic patients, and atopic dermatitis (eczema). The familial association\nof asthma and a high degree of concordance for asthma in identical twins indicate a genetic\npredisposition to the disease; however, whether or not the genes predisposing to asthma are\nsimilar or in addition to those predisposing to atopy is not yet clear. It now seems likely that\ndifferent genes may also contribute to asthma specifically, and there is increasing evidence that\nthe severity of asthma is also genetically determined. Although viral infections (especially\nrhinovirus) are common triggers of asthma exacerbations, it is uncertain whether they play a\nrole in etiology. There is some association between respiratory syncytial virus infection in\ninfancy and the development of asthma, but the specific pathogenesis is difficult to elucidate\nbecause this infection is very common in children. The role of dietary factors is controversial.\nObservational studies have shown that diets low in antioxidants such as vitamin C and vitamin\nA, magnesium, selenium, and omega-3 polyunsaturated fats (fish oil) or high in sodium and\nomega-6 polyunsaturated fats are associated with an increased risk of asthma. Vitamin D\ndeficiency may also predispose to the development of asthma. However, interventional studies\nwith supplementary diets have not supported an important role for these dietary factors. Obesity\nis also an independent risk factor for asthma, particularly in women, but the mechanisms are\nthus far unknown. Air pollutants, such as sulfur dioxide, ozone, and diesel particulates, may\ntrigger asthma symptoms, but the role of different air pollutants in the etiology of the disease is\nmuch less certain. Most evidence argues against an important role for air pollution because\nasthma is no more prevalent in cities with a high ambient level of traffic pollution than in rural\nareas with low levels of pollution. There is some evidence that maternal smoking is a risk factor\nfor asthma, but it is difficult to dissociate this association from an increased risk of respiratory\ninfections.\nTALBLE VI-13   Risk Factors and Triggers Involved in Asthma"
+    },
+    "14": {
+        "q_no": "14",
+        "question": "A 24-year-old woman is seen for a complaint of shortness of breath and wheezing. She notes the symptoms to be worse when she has exercised outdoors and is around cats. She has had allergic rhinitis in the spring and summer for many years and suffered from eczema as a child. On physical examination, she is noted to have expiratory wheezing. Her pulmonary function tests demonstrate an FEV1 of 2.67 (79% predicted), FVC of 3.81 L (97% predicted), and an FEV1/FVC ratio of 70% (86% predicted). After administration of albuterol, the FEV1 increases to 3.0 L (12.4%). Which of the following statements regarding the patient\u2019s disease process is true?",
+        "options": [
+            "Confirmation of the diagnosis will require methacholine challenge testing.",
+            "Mortality due to the disease has been increasing over the past decade.",
+            "The most common risk factor in individuals with the disorder is genetic predisposition.",
+            "The prevalence of the disorder has not changed in the past several decades.",
+            "The severity of the disease does not vary significantly within a given patient with the disease."
+        ],
+        "answer": "E",
+        "explanation": "The patient in this clinical scenario presents with symptoms\ntypical of asthma, including shortness of breath and wheezing. She also manifests evidence of\natopy, the most common risk factor for developing asthma, with sensitivity to outdoor allergens\nand cats. In addition, the patient has a history of allergic rhinitis and eczema, both of which are\ncommonly seen in individuals with asthma. Indeed, over 80% of asthma patients have a\nconcomitant diagnosis of allergic rhinitis. Atopy is present in 40%\u201350% of the population of\naffluent countries, but only a small proportion of these individuals develop asthma. Many studies\nhave shown a genetic predisposition via family history and recent genome-wide screens, but no\nsingle genetic profile has shown high positive predictive value. Overall, the prevalence of asthma\nin developed countries has increased over the past 30 years, but recently has leveled off, with a\nprevalence of about 15% in children and 10%\u201312% in adults. Asthma deaths remain rare and\nhave decreased in recent decades. In the 1960s, asthma deaths did increase with an overuse of\nshort-acting \u03b2-agonist medications. However, since the introduction of inhaled corticosteroids as\nmaintenance therapy, deaths have declined. Risk factors for fatal asthma include frequent use of\nrescue inhalers, lack of therapy with inhaled corticosteroids, and prior hospitalizations for\nasthma. Interestingly, the overall disease severity does not vary significantly within a given\npatient over the course of the disease. Individuals who have mild asthma typically continue to\nhave mild asthma, whereas those with severe disease present with severe disease. Diagnosis of\nasthma can be made by demonstrating airflow obstruction with significant reversibility on\nbronchodilator administration. In this case, the FEV1/FVC ratio is decreased to 70%, which is\nlow. In addition, the FEV1 increases by 12.4% and 230 mL. This meets the criteria for\nbronchodilator reversibility of increases of at least 200 mL and 12%. Bronchoprovocation testing\nwith methacholine can be considered in individuals who have suspected asthma but have normal\npulmonary function tests."
+    },
+    "15": {
+        "q_no": "15",
+        "question": "A 38-year-old woman is brought to the emergency department for status asthmaticus. She rapidly deteriorates and dies of her disease. All of the following pathologic findings would likely be seen in this individual EXCEPT:",
+        "options": [
+            "Infiltration of the airway mucosa with eosinophils and activated T lymphocytes",
+            "Infiltration of the alveolar spaces with eosinophils and neutrophils",
+            "Occlusion of the airway lumen by mucous plugs",
+            "Thickening and edema of the airway wall",
+            "Thickening of the basement membrane of the airways with subepithelial collagen deposition"
+        ],
+        "answer": "B",
+        "explanation": "The pathology of asthma has largely been determined by\nexamining bronchial biopsies of patients with asthma as well as the lungs of individuals who die\nfrom asthma. These pathologic changes are centered around the airways with sparing of the\nalveolar spaces. The airways are infiltrated by eosinophils, activated T lymphocytes, and\nactivated mucosal mast cells. However, the degree of inflammation does not correlate with the\nseverity of asthma. Another common finding in all asthmatics and individuals with eosinophilic\nbronchitis is thickening of the basement membrane due to collagen deposition in the\nsubepithelium. The airway smooth muscle is hypertrophied as well. Overall, this leads to\nthickening of the airway wall, which may also exhibit edematous fluid, particularly in those with\nfatal asthma. In cases of fatal asthma, it is also common to find multiple airways that are\noccluded by mucus plugs. However, the disease is limited to the airways, and infiltration of the\nalveolar spaces by inflammatory cells is not seen."
+    },
+    "16": {
+        "q_no": "16",
+        "question": "Which of the following patients is appropriately diagnosed with asthma?",
+        "options": [
+            "A 24-year-old woman treated with inhaled corticosteroids for cough and wheezing that has persisted for 6 weeks following a viral upper respiratory infection",
+            "A 26-year-old man who coughs and occasionally wheezes following exercise in cold weather",
+            "A 34-year-old woman evaluated for chronic cough with an FEV1/FVC ratio of 68% with an FEV1 that increases from 1.68 L (52% predicted) to 1.98 L (61% predicted) after albuterol (18% change in FEV1)",
+            "A 44-year-old man who works as a technician caring for the mice in a medical research laboratory and complains of wheezing, shortness of breath, and cough that are most severe at the end of the week",
+            "A 60-year-old man who has smoked two packs of cigarettes per day for 40 years who has dyspnea and cough and who has airway hyperreactivity in response to methacholine"
+        ],
+        "answer": "C",
+        "explanation": "The preferred method for diagnosing asthma is demonstration of\nairflow obstruction on spirometry that is at least partially reversible. This is demonstrated in\noption C, with a decreased FEV1/FVC ratio, decreased FEV1, and a significant increase in FEV1\nfollowing administration of albuterol. For an individual to be considered responsive to a\nbronchodilator, the individual should experience an increase in either FEV1 or FVC of at least\n200 mL and 12%. Option A describes someone with postviral cough syndrome, which can persist\nfor several weeks following a viral upper respiratory infection. Option B describes someone with\nexercise-induced bronchoconstriction (EIB), which, in absence of other symptoms to suggest\nasthma, should not be diagnosed as asthma. Isolated EIB lacks the characteristic airway\ninflammation of asthma and does not progress to asthma. Although it is estimated that 80%\u201390%\nof individuals with asthma experience EIB, many individuals who have EIB do not also have\nasthma. EIB is caused by hyperventilation with inhalation of cool dry air that leads to\nbronchospasm. Option D describes someone with occupational asthma that has occurred after\nworking with animals in the medical laboratory for many years. Symptoms that are\ncharacteristic of occupational asthma are symptoms only while at work that improve on the\nweekends and during holidays. Option D describes someone with COPD. In COPD, 25%\u201348% of\nindividuals can demonstrate bronchial hyperresponsive in response to methacholine."
+    },
+    "17": {
+        "q_no": "17",
+        "question": "A 24-year-old woman was diagnosed with asthma 4 months ago and was treated with inhaled albuterol as needed. Since her last visit, she feels generally well and typically requires using her inhaler approximately four to seven times a week when around pollen or cats or when exercising in cold air. The inhaled albuterol generally helps, and she only requires a repeat round of inhalations approximately two times a week. She is on no other medications and is a nonsmoker, and her only pet is a goldfish named Puffer. Based on this information, you advise which of the following?",
+        "options": [
+            "Add inhaled beclomethasone",
+            "Add inhaled salmeterol twice a day",
+            "Add inhaled tiotropium",
+            "Continue present therapy",
+            "Think of a new name for the goldfish"
+        ],
+        "answer": "A",
+        "explanation": "The main drugs for asthma can be divided into bronchodilators,\nwhich give rapid relief of symptoms mainly through relaxation of airway smooth muscle, and\ncontrollers, which inhibit the underlying inflammatory process (Figure VI-17). For patients with\nmild, intermittent asthma, a short-acting \u03b22-agonist is all that is required. However, use of a\nreliever medication more than twice a week indicates the need for regular controller therapy.\nThis patient is using her reliever medication frequently; therefore, a controller should be added\nto her regimen. The treatment of choice for all patients is an inhaled corticosteroid given twice\ndaily. It is usual to start with an intermediate dose (e.g., 200 \u03bcg twice a day of beclomethasone\ndipropionate or equivalent) and to decrease the dose if symptoms are controlled after 3 months.\nIf symptoms are not controlled, a long-acting \u03b2-agonist (LABA) should be added, which is most\nconveniently given by switching to a combination inhaler. The dose of controller should be\nadjusted accordingly, as judged by the need for a rescue inhaler. Muscarinic receptor antagonists\nsuch as ipratropium bromide prevent cholinergic nerve-induced bronchoconstriction and mucus\nsecretion. They are less effective than \u03b22-agonists in asthma therapy because they inhibit only\nthe cholinergic reflex component of bronchoconstriction, whereas \u03b22-agonists prevent all\nbronchoconstrictor mechanisms. Anticholinergics, including tiotropium, may be used as\nadditional bronchodilators in patients with asthma that is not controlled by inhaled\ncorticosteroid and LABA combinations. Low doses of theophylline or an antileukotriene may also\nbe considered as an add-on therapy, but these are less effective than LABA. If asthma is not\ncontrolled despite the maximal recommended dose of inhaled therapy, it is important to check\ncompliance and inhaler technique. In these patients, maintenance treatment with an oral\ncorticosteroid may be needed, and the lowest dose that maintains control should be used.\nFIGURE VI-17 Stepwise approach to asthma therapy according to the severity of asthma and ability to\ncontrol symptoms. ICS, inhaled corticosteroids; LABA, long-acting \u03b22-agonist; OCS, oral corticosteroid."
+    },
+    "18": {
+        "q_no": "18",
+        "question": "A 28-year-old woman with longstanding mild persistent asthma comes to see you because she just found out that she is pregnant. Her only medications are inhaled beclomethasone twice a day and albuterol as needed. She typically uses her albuterol less than twice per week. She wants to know what to expect regarding her asthma severity and whether any medication changes should be made at this time. Which of the following statements is correct?",
+        "options": [
+            "She should continue her current therapy and follow symptoms.",
+            "She should switch from inhaled albuterol as needed to inhaled tiotropium as needed.",
+            "She should switch from inhaled beclomethasone to a inhaled salmeterol.",
+            "There is a greater than 70% chance that her asthma symptoms will become less severe during pregnancy.",
+            "There is a greater than 70% chance that her asthma symptoms will become more severe during pregnancy."
+        ],
+        "answer": "A",
+        "explanation": "Approximately one-third of asthmatic patients who are pregnant\nimprove during the course of a pregnancy, one-third deteriorate, and one-third are unchanged. It\nis important to maintain good control of asthma because poor control may have adverse effects\non fetal development. Compliance may be a problem because there is often concern about the\neffects of antiasthma medications on fetal development. The drugs that have been used for many\nyears in asthma therapy have now been shown to be safe and without teratogenic potential.\nThese drugs include short-acting \u03b2-agonists (e.g., albuterol), inhaled corticosteroids (e.g.,\nbeclomethasone), and theophylline; there is less safety information about newer classes of drugs\nsuch as LABAs (e.g., salmeterol), antileukotrienes, and anti\u2013immunoglobulin (Ig) E. If an oral\ncorticosteroid is needed, it is better to use prednisone rather than prednisolone because it cannot\nbe converted to the active prednisolone by the fetal liver, thus protecting the fetus from systemic\neffects of the corticosteroid. There is no contraindication to breast-feeding when patients are\nusing these drugs."
+    },
+    "19": {
+        "q_no": "19",
+        "question": "A 38-year-old woman is admitted to the medical ICU with acute hypoxemic respiratory failure. She was well and healthy until 4 days prior when she abruptly began to feel ill with fevers, chills, bilateral pleuritic chest pain, and worsening shortness of breath. She has no significant past medical history but has suffered the recent death of her father following a car accident. In coping with his loss, she began smoking cigarettes again after a 15-year period of abstinence. She has been smoking up to two packs of tobacco daily. After she began to feel ill, she started taking acetaminophen and pseudoephedrine, but otherwise takes no medications. Upon arrival in the emergency department, her oxygen saturation was 78% on room air. On a non-rebreather mask, the oxygen saturation increased to 92%. The vital signs are as follows: temperature 38.7\u00b0C (101.7\u00b0), heart rate 122 bpm, respiratory rate 28 breaths/min, and blood pressure 132/82 mmHg. She appears in moderate respiratory distress. There are bilateral diffuse crackles. The cardiovascular examination shows a regular tachycardia without murmur. The jugular venous pressure is not elevated, and no edema is present. The abdomen is soft and not tender. No hepatosplenomegaly is present. Extremity and neurology examinations are normal. Chest radiograph shows diffuse bilateral infiltrates. Her echocardiogram shows normal left heart systolic and diastolic function. She is treated with ceftriaxone 1 g intravenously (IV) daily and azithromycin 500 mg IV daily. Over the course of the first 24 hours, the patient\u2019s clinical condition continues to deteriorate. She remains febrile, and she requires intubation and mechanical ventilation. The patient\u2019s ventilator is set on assist control with a rate of 28/min, tidal volume of 330 mL, fraction of inspired oxygen (FiO2) of 0.8, and positive end- expiratory pressure (PEEP) of 12 cmH2O. On these settings, her arterial blood gas values are pH 7.28, PaCO2 68 mmHg, and PaO2 62 mmHg. A bronchoalveolar lavage is performed. The cell count shows 58% neutrophils, 12% lymphocytes, and 30% eosinophils. What is the best approach to the treatment of the patient at this time?",
+        "options": [
+            "Consult thoracic surgery for surgical lung biopsy.",
+            "Continue current IV antibiotic regimen while awaiting culture data.",
+            "Initiate methylprednisolone 60 mg IV every 6 hours.",
+            "Initiate oseltamivir 75 mg twice a day.",
+            "Initiate therapy with trimethoprim/sulfamethoxazole IV with prednisone 40 mg twice a day."
+        ],
+        "answer": "C",
+        "explanation": "Acute eosinophilic pneumonia is an acute respiratory syndrome\nthat often presents with a clinical picture that is difficult to differentiate from acute lung injury\nor acute respiratory distress syndrome (ARDS). Clinically, patients present with a prodrome of\nfevers, malaise, myalgias, night sweats, dyspnea, cough, and pleuritic chest pain. Physical\nexamination may demonstrate high fevers, bibasilar rales, and rhonchi. The clinical course is\nfrequently marked by rapid clinical progression to hypoxemic respiratory failure that requires\nmechanical ventilation. Chest radiography shows bilateral pulmonary infiltrates. This clinical\npicture clearly overlaps with infectious causes of respiratory failure and ARDS. However, the\nhallmark of acute eosinophilic pneumonia is the finding of >25% eosinophils in the\nbronchoalveolar lavage fluid. Acute eosinophilic pneumonia most frequently presents in\nindividuals between the ages of 20 and 40 years and is more common in men. There is no\nepidemiologic link between the diagnosis and a prior history of asthma. However, several case\nreports have linked development of acute eosinophilic pneumonia to recent initiation of cigarette\nsmoking or exposure to other environmental stimuli including dust. A bronchoalveolar lavage\nshowing eosinophilia >25% is sufficient to establish the diagnosis of acute eosinophilic\npneumonia. A surgical lung biopsy is not necessary. If performed, it would demonstrate\neosinophilic infiltration with acute and organizing diffuse alveolar damage. Peripheral\neosinophilia is not present acutely at disease onset, but often becomes present between day 7\nand day 30. Other organ failure is not present. The disease has a high degree of corticosteroid\nresponsiveness and a good prognosis. Initiation of therapy with corticosteroids should not be\ndelayed. Although there is no recommended dose of steroids for therapy, patients are often\ninitiated on therapy with intravenous glucocorticoids with rapid improvement in the hypoxemic\nrespiratory failure. The expected clinical course is complete resolution of clinical and\nradiographic features of the disease over several weeks without relapse upon tapering of steroids."
+    },
+    "20": {
+        "q_no": "20",
+        "question": "A 34-year-old man is referred to clinic for evaluation of severe persistent asthma. He was diagnosed with asthma in his teenage years. At that time, he primarily noticed symptoms when he was running cross country track outdoors. He generally has been an active individual, but in the past 10 years, his asthma has become increasingly hard to control. He has been hospitalized three times for asthma exacerbations in the past 3 years. He has had to stop running and has gained 60 lb due to being on chronic oral prednisone. His current medical regimen is fluticasone/salmeterol 500/50 \u03bcg twice a day, tiotropium 18 \u03bcg daily, montelukast 10 mg daily, esomeprazole 40 mg daily, fluticasone nasal spray daily, and prednisone 10 mg daily. He uses his rescue albuterol nebulizer or metered-dose inhaler (MDI) about four times daily and awakens at night at least three times weekly. He has a chronic cough that brings up brownish mucous plugs. On examination, he has enlarged nasal turbinates but no polyps. Diffuse bilateral wheezing is heard. No crackles are present. His chest x-ray shows hyperinflation with an area of upper lung zone infiltrate in the right upper lobe. Three months ago, he had an area of atelectasis with mucous plugging in the left lower lobe. His peripheral eosinophil count is 750/\u03bcL. Which of the following tests is indicated next in the evaluation and treatment of this patient?",
+        "options": [
+            "Aspirin desensitization",
+            "Chest CT",
+            "Nasal nitric oxide testing",
+            "Serum immunoglobulin (Ig) E level",
+            "Sweat chloride testing"
+        ],
+        "answer": "D",
+        "explanation": "Allergic bronchopulmonary aspergillosis (ABPA) is an\neosinophilic pulmonary disorder that occurs in response to allergic sensitization to antigens from\nAspergillus fungi. The classic presentation of an individual with ABPA is someone with an\nasthmatic phenotype that becomes increasingly difficult to control and may be steroid\ndependent. These individuals often complain of chronic cough with expectoration of thick brown\nmucus plugs. In addition, individuals with cystic fibrosis have an increased incidence of ABPA.\nABPA can be difficult to diagnose, and many individuals have had prolonged symptoms prior to\ndiagnosis. Initial diagnostic testing should include demonstration of elevated circulating IgE level\n(option D), typically >1000 IU/mL. Peripheral eosinophilia is also commonly seen. If the IgE\nlevel is elevated and suggestive of IgE, one must demonstrate sensitivity to Aspergillus antigens.\nThis can be achieved by skin test reactivity, positive serum precipitins for Aspergillus, and/or\ndirect measurement of circulating specific IgG and IgE to Aspergillus. Testing for specific IgE in\nthe serum is most frequent accomplished via radioallergosorbent (RAST) testing. Chest CT\n(option B) may show central bronchiectasis as the classic manifestation of ABPA but is present in\nonly about 30% of individuals. Other findings in ABPA including patchy infiltrates and mucus\nimpaction. Aspirin desensitization (option A) therapy is a treatment for aspirin-sensitive asthma\nthat characteristically presents with the Samter triad of asthma, nasal polyposis, and aspirin\nand/or nonsteroidal anti-inflammatory drug sensitivity. Nasal nitric oxide testing (option C) is a\ndiagnostic test used for identification of primary ciliary dyskinesia. Sweat chloride testing\n(option E) is used for diagnosis of cystic fibrosis."
+    },
+    "21": {
+        "q_no": "21",
+        "question": "A 34-year-old woman seeks evaluation for a complaint of cough and dyspnea on exertion that has gradually worsened over 3 months. The patient has no past history of pulmonary complaints and has never had asthma. She started working in a pet store approximately 6 months ago. Her duties there include cleaning the reptile and bird cages. She reports occasional low-grade fevers but has had no wheezing. The cough is dry and nonproductive. Before 3 months ago, the patient had no limitation of exercise tolerance, but now she reports that she gets dyspneic climbing two flights of stairs. On physical examination, the patient appears well. She has an oxygen saturation of 95% on room air at rest but desaturates to 89% with ambulation. Temperature is 37.7\u00b0C (99.8\u00b0F). The pulmonary examination is unremarkable. No clubbing or cyanosis is present. The patient has a normal chest radiogram. A high-resolution chest CT shows diffuse ground-glass infiltrates in the lower lobes with the presence of centrilobular nodules. A transbronchial biopsy shows an interstitial alveolar infiltrate of plasma cells, lymphocytes, and occasional eosinophils. There are also several loose noncaseating granulomas. All cultures are negative for bacterial, viral, and fungal pathogens. What is the diagnosis?",
+        "options": [
+            "Aspergillosis",
+            "Hypersensitivity pneumonitis",
+            "Nonspecific interstitial pneumonitis related to collagen vascular disease",
+            "Psittacosis",
+            "Sarcoidosis"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "22": {
+        "q_no": "22",
+        "question": "What treatment do you recommend for the patient in Question VI-21?",
+        "options": [
+            "Amphotericin",
+            "Doxycycline",
+            "Glucocorticoids",
+            "Glucocorticoids plus azathioprine",
+            "Glucocorticoids plus removal of antigen"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "23": {
+        "q_no": "23",
+        "question": "A 75-year-old man is evaluated for a new left-sided pleural effusion and shortness of breath. He worked as an insulation worker at a shipyard for more than 30 years and did not wear protective respiratory equipment, retiring at the age of 60. He has a 50 pack-year history of tobacco with known moderate chronic obstructive pulmonary disease (COPD; FEV1 55% predicted) and a history of myocardial infarction 10 years previously. His current medications include aspirin, atenolol, benazepril, tiotropium, and albuterol. His physical examination is consistent with a left-sided effusion with dullness to percussion and decreased breath sounds occurring over half of the hemithorax. On chest x-ray, there is a moderate left-sided pleural effusion with bilateral pleural calcifications and left apical pleural thickening. No lung mass is seen. A chest CT confirms the findings on chest x-ray and also fails to show a mass. There is compressive atelectasis of the left lower lobe. A thoracentesis is performed demonstrating an exudative effusion with 65% lymphocytes, 25% mesothelial cells, and 10% neutrophils. Cytology does not demonstrate any malignancy. Which of the following statements regarding the most likely cause of the patient\u2019s effusion or causative condition is true?",
+        "options": [
+            "Cigarette smoking increases the likelihood of developing the condition.",
+            "Death in this disease is usually related to diffuse metastatic disease.",
+            "Exposure to the causative agent can be as brief as 1\u20132 years, and latency to expression of disease may be as great as 40 years.",
+            "Repeated pleural fluid cytology will most likely lead to a definitive diagnosis.",
+            "Therapy with a combination of surgical resection with adjuvant chemotherapy significantly improves long-term survival."
+        ],
+        "answer": "C",
+        "explanation": "Mesothelioma is a rare malignancy of the pleura and peritoneum,\nwith almost all cases associated with asbestos exposure. It is notable that the exposure to\nasbestos could seem almost minimal but still confer significant risk. Exposures of less than 1\u20132\nyears or that have occurred more than 40 years in the past have been demonstrated to confer\nincreased risk of mesothelioma. Although tobacco smoking in association with asbestos exposure\nincreases the risk of lung cancer several-fold, there is no additive or exponential risk of\nmesothelioma in those who smoke. Mesothelioma most often presents with a persistent unilateral\npleural effusion that may mask the underlying pleural tumor. However, the pleura may be\ndiffusely thickened. Typically, large pleural effusions would cause expansion of the hemithorax\nwith mediastinal shift away from the side of the pleural effusion. However, even with large\neffusions, no mediastinal shift is seen on chest radiograph because the pleural thickening\nassociated with the disease leads to a fixed chest cavity size and thoracic restriction. The most\ndifficult diagnostic dilemma in these patients is to differentiate mesothelioma from metastatic\nlung carcinoma (usually adenocarcinoma) as many patients are at risk for both tumors, and lung\ncancer is by far the most common malignancy seen in individuals with asbestos exposure and\ncigarette smoking. Pleural fluid cytology is not adequate for the diagnosis of most individuals\nwith mesothelioma, with samples being positive for the disease in less than 50% of individuals.\nMost often, video-assisted thoracoscopy is required to directly visualize the pleural and direct\nbiopsy sampling. Unfortunately, there is no proven effective therapy for mesothelioma, and most\npatients die from local extension of the disease."
+    },
+    "24": {
+        "q_no": "24",
+        "question": "Chronic silicosis is related to an increased risk of which of the following conditions?",
+        "options": [
+            "Infection with invasive Aspergillus",
+            "Infection with Mycobacterium tuberculosis",
+            "Lung cancer",
+            "Rheumatoid arthritis",
+            "All of the above"
+        ],
+        "answer": "E",
+        "explanation": "Silicosis results from the inhalation of free silica (or crystalline\nquartz) and is associated with mining, stonecutting, foundry work, and quarrying. The chronic\nform of silicosis has been associated with an increased risk of a variety of diseases. Silica is\nknown to be cytotoxic to alveolar macrophages and, thus, places patients at increased risk of\npulmonary infections that rely on cellular immunity, including Mycobacterium tuberculosis,\natypical mycobacteria, and fungus. In addition, silicosis is associated with the development of\nconnective tissue disorders including rheumatoid arthritis with rheumatoid nodules (Caplan\nsyndrome) and scleroderma. Finally, silica is listed as a probable lung carcinogen."
+    },
+    "25": {
+        "q_no": "25",
+        "question": "All of the following occupational lung diseases are correctly matched with its exposure EXCEPT:",
+        "options": [
+            "Berylliosis\u2014High-technology electronics",
+            "Byssinosis\u2014Cotton milling",
+            "Farmer\u2019s lung\u2014Moldy hay",
+            "Progressive massive fibrosis\u2014Shipyard workers",
+            "Metal fume fever\u2014Welding"
+        ],
+        "answer": "D",
+        "explanation": "Occupational lung diseases have been associated with a wide\nvariety of organic and inorganic exposures in the workplace and clinically can range from\nprimarily an airway disease to progressive pulmonary fibrosis. When evaluating a patient for a\nnew pulmonary diagnosis, it is important to perform a detailed occupational history to determine\nif there is a possibility that the patient\u2019s profession may be causing or perpetuating the disease\nprocess. Specific clinical syndromes are associated with well-defined clinical exposures. The\ninorganic dusts include asbestos, silica, coal dust, beryllium, and a variety of other metals.\nAsbestos and silica are among the most common exposures. Asbestos exposure is associated with\nmining, construction, and ship repair. In areas near where asbestos mining has occurred, the\ngeneral population also has shown an increased risk of asbestos-related lung disease. Clinically,\nasbestos exposure is associated with a range of clinical syndromes including asbestosis\n(interstitial lung disease), benign pleural plaques and pleural effusions, lung cancer, and\nmesothelioma. Silica exposure is common among miners, stone masons, and individuals involved\nin sand blasting or quarrying. A variety of clinical syndrome can occur with silica exposure, the\nmost severe being progressive massive fibrosis with mass-like upper lobe consolidating nodules\n(>1 cm). Coal mining is also associated with a clinical picture similar to silicosis and progressive\nmassive fibrosis. Beryllium is a lightweight metal that is highly conductive and is used in high-\ntech industries. The classic disease associated with beryllium exposure is a chronic\ngranulomatous disease similar in clinical appearance to sarcoidosis. Other metals can produce\nany number of clinical syndromes. Welders of galvanized metal who use zinc oxide are\nsusceptible to metal fume fever and present with an acute self-limited influenza-like illness.\n    Organic dusts that can lead to occupational lung disease include cotton dust, grain dust, toxic\nchemicals, and other agricultural dusts, among many others. Cotton milling and processing can\npresent with a clinical syndrome known as byssinosis, which has asthma-like features. Many of\nthe organic dust exposures also lead to hypersensitivity pneumonitis. Examples of\nhypersensitivity pneumonitis syndromes related to occupational exposures include farmer\u2019s lung,\npigeon breeder\u2019s lung, and malt worker\u2019s lung. Typically, a specific antigen can be identified as\nthe culprit for the development of hypersensitivity pneumonitis. In farmer\u2019s lung, the most\ncommon cause is thermophilic Actinomyces species found in moldy hay."
+    },
+    "26": {
+        "q_no": "26",
+        "question": "A 53-year-old man is seen in the emergency department with sudden-onset fever, chills, malaise, and shortness of breath but no wheezing. He has no significant past medical history and is a farmer. Of note, he worked earlier in the day stacking hay. Posteroanterior and lateral chest radiography shows diffuse bilateral alveolar infiltrates. Which organism is most likely to be responsible for this presentation?",
+        "options": [
+            "Nocardia asteroides",
+            "Histoplasma capsulatum",
+            "Cryptococcus neoformans",
+            "Actinomyces species",
+            "Aspergillus fumigatus"
+        ],
+        "answer": "D",
+        "explanation": "The patient presents with acute-onset pulmonary symptoms,\nincluding wheezing, with no other medical problems. He is a farmer and was recently handling\nhay. The clinical presentation and radiogram are consistent with farmer\u2019s lung, a hypersensitivity\npneumonitis caused by Actinomyces. In this disorder, moldy hay with spores of actinomycetes are\ninhaled and produce a hypersensitivity pneumonitis. The disorder is seen most commonly in\nrainy periods, when the spores multiply. Patients present generally 4\u20138 hours after exposure with\nfever, cough, and shortness of breath without wheezing. Chest radiograms often show patchy\nbilateral, often upper lobe infiltrates. The exposure history will differentiate this disorder from\nother types of pneumonia."
+    },
+    "27": {
+        "q_no": "27",
+        "question": "A 36-year-old woman is brought into intensive care after a house fire. She is obtunded but did not suffer any major burns. She is being treated for smoke inhalation. Her initial carboxyhemoglobin concentration is 25%. She is treated with 100% oxygen but remains obtunded. She subsequently develops generalized seizures. Her blood pressure rapidly declines to 60/40 mmHg. The heart rate is 150 bpm. The SaO2 reading is 98%. There is a ruddy appearance to the patient\u2019s complexion, and a bitter almond odor is present. There is soot around the patient\u2019s nose and mouth. The pupils are dilated, and the skin is diaphoretic. Which of the following tests will yield the diagnosis?",
+        "options": [
+            "Ammonia concentration",
+            "Blood lactate level",
+            "Carboxyhemoglobin level",
+            "Red blood cell cyanide concentration",
+            "Methemoglobin level"
+        ],
+        "answer": "D",
+        "explanation": "Firefighters and fire victims are at risk of smoke inhalation\ninjury, an important cause of acute cardiorespiratory failure. In addition to the risk of carbon\nmonoxide poisoning, these individuals are also at risk from toxic inhalational injury from fumes\nreleased from the burning of synthetic materials. This patient has a carbon monoxide level that\nrequires treatment with 100% oxygen but would not be expected to lead to significant\ncardiorespiratory collapse. Recently, cyanide toxicity has been recognized as a significant cause\nof morbidity and mortality following industrial and house fires. Cyanide toxicity can present\nwith rapid development of neurologic and cardiorespiratory collapse. The neurologic symptoms\ncan range from mild headache to confusion, generalized seizures, and coma. Hypotension with\nsignificant lactic acidosis is prominent. Often an elevated lactate level leads to the suspicion of\nconcomitant cyanide toxicity in an individual with smoke inhalation injury. However to\ndefinitely make the diagnosis, one would want to assess the red blood cell cyanide concentration."
+    },
+    "28": {
+        "q_no": "28",
+        "question": "A 51-year-old woman presents complaining of a daily cough productive of thick green sputum. The cough is worse when she first wakes in the morning. At this time, there are occasionally streaks of blood in the sputum. Her cough began about 7 years ago and has been progressively worse with production of increasing volume of sputum. She currently estimates that she brings up about half a cup of sputum daily. She reports frequently requiring antibiotics for both lower respiratory tract infections as well as sinus infections. Bilateral coarse crackles are heard in the lower lung zones. No clubbing is present. Pulmonary function tests demonstrate an FEV1 of 1.68 L (53.3% predicted), FVC of 3.00 L (75% predicted), and FEV1/FVC ratio of 56%. A sputum culture grows Pseudomonas aeruginosa. What test would you perform next in the evaluation of this patient?",
+        "options": [
+            "Barium swallow study",
+            "Bronchoscopy",
+            "Chest radiography",
+            "High-resolution chest CT",
+            "Sweat chloride testing"
+        ],
+        "answer": "D",
+        "explanation": "Bronchiectasis is a common disorder that refers to an irreversible\ndilation of the airways that affects the lung in a focal or diffuse pattern. Historically,\nbronchiectasis has been characterized pathologically as cylindrical, varicose, or cystic in nature.\nThere are numerous causes of bronchiectasis including infectious, inherited, immunologic, and\nidiopathic causes. The most common cause of bronchiectasis worldwide is postinfectious\nfollowing tuberculosis infection. However, in developed countries, other causes are more\ncommon. The most common cause in developed countries is cystic fibrosis (CF); CF patients\ndevelop clinically significant bronchiectasis in late adolescence or early adulthood. Most children\nwith CF are diagnosed currently through newborn screening programs, which were introduced in\nall states within the past decade. However, adults may continue to present with milder forms of\nthe disease, so clinicians should continue to have a high degree of clinical suspicion for CF when\nan individual presents with a new diagnosis of bronchiectasis. Epidemiologically, individuals\npresenting with CF bronchiectasis will typically be younger than individuals with non-CF\nbronchiectasis. In contrast, non-CF bronchiectasis more commonly affects nonsmoking women\nolder than 50 years. The clinical presentation of bronchiectasis is a daily cough productive of\nthick tenacious sputum. Physical examination demonstrates both crackles and wheezing on\nexamination. In CF, the disease findings are more predominant in the upper lobes, whereas in\ncertain other causes (chronic aspiration, immunoglobulin deficiency), there is a lower lobe\npredominance. Clubbing is variably present and generally only seen in more advance disease.\nThe diagnosis of bronchiectasis is determined by the presence of the disease on a chest CT\nimaging. Chest radiography is not sensitive for the diagnosis of bronchiectasis, particularly early\nin the disease process. It may show \u201ctram tracks\u201d indicating dilated airway. Chest HRCT is the\ndiagnostic modality of choice for confirming diagnosis. Findings include demonstration of\ndilated, nontapering airways that may be filled with mucus. In addition, signet-ring signs may\nalso be seen where the airway is greater than 1.5 times the size of the adjacent blood vessel.\nOther findings include bronchial wall thickening, inspissated secretion with a \u201ctree-in-bud\u201d\npattern, and cysts emanating from the bronchial wall. Once bronchiectasis has been confirmed\non CT imaging, other tests may be indicated in this patient to determine the etiology of the\nbronchiectasis. Testing should be guided by the history and physical examination and may\ninclude sputum culture for mycobacteria and fungal organisms, immunoglobulin levels,\nautoimmune panel, sweat chloride testing, nasal nitric oxide testing (for primary ciliary\ndyskinesia), bronchoscopy, and/or tests of swallow function. Despite thorough evaluation, in as\nmany as 25%\u201350% of individuals referred for workup of bronchiectasis, no specific cause is ever\nidentified."
+    },
+    "29": {
+        "q_no": "29",
+        "question": "A 62-year-old woman is diagnosed with bronchiectasis following treatment for Mycobacterium avium-intracellulare, which was confirmed on two positive expectorated sputum cultures. She is treated for 24 months with clarithromycin, ethambutol, and rifampin, and her cultures have been negative for mycobacteria for the past 12 months. However, she continues to produce sputum on a daily basis, and her CT shows focal bronchiectasis in the right middle lobe. Which of the following is the best treatment for the patient at the current time?",
+        "options": [
+            "Consult thoracic surgery for right middle lobectomy.",
+            "Continue treatment with clarithromycin, ethambutol, and rifampin.",
+            "Initiate airway clearance with oscillating positive expiratory pressure flutter valve.",
+            "Initiate treatment with dornase (DNase).",
+            "Initiate treatment with prednisone 20 mg daily."
+        ],
+        "answer": "C",
+        "explanation": "Cystic fibrosis is one of the\nmost common life-shortening autosomal recessive disorders, affecting about 1 in 3300 live births\nin Caucasians. It is much less common in African Americans (~1 in 15,000) and Asians (~1 in\n33,000). The disease is caused by an inherited defect in the cystic fibrosis transmembrane\nregulator (CFTR) protein, a large ion channel in the cell membrane responsible for chloride ion\ntransport. In the absence of a functional CFTR protein, individuals with CF have a variety of\ndisease manifestations related to impaired exocrine function. The primary disease manifestations\nare respiratory and pancreatic in nature with chronic sinopulmonary infections, impaired\nexocrine pancreatic function, and poor nutrition. The gene that encodes CFTR is located on\nchromosome 7, and more than 2000 mutations have been described. In understanding the\ngenetics, it is best to categorize them according to the effect on CFTR function. Class I mutations\n(G542X, 621+1G>T) lead to absence of synthesis, most frequently through the presence of an\nabnormal stop codon. Class II mutations (F508del, the most common mutation) cause defective\nprotein synthesis and premature degradation. Class III mutations (G551D) are gating mutations,\nin which the CFTR protein is present at the cell membrane but fails to function properly. Type IV\nmutations (R117H, R117C) are conductance mutations with impaired conductance through the\nion channel pore, and Type V mutations are splice mutations that lead to a diminished number\nof CFTR transcripts being produced due to a promoter or splicing abnormality. One of the most\nexciting breakthroughs in the treatment of CF has been in the area of CFTR modulations. High-\nthroughput screening identified small-molecule compounds that act as potentiators or correctors\nof CFTR and improve CFTR function. The first of these compounds to be identified was ivacaftor.\nThis drug works as a potentiator and has been approved for individuals with gating mutations,\nthe most common of which is G551D. Approximately 5% of the CF population has a gating\nmutation. In clinical trials, individuals with a G551D mutation treated with ivacaftor\nexperienced an absolute improvement in lung function (FEV1 percent predicted) of 10.6% and a\ndecline in sweat chloride values to normal levels. This was sustained over the 24 weeks of the\nclinical trial. Long-term data are now available that demonstrates persistent effects of ivacaftor\nup to 144 weeks (McKone EF et al: Lancet Respir Med 2014;2(11):902\u2013910). Individuals on\nivacaftor also experience an improvement in nutritional status and growth in younger\nindividuals as well. Ivacaftor is now being combined with corrector compounds such as\nlumacaftor to attempt to correct the F508del processing abnormality. The combination of\nivacaftor and lumacaftor was approved by the US Food and Drug Administration (FDA) in July\n2015 for individuals homozygous for F508del. Other potentiator/corrector combinations are\nundergoing clinical trials."
+    },
+    "30": {
+        "q_no": "30",
+        "question": "An infant is diagnosed with cystic fibrosis when a sweat chloride returns positive at 110 mmol/L after an abnormal newborn screening test. The drug ivacaftor, recently approved by the Food and Drug Administration, is indicated in patients with which of the following genetic mutations?",
+        "options": [
+            "G542X",
+            "G551D",
+            "F508del",
+            "621+1G>T",
+            "R117C"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "31": {
+        "q_no": "31",
+        "question": "Ivacaftor works in patients with cystic fibrosis by having which of the following actions on the cystic fibrosis transmembrane regulator (CFTR) protein?",
+        "options": [
+            "Corrects protein slicing abnormalities",
+            "Improves conductance through the chloride ion pore",
+            "Increases synthesis of CFTR",
+            "Promotes CFTR binding at the cell membrane",
+            "Stabilizes CFTR protein to prolong degradation"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "32": {
+        "q_no": "32",
+        "question": "A 28-year-old woman is evaluated for recurrent lung and sinus infections. She recalls having at least yearly episodes of bronchitis beginning in her early teens. For the past 5 years, she states that she has been on antibiotics at least three times yearly for respiratory or sinus infections. She also reports that she has had difficulty gaining weight and has always felt short compared to her peers. On physical examination, the patient has a body mass index of 18.5 kg/m2. Her oxygen saturation is 95% on room air at rest. Nasal polyps are present. Coarse rhonchi and crackles are heard in the bilateral upper lung zones. A chest radiograph shows bilateral upper lobe bronchiectasis with areas of mucous plugging. You are concerned about the possibility of undiagnosed cystic fibrosis. Which of the following tests would provide the strongest support for the diagnosis of cystic fibrosis in this individual?",
+        "options": [
+            "DNA analysis demonstrating one copy of the F508del allele",
+            "Decreased baseline nasal potential difference",
+            "Presence of P aeruginosa on repeated sputum cultures",
+            "Sweat chloride values >40 mmol/L",
+            "Sweat chloride values >60 mmol/L"
+        ],
+        "answer": "E",
+        "explanation": "The answer is E. (Chap. 313 and J Pediatr 2008;153(2):S4\u2013S14) CF is a common autosomal\nrecessive disorder that affects 1 out of every 3300 live births in the Caucasian population of\nNorth America and Europe. There have been more than 2000 mutations identified in the gene\nfor the CFTR protein\u2014the abnormal protein identified in CF. This protein is a large\ntransmembrane protein involved in the transport of chloride and other ions, and abnormalities of\nthe CFTR lead to abnormalities of salt and water transport. The primary clinical manifestations\nof CF are due to the effects of the mutated CFTR in the lungs, gastrointestinal tract, and\npancreas. In the lungs, abnormal CFTR leads to thick, sticky mucus with abnormal mucociliary\nclearance. A patient will have recurrent respiratory infections with development of cystic\nbronchiectasis over time. The presenting manifestation in infancy is often meconium ileus and\ncan lead to constipation and distal intestinal obstruction in adults. Failure of the CFTR in the\npancreas prevents appropriate release of pancreatic enzymes to allow for proper digestion of\nfood, especially fatty foods, with resultant malnutrition and steatorrhea. While most patients\nwith CF present in infancy or childhood, about 5% of all individuals with CF will not be\ndiagnosed until adulthood. Presenting symptoms in adulthood can be myriad and often result\nfrom minor mutations of the CFTR gene. These symptoms can include recurrent lung and sinus\ninfections, malnutrition, sinus disease, and infertility, especially absence of the vas deferens in\nmen. The standard test for the diagnosis of CF is the sweat chloride test. Elevated values are\npathognomonic for CF, with a cutoff of >60 mmol/L in adults being diagnostic. Values greater\nthan 40 mmol/L fall within the indeterminate range. Given the large number of mutations that\ncan cause CF, genetic testing can be expensive and is not the first test performed when CF is\nsuspected. A screening CF genetic panel often only identifies between approximately 20 and 80\nof the common CF mutations. If only one mutation is identified, then this may represent the\ncarrier state, or it could represent CF with a more rare mutation requiring more detailed genetic\nanalysis, including full gene sequencing. In such cases, referral to a tertiary CF care center is\nhelpful for data interpretation. In some instances, nasal potential difference testing can be\nhelpful because CF patients demonstrate an elevated baseline nasal potential difference with\nfailure to respond to stimulation with \u03b2-agonists. Presence of Pseudomonas aeruginosa is common\nin adults with CF but is not specific for the diagnosis of the disease because bronchiectasis from\nany cause can lead to P aeruginosa colonization."
+    },
+    "33": {
+        "q_no": "33",
+        "question": "A 22-year-old man with cystic fibrosis is seen for a routine follow-up. He is currently treated with recombinant human DNase and albuterol by nebulization twice daily. His primary sputum clearance technique is aerobic exercise five times weekly and autogenic drainage. He is overall feeling well, and his examination is normal. Pulmonary function testing demonstrates an FEV1 of 4.48 L (97% predicted), FVC of 5.70 L (103% predicted), and FEV1/FVC ratio of 79%. A routine sputum culture grows P aeruginosa. The only organism isolated on prior cultures has been Staphylococcus aureus. What do you recommend for this patient?",
+        "options": [
+            "High-frequency chest wall oscillation",
+            "Hypertonic saline (7%) nebulized twice daily",
+            "Inhaled tobramycin 300 mg twice daily every other month",
+            "Intravenous cefepime and tobramycin for 14 days",
+            "Return visit in 3 months with repeat sputum cultures and treatment only if there is persistent P aeruginosa"
+        ],
+        "answer": "C",
+        "explanation": "The answer is C. (Chap. 313 and Ann Am Thorac Soc 2014;11(10):1640\u20131650) Individuals with\nCF experience recurrent pulmonary and sinus infections. In childhood, the most commonly\nisolated organisms are Haemophilus influenzae and Staphylococcus aureus. However, over time,\nmost adults demonstrate P aeruginosa. It is now recognized that chronic colonization with\nPseudomonas, especially multidrug-resistant organisms, is associated with a more rapid decline in\nlung function. The Cystic Fibrosis Foundation recommends quarterly office visits with a\nphysician with assessment of respiratory cultures at each visit. When Pseudomonas is initially\ndetected, attempts to eradicate the organism should be undertaken. The recommended regimen\nfor eradication is an inhaled antibiotic with the aminoglycoside antibiotic tobramycin as the\npreferred agent. This will be continued every other month until the next office visit to determine\nif therapy should be continued. For all patients chronically colonized with Pseudomonas, inhaled\ntobramycin every other month should be continued on an indefinite basis. In addition,\nazithromycin 500 mg three times weekly or 250 mg daily is also used. Whether azithromycin\nprimarily exerts its beneficial effect through anti-inflammatory or antimicrobial actions is not\ndefinitively known at the present time. Because the patient is clinically well without any\nsymptoms of acute exacerbation, the use of intravenous antibiotics is not required. Chest wall\noscillation and hypertonic saline are both mechanisms to improve airway clearance. While the\npatient may need to improve airway clearance in the future, the most important component of\nhis care at present is to eradicate new growth of Pseudomonas. His current exercise regimen and\nautogenic drainage provide a component of airway clearance in his maintenance care plan."
+    },
+    "34": {
+        "q_no": "34",
+        "question": "A 69-year-old man with COPD has been admitted to the hospital three times over the past year for COPD exacerbations. He has daily cough with sputum production and an FEV1 of 45% predicted. He previously smoked a pack of cigarettes daily for 50 years, quitting 1 year ago. His oxygen saturation on room air is 91%. Which of the following treatments is most likely to decrease the frequency of his exacerbations?",
+        "options": [
+            "Azithromycin 250 mg three times weekly",
+            "Continuous oxygen at 2 L/min",
+            "Nocturnal bilevel positive airway pressure with an inspiratory pressure of 18 cm H2O and expiratory pressure of 12 cm H2O",
+            "Roflumilast 500 \u03bcg daily",
+            "Theophylline 300 mg daily"
+        ],
+        "answer": "D",
+        "explanation": "Acute exacerbations of COPD are a frequent cause of morbidity\nand mortality in COPD, contributing to >70% of healthcare expenditures for COPD. Risk factors\nfor development of acute exacerbation include severity of airflow obstruction (FEV1 <50%\npredicted), history of prior exacerbations, and elevated ratio of pulmonary artery to aorta on\nchest CT. Acute exacerbations of COPD cost over $10 billion to the healthcare system in the\nUnited States annually. Thus, determining the causes of exacerbations and prevention of future\nexacerbations have been important targets in the care of COPD patients. Most acute\nexacerbations are associated with airway inflammation or infection, including acquiring a new\nstrain of bacteria or a viral respiratory infection. Therefore, strategies for prevention have been\nprimarily focused on decreasing inflammatory responses and preventing infections. The selective\nphosphodiesterase-4 inhibitor roflumilast has been demonstrated to decrease exacerbation\nfrequency in individuals with COPD who have symptoms of chronic bronchitis and frequent\nexacerbations. However, it has limited effects of pulmonary function and chronic respiratory\nsymptoms. The macrolide antibiotic azithromycin has both anti-inflammatory and antibiotic\nproperties. In a randomized controlled trial, it has been shown to decrease exacerbation\nfrequency and increase time to first exacerbation when administered at a dose of 500 mg daily,\nnot 250 mg three times weekly. Other interventions that also decrease exacerbation frequency\ninclude use of inhaled glucocorticoids in individuals with frequent exacerbations or asthmatic\nsymptoms and influenza vaccination. Long-acting anticholinergic medications and long-acting \u03b2-\nagonists decrease exacerbations as well. Oxygen therapy and nocturnal ventilation are not\nindicated for prevention of exacerbations. Theophylline yields modest improvements in lung\nfunction but has no proven effect on exacerbations."
+    },
+    "35": {
+        "q_no": "35",
+        "question": "All of the following are risk factors for COPD EXCEPT:",
+        "options": [
+            "Airway hyperresponsiveness",
+            "Coal dust exposure",
+            "Passive cigarette smoke exposure",
+            "Recurrent respiratory infections",
+            "Use of biomass fuels in poorly ventilated areas"
+        ],
+        "answer": "D",
+        "explanation": "COPD affects more than 10 million Americans and is currently\nthe fourth leading cause of death in the United States. Worldwide, COPD is also increasing as\ncigarette smoking, the primary risk factor for the development of COPD, is increasing in\nprevalence throughout the world. While cigarette smoking is clearly identified as a risk factor for\nCOPD, other factors have also been identified to contribute to the risk of COPD. In many\ndeveloping countries, the prevalence of smoking among women remains low. However, the\nincidence of COPD is increasing in women as well as men. In many developing countries, this\nincreased incidence of COPD in women is attributable to the use of biomass fuels in poorly\nventilated areas for heat and cooking. In addition, passive cigarette smoke exposure may also\ncontribute. Occupational exposures also lead to an increased risk of COPD. Although some\nexposures such as cotton textile dust and gold mining have not been definitively associated with\nCOPD, coal dust exposure is a risk factor for emphysema in both smokers and nonsmokers.\nInherent properties of the airways also affect the risk of COPD. Airway hyperresponsiveness\nincreases the risk of lung function decline and is a risk factor for COPD. Although there is much\ninterest in the role of chronic or recurrent infections as a risk factor for COPD, there has been no\nproven link."
+    },
+    "36": {
+        "q_no": "36",
+        "question": "A 65-year-old woman is evaluated for dyspnea on exertion and chronic cough. She has a long history of tobacco use, smoking 1.5 packs of cigarettes daily since the age of 20. She is a thin woman in no obvious distress. Her oxygen saturation on room air is 93% with a respiratory rate of 22 breaths/min. The lungs are hyperexpanded on percussion with decreased breath sounds in the upper lung fields. You suspect COPD. What are the expected findings on pulmonary function testing?",
+        "options": [],
+        "answer": "B",
+        "explanation": "COPD is a disease process encompassing the clinical entities of\nemphysema and chronic bronchitis. COPD is defined pathophysiologically by the presence of\nirreversible airflow obstruction with hyperinflation and impaired gas exchange. The airflow\nobstruction occurs for several reasons including decreased elastic recoil of the lungs, increased\nairway inflammation, and increased closure of small airways due to loss of tethering in\nemphysematous lungs. This leads to early closure of airways in expiration with air trapping and\nhyperinflation. Finally, the loss of alveoli in emphysematous lungs leads to a progressive decline\nin gas exchange with alterations of ventilation-perfusion relationships. On pulmonary function\ntesting, these pathophysiologic changes result in a typical pattern with the primary characteristic\nof COPD being a decrease in the FEV1/FVC ratio and FEV1. The severity of airflow obstruction is\ngraded by the degree of decline in the percent predicted FEV1. The FVC may or may not be\ndecreased. With hyperinflation, the TLC increases with a concomitant increase in RV. Finally, the\nDLCO is also characteristically decreased in most cases of COPD. Some patients with pure\nchronic bronchitis without any emphysematous component may have a preserved DLCO,\nalthough this is a rare presentation for COPD. This same pattern of pulmonary function testing\ncan be seen in asthma with the exception of the DLCO, which is typically normal asthma. A\ndecrease in TLC is characteristic in restrictive ventilator disorders, such as pulmonary fibrosis,\nbut not in obstructive disorders such as COPD."
+    },
+    "38": {
+        "q_no": "38",
+        "question": "A 56-year-old woman is admitted to the ICU with a 4-day history of increasing shortness of breath and cough with copious sputum production. She has known severe COPD with an FEV1 of 42% predicted. On presentation, she has a room air blood gas with a pH of 7.26, PaCO2 of 78 mmHg, and PaO2 of 50 mmHg. She is in obvious respiratory distress with use of accessory muscles and retractions. Breath sounds are quiet with diffuse expiratory wheezing and rhonchi. No infiltrates are present on chest radiograph. Which of the following therapies has been demonstrated to have the greatest reduction in mortality rate for this patient?",
+        "options": [
+            "Administration of inhaled bronchodilators",
+            "Administration of IV glucocorticoids",
+            "Early administration of broad-spectrum antibiotics with coverage of P aeruginosa",
+            "Early intubation with mechanical ventilation",
+            "Use of noninvasive positive-pressure ventilation"
+        ],
+        "answer": "E",
+        "explanation": "Acute exacerbations of COPD are marked by an increase in\ndyspnea, an increase in sputum, and a change in sputum color. Acute exacerbations of COPD\naccount for more than $10 billion in healthcare expenditures annually in the United States, with\nsignificant morbidity and mortality associated with these exacerbations. Prompt treatment can\nimprove symptoms and decrease hospitalizations and mortality in this setting. In patients\npresenting with hypercarbic respiratory failure in the setting of an acute exacerbation, the\ntreatment that has demonstrated the strongest reduction in mortality, when compared to\ntraditional mechanical ventilation, is noninvasive positive-pressure ventilation (NIPPV). NIPPV\nalso decreases the need for endotracheal intubation, complications, and length of stay in the\nhospital. Antibiotics, bronchodilators, and glucocorticoids are all cornerstones of therapy in the\ntreatment of acute exacerbations in COPD but have not been demonstrated in clinical trials to\nhave similar mortality benefits in the situation of acute hypercarbic respiratory failure.\nSpecifically, no benefit is demonstrated for intravenous versus oral corticosteroids. Likewise, the\nchoice of antibiotic should be made based on local susceptibility patterns, and need for broad-\nspectrum antibiotics that cover for Pseudomonas is not typically indicated. Recent studies have\ndemonstrated that high-flow nasal oxygen may be an effective alternative to NIPPV, with\nimproved outcomes (need for mechanical ventilation) and improved patient comfort."
+    },
+    "42": {
+        "q_no": "42",
+        "question": "What would be the expected finding on bronchoalveolar lavage in a patient with diffuse alveolar hemorrhage?",
+        "options": [
+            "Atypical hyperplastic type II pneumocytes",
+            "Ferruginous bodies",
+            "Hemosiderin-laden macrophages",
+            "Lymphocytosis with an elevated CD4:CD8 ratio",
+            "Milky appearance with foamy macrophages"
+        ],
+        "answer": "C",
+        "explanation": "Pulmonary alveolar\nproteinosis is a rare disorder that usually presents between ages 30 and 50 years. It is slightly\nmore common in men. Three distinct subtypes have been described: congenital, acquired, and\nsecondary (most frequently caused by acute silicosis or hematologic malignancies). Interestingly,\nthe pathogenesis of the disease has been associated with antibodies to granulocyte-macrophage\ncolony-stimulating factor (GM-CSF) in most cases of acquired disease in adults. The pathobiology\nof the disease is failure of clearance of pulmonary surfactant. These patients typically present\nwith subacute dyspnea on exertion with fatigue and low-grade fevers. Associated laboratory\nabnormalities \ninclude \npolycythemia, \nhypergammaglobulinemia, \nand \nincreased \nlactate\ndehydrogenase levels. Elevated serum levels of lung surfactant proteins A and D have been\ndescribed, and autoantibodies to GM-CSF can be found in both the serum and bronchoalveolar\nlavage fluid. Classically, the CT appearance is described as \u201ccrazy pavement\u201d with ground-glass\nalveolar infiltrates in a perihilar distribution and intervening areas of normal lung.\nBronchoalveolar lavage is diagnostic, with large amounts of amorphous proteinaceous material\nseen. Macrophages filled with periodic acid-Schiff\u2013positive material are also frequently seen. The\ntreatment of choice is whole-lung lavage through a double-lumen endotracheal tube. Survival at\n5 years is higher than 95%, although some patients will need a repeat whole-lung lavage.\nTreatment of pulmonary alveolar proteinosis with GM-CSF remains experimental."
+    },
+    "43": {
+        "q_no": "43",
+        "question": "A 42-year-old man presents with progressive dyspnea on exertion, low-grade fevers, and weight loss over 6 months. He also complains of a primarily dry cough, although occasionally he coughs up a thick mucoid sputum. There is no past medical history. He does not smoke cigarettes. On physical examination, the patient appears dyspneic with minimal exertion. The patient\u2019s temperature is 37.9\u00b0C (100.3\u00b0F). Oxygen saturation is 91% on room air at rest. Faint basilar crackles are heard. On laboratory studies, the patient has polyclonal hypergammaglobulinemia and a hematocrit of 52%. A CT scan reveals bilateral alveolar infiltrates that are primarily perihilar in nature with a mosaic pattern. The patient undergoes bronchoscopy with bronchoalveolar lavage. The effluent appears milky. The cytopathology shows amorphous debris with periodic acid-Schiff (PAS)\u2013positive macrophages. What is the diagnosis?",
+        "options": [
+            "Bronchiolitis obliterans organizing pneumonia",
+            "Desquamative interstitial pneumonitis",
+            "Nocardiosis",
+            "Pneumocystis carinii pneumonia",
+            "Pulmonary alveolar proteinosis"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "44": {
+        "q_no": "44",
+        "question": "For the patient in Question VI-43, what treatment is most appropriate at this time?",
+        "options": [
+            "Doxycycline",
+            "Prednisone",
+            "Prednisone and cyclophosphamide",
+            "Trimethoprim-sulfamethoxazole",
+            "Whole-lung lavage"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "45": {
+        "q_no": "45",
+        "question": "A 56-year-old woman presents for evaluation of dyspnea and cough for 2 months. During this time, she has also had intermittent fevers, malaise, and a 5.5-kg (12-lb) weight loss. She denies having any ill contacts and has not recently traveled. She works as a nurse, and a yearly purified protein derivative test performed 3 months ago was negative. She denies any exposure to organic dusts and does not have any birds as pets. She has no other exposures and no autoimmune symptoms. She takes no medications regularly. On physical examination, diffuse inspiratory crackles and squeaks are heard. A CT scan of the chest reveals patchy alveolar infiltrates and bronchial wall thickening. Pulmonary function testing reveals mild restriction. She undergoes a surgical lung biopsy. The pathology shows granulation tissue filling the small airways, alveolar ducts, and alveoli. The alveolar interstitium has chronic inflammation and organizing pneumonia. What is the most appropriate therapy for this patient?",
+        "options": [
+            "Azathioprine 100 mg daily",
+            "Nintedanib 150 mg twice daily",
+            "Pirfenidone 2403 mg daily",
+            "Prednisone 1 mg/kg daily",
+            "Referral for lung transplantation"
+        ],
+        "answer": "D",
+        "explanation": "This patient is presenting with subacute pulmonary symptoms,\nintermittent fevers, myalgias, and malaise. The biopsy shows a pattern of cryptogenic organizing\npneumonia (COP). COP (formerly bronchiolitis obliterans organizing pneumonia) usually\npresents in the fifth or sixth decades with a flulike illness. Symptoms include fevers, malaise,\nweight loss, cough, and dyspnea. Inspiratory crackles are common, and late inspiratory squeaks\nmay also be heard. Pulmonary function testing reveals restrictive lung disease. The typical\npattern on chest HRCT is patchy areas of airspace consolidation, nodular opacities, and ground-\nglass opacities that occur more frequently in the lower lung zones. Pathology shows the presence\nof granulation tissue plugging airways, alveolar ducts, and alveoli. There is frequently chronic\ninflammation in the alveolar interstitium. Treatment with high-dose steroids is effective in two-\nthirds of individuals, with most individuals being able to be tapered to lower doses over the first\nyear. Azathioprine is an immunosuppressive therapy that is commonly used in interstitial lung\ndisease due to usual interstitial pneumonitis. While it may be considered in COP unresponsive to\nglucocorticoids, it would not be a first-line agent used without concomitant steroid therapy.\nBecause most patients with COP respond to corticosteroids, referral for lung transplantation is\nnot required unless there is a failure to respond to therapy. Nintedanib and pirfenidone are\ntreatments for idiopathic pulmonary fibrosis."
+    },
+    "46": {
+        "q_no": "46",
+        "question": "A 53-year-old man is admitted with fevers and right pleuritic chest pain for 5 days. He has a history of alcohol dependence. On presentation, his temperature is 39.2\u00b0C, heart rate is 112 bpm, blood pressure is 102/62 mmHg, respiratory rate is 24 breaths/min, and SaO2 is 92% on room air. He has absent breath sounds in the right lower chest with dullness to percussion and decreased tactile fremitus. Chest radiograph confirms a right lower lobe consolidation with associated effusion. The effusion is not free flowing. Initial thoracentesis demonstrates gross pus in the pleural space, and the Gram stain is positive for gram-positive cocci in pairs and chains. A large-bore chest tube is placed. Which of the following treatments should also be recommended in this patient to improved resolution of the empyema in this individual?",
+        "options": [
+            "Immediate referral for decortication",
+            "Intrapleural instillation of alteplase 10 mg twice daily for 3 days",
+            "Intrapleural instillation of alteplase 10 mg plus deoxyribonuclease 5 mg twice daily for 3 days",
+            "Intrapleural instillation of deoxyribonuclease 5 mg twice daily for 3 days",
+            "Intrapleural instillation of streptokinase 250,000 IU"
+        ],
+        "answer": "C",
+        "explanation": "Empyema refers to the presence of a grossly purulent pleural\neffusion, which is present in this clinical scenario. The management of an empyema requires\nplacement of a chest tube for drainage, and a recent randomized, placebo-controlled clinical trial\ndemonstrated improved outcomes with use of both alteplase (tissue plasminogen activator) and\ndeoxyribonuclease (DNase) twice daily for 3 days beginning within the first day after chest tube\nplacement. The trial was conducted using a factorial design comparing the combination therapy\nto placebo and to either therapy alone. The combination of alteplase and DNase showed\nimproved resolution of pleural fluid, shorter duration of hospital stay, and lesser need for\nsurgical intervention when compared to placebo or either therapy alone (Rahman NM et al: N\nEngl J Med 2011;365:518\u2013526)."
+    },
+    "47": {
+        "q_no": "47",
+        "question": "A 44-year-old woman with acquired immunodeficiency syndrome (AIDS) has acute hypoxemic respiratory failure due to Pneumocystis jiroveci. She is intubated and mechanically ventilated with the following settings: assist-control, tidal volume 350 mL (6 mL/kg ideal body weight), FiO2 1.0, respiratory rate 28 breaths/min, and PEEP 12 cmH2O. Her arterial blood gas values on these settings are as follows: pH 7.28, PaO2 68 mmHg, and PaCO2 64 mmHg. Her inspiratory plateau pressure is 26 cmH2O. You are called acutely to the bedside when her blood pressure abruptly drops to 70/40 mmHg. At the same time, the high-pressure alarms on the ventilator begin to alarm with peak airway pressures now registering at 55 cmH2O. Breath sounds are inaudible on the right side and are clear on the left. What is the best course of action at this time?",
+        "options": [
+            "Administer a fluid bolus to improve venous return.",
+            "Disconnect the patient from the ventilator to allow a full exhalation.",
+            "Place a large-bore needle into the right second anterior intercostal space to alleviate a tension pneumothorax.",
+            "Sedate the patient to achieve ventilator synchrony.",
+            "Suction the patient to remove obstructing mucus plugs."
+        ],
+        "answer": "C",
+        "explanation": "Tension pneumothorax is a life-threatening complication that\nmust be rapidly recognized and alleviated. If undetected, it will rapidly progress to\ncardiovascular collapse and death. Tension pneumothorax most commonly occurs during\nmechanical ventilation and during resuscitative efforts. An initial sign during mechanical\nventilation is high peak inspiratory pressures or difficulty with ventilation. Hypotension and\nhypoxemia are signs of impending cardiovascular collapse and are caused by decreased venous\nreturn to the heart and reduced cardiac output. The physical examination may show absence of\nbreath sounds on the affected side with enlargement of the hemithorax, hyperresonance to\npercussion, and mediastinal shift to the contralateral side. A chest radiograph would be\nconfirmatory, but in an acute setting, there may not be time to obtain the testing. If clinical\nsuspicion is high, treatment should not be delayed as tension pneumothorax is a medical\nemergency and the patient is likely to die if the tension is not relieved. A large-bore needle\nshould be placed into the pleural space through the second anterior intercostal space. If a large\namount of air escapes after the needle is inserted, the diagnosis is confirmed. The needle should\nremain in place until definitive treatment with a tube thoracostomy can be performed."
+    },
+    "48": {
+        "q_no": "48",
+        "question": "A 62-year-old woman is admitted to the hospital with a community-acquired pneumonia with a 4-day history of fever, cough, and right-sided pleuritic chest pain. The admission chest x-ray identifies a right lower and middle lobe infiltrate with an associated effusion. All of the following characteristics of the pleural effusion indicate a complicated effusion that may require tube thoracostomy EXCEPT:",
+        "options": [
+            "Loculated fluid",
+            "Pleural fluid pH <7.20",
+            "Pleural fluid glucose <60 mg/dL",
+            "Positive Gram stain or culture of the pleural fluid",
+            "Recurrence of fluid following the initial thoracentesis"
+        ],
+        "answer": "E",
+        "explanation": "Parapneumonic effusions are one of the most common causes of\nthe exudative pleural effusion. When an effusion is identified in association with pneumonia, it is\nprudent to perform a thoracentesis if the fluid can be safely accessed. One way to know whether\nthere is enough fluid for thoracentesis is to perform a lateral decubitus film and observe if there\nis free-flowing fluid at a volume of >10 mm from the chest wall. However, if the fluid does not\nlayer, this may indicate a complex loculated fluid. A loculated effusion often indicates an\ninfected effusion and may require chest tube drainage or surgical intervention. Other factors that\nare associated with the need for more invasive procedures include pleural fluid pH <7.20,\npleural fluid glucose <60 mg/dL (<3.3 mmol/L), positive Gram stain or culture of the pleural\nfluid, and presence of gross pus in the pleural space (empyema). Fluid recurrence following\ninitial thoracentesis does indicate a complicated pleural effusion, but a repeat thoracentesis\nshould be performed to ensure no concerning features have developed."
+    },
+    "49": {
+        "q_no": "49",
+        "question": "A 58-year-old man is evaluated for dyspnea and found to have a moderate right-sided pleural effusion. He undergoes thoracentesis with the following characteristics. Which of the following is NOT likely to be a cause of the pleural effusion in this patient?",
+        "options": [
+            "Cirrhosis",
+            "Lung cancer",
+            "Mesothelioma",
+            "Pulmonary embolism",
+            "Tuberculosis"
+        ],
+        "answer": "A",
+        "explanation": "The characteristics of the pleural fluid in this patient are\nconsistent with an exudate by Light\u2019s criteria. These criteria are as follows: pleural fluid\nprotein/serum protein ratio >0.5, pleural fluid lactate dehydrogenase (LDH)/serum LDH ratio\n>0.6, and pleural fluid LDH more than two-thirds of the upper limit of normal serum values. If\none of the criteria is met, then the effusion would be classified as an exudate. This patient clearly\nmeets the criteria for an exudate. Exudative pleural effusions occur when there are alterations in\nthe local environment that change the formation and absorption of pleural fluid. The most\ncommon causes of exudative pleural effusion are infection and malignancy. Other less common\ncauses include pulmonary embolism, chylothorax, autoimmune diseases, asbestos exposure, drug\nreactions, hemothorax, and following cardiac surgery or other cardiac injury, among others.\nUnfortunately, 25% of transudative effusions can be incorrectly identified as exudates by these\ncriteria. Most often, this occurs when the effusion has an increased number of cells to cause an\nelevation in the LDH or has been treated with diuretics to cause an increase in pleural fluid\nprotein. Transudative effusions are most often caused by heart failure, but can also be seen in\ncirrhosis, nephrotic syndrome, and myxedema."
+    },
+    "50": {
+        "q_no": "50",
+        "question": "A 28-year-old man presents to the emergency department with acute-onset shortness of breath and pleuritic chest pain on the right that began 2 hours previously. He is generally healthy and has no medical history. He has smoked one pack of cigarettes daily since the age of 18. On physical examination, he is tall and thin, with a body mass index of 19.2 kg/m2. He has a respiratory rate of 24 breaths/min with an oxygen saturation of 95% on room air. He has slightly decreased breath sounds at the right lung apex. A chest x-ray demonstrates a 20% pneumothorax on the right. Which of the following statements is true regarding pneumothorax in this patient?",
+        "options": [
+            "A CT scan is likely to show emphysematous changes.",
+            "If the patient were to develop recurrent pneumothoraces, thoracoscopy with pleural abrasion has a success rate of near 100% for prevention of recurrence.",
+            "Most patients with this presentation require tube thoracostomy to resolve the pneumothorax.",
+            "The likelihood of recurrent pneumothorax is about 25%.",
+            "The primary risk factor for the development of spontaneous pneumothorax is a tall and thin body habitus."
+        ],
+        "answer": "B",
+        "explanation": "A primary spontaneous pneumothorax occurs in the absence of\ntrauma to the thorax. Most individuals who present with a primary spontaneous pneumothorax\nare young, and primary spontaneous pneumothorax occurs almost exclusively in cigarette\nsmokers, the primary risk factor. Primary spontaneous pneumothorax is also more common in\nmen and has been associated with a tall, thin body habitus. The primary cause is the rupture of\nsmall apical pleural blebs or cysts, and the CT scan of the chest is often normal. About half of\nindividuals will experience more than one primary spontaneous pneumothorax. The initial\ntreatment is simple needle aspiration, which is most commonly done with ultrasound or CT\nguidance. Oxygen is given simultaneously to speed resorption of the residual air in the pleural\nspace. If conservative treatment fails, tube thoracostomy can be performed. Pneumothoraces that\nfail to resolve or are recurrent often require thoracoscopy with stapling of blebs and pleural\nabrasion, a treatment that is effective in almost 100% of cases."
+    },
+    "51": {
+        "q_no": "51",
+        "question": "A 52-year-old woman from Indiana presents with worsening dyspnea on exertion and cough for a year. She denies dyspnea at rest. The cough is predominantly dry, but occasionally productive of a gritty mucus. Her past medical history is positive for hypertension and hypothyroidism. She takes benazepril and levothyroxine. She has primarily worked as a landscaper throughout her adult life. On physical examination, she appears in no distress. Her oxygen saturation is 95% on room air. Chest is clear to auscultation. Cardiovascular examination is unremarkable. She has no peripheral edema. The chest radiograph shows an old granuloma in the right lung and mediastinal calcifications. A CT scan is performed, which confirms the healed granuloma. Extensive mediastinal calcification is seen. The calcifications encase the superior vena cava and the right mainstem bronchus. An interferon-\u03b3 assay is negative. Which of the following statements regarding the patient\u2019s conditions is true?",
+        "options": [
+            "A urine Histoplasma antigen test will be positive.",
+            "The most common cause of the condition is histoplasmosis or tuberculosis.",
+            "The patient should be referred to a surgical center specialized in the treatment of this condition.",
+            "Treatment with corticosteroids will improve the patient\u2019s condition.",
+            "Treatment with itraconazole or voriconazole will improve the patient\u2019s condition."
+        ],
+        "answer": "B",
+        "explanation": "Chronic fibrosing mediastinitis most commonly occurs after\ngranulomatous inflammation in the lymph nodes in the mediastinum that leads to an exuberant\ncalcification response. Over time, the inflammation can cause significant disruption to the vital\nstructures that course through the mediastinum and lead to the clinical symptoms of fibrosing\nmediastinitis. The most common causes of fibrosing mediastinitis are histoplasmosis and\ntuberculosis. Other causes include sarcoidosis, silicosis, or other fungal diseases. Symptoms are\nrelated to compression of mediastinal structures including the superior vena cava, pulmonary\narteries or veins, or large airway compression. The phrenic or recurrent laryngeal nerves may\nalso become paralyzed. The most common symptom is dyspnea on exertion. Patients may also\ndevelop chronic cough with lithoptysis or hemoptysis due to erosion of the calcific lymph nodes\ninto airways. Patients may describe lithoptysis as gritty or sandy sputum. Hemoptysis can be\nlarge volume and may necessitate surgical intervention for control. However, other than\nantituberculous therapy for tuberculous mediastinitis, no medical or surgical therapy has any\neffectiveness on the treatment of fibrosing mediastinitis. This patient most likely has\nhistoplasmosis as the cause of her disease because histoplasmosis is endemic in Indiana. Because\nthe fibrosing mediastinitis is a sequela of an old infection, the urine Histoplasma antigen test\nwould not yield a positive result."
+    },
+    "52": {
+        "q_no": "52",
+        "question": "A 52-year-old woman is admitted to the hospital with lethargy and marked symptoms of volume overload. She has a past medical history of morbid obesity with a body mass index of 52 kg/m2, severe obstructive sleep apnea, hypertension, and type 1 diabetes mellitus. She is in generally poor health and has been noncompliant with her insulin as well as with continuous positive airway pressure (CPAP) as she reports claustrophobia. She cannot recall when she last used CPAP therapy. On physical examination, the patient is somnolent but arousable. Her vital signs are as follows: blood pressure 168/92 mmHg, heart rate 92 bpm, respiratory rate 14 breaths/min, afebrile, and SaO2 82% on room air. Her SaO2 increases to 92% on 6 L/min by nasal cannula, but her mental status becomes more lethargic. She has distant heart and lung sounds without crackles. There is 4+ edema bilaterally to the thighs and onto the abdominal wall. Chest x-ray shows low lung volumes. Initial arterial blood gas values on 6 L/min nasal oxygen are pH 7.22, PaCO2 88 mmHg, and PaO2 72 mmHg. Which of the following statements is true regarding the patient\u2019s condition?",
+        "options": [
+            "Abnormalities of the PHOX2b gene are associated with this condition.",
+            "CPAP therapy alone is adequate for treatment of this patient.",
+            "Initial treatment of the condition should include intubation and mechanical ventilation given the patient\u2019s known intolerance of CPAP therapy.",
+            "Obstructive sleep apnea coexists with the diagnosis in about 75% of cases.",
+            "Weight loss will lead to improvements in PaCO2 over time."
+        ],
+        "answer": "E",
+        "explanation": "Obesity hypoventilation syndrome (OHS) is a disorder of chronic\nhypoventilation that has an unknown prevalence as no large population studies have been\nconducted. However, the prevalence is expected to increase as the prevalence of obesity is rising\nworldwide. OHS requires a body mass index >30 kg/m2 and the presence of chronic alveolar\nhypoventilation for diagnosis, with a daytime awake PaCO2 \u226545 mmHg. In more than 90% of\ncases, concomitant obstructive sleep apnea (OSA) is also present. The pathogenesis of OHS is not\nfully understood, although it is known that there is a downregulation of the central respiratory\ndrive in response to carbon dioxide. Multiple physiologic factors acting together likely lead to\nthis including OSA, increased work of breathing, respiratory muscle impairment, V/Q\nmismatching, and depressed central chemo-responsiveness to hypoxemia and hypercarbia. Most\npatients present with daytime sleepiness, headaches, and symptoms typical of OSA. These\npatients should be treated with weight loss and positive airway pressure therapy. Sustained\nweight loss will lead to improvements in PaCO2 over time. Continuous positive airway pressure\n(CPAP) therapy does lead to improvement in daytime hypercapnia and hypoxemia in more than\nhalf of patients with OHS and OSA but is not recommended for use if patients have sustained\nhypoxemia after resolution of obstructive apneic events. In these individuals bilevel positive\nairway pressure (BiPAP) therapy is used. BiPAP is also used if a patient cannot tolerate the\ntypically high levels of CPAP required for treatment. Some patients with OHS may present\nacutely with decompensated symptoms of right heart failure and respiratory failure as in this\nscenario. When a patient presents in acute decompensated OHS, BiPAP is the treatment of choice\nacutely as well. Even in patients who have previously failed home noninvasive therapy, this\nremains the treatment of choice for their acute condition and may prevent intubation and\nmechanical ventilation. The PHOX2b gene mutation plays no role in OHS but is associated with\ncongenital central hypoventilation syndromes."
+    },
+    "53": {
+        "q_no": "53",
+        "question": "A patient with mild amyotrophic lateral sclerosis is followed by a pulmonologist for respiratory dysfunction associated with his neuromuscular disease. Which of the following symptoms in addition to PaCO2 \u226545 mmHg would necessitate therapy with noninvasive positive- pressure ventilation for hypoventilation?",
+        "options": [
+            "Orthopnea",
+            "Poor quality sleep",
+            "Impaired cough",
+            "Dyspnea in activities of daily living",
+            "All of the above"
+        ],
+        "answer": "E",
+        "explanation": "Patients with amyotrophic lateral sclerosis (ALS) often develop\nhypoventilation due to involvement of their respiratory pump muscles (e.g., diaphragm,\nintercostal muscles, sternocleidomastoids). NIPPV has been used successfully in the therapy of\npatients with hypoventilation such as ALS. Nocturnal NIPPV can improve daytime hypercapnia,\nprolong survival, and improve health-related quality of life. Current ALS guidelines are to\ninstitute NIPPV if symptoms of hypoventilation exist and PaCO2 is \u226545 mmHg, nocturnal\ndesaturation to <89% is documented for 5 consecutive minutes, maximal inspiratory pressure is\n<60 cmH2O, or FVC is <50% predicted. Symptoms of hypoventilation are not particular to ALS\nand may include the following: dyspnea during activities of daily living, orthopnea in diseases\nthat affect diaphragm function, poor-quality sleep, daytime hypersomnolence, early morning\nheadaches, anxiety, and impaired cough in neuromuscular disease."
+    },
+    "54": {
+        "q_no": "54",
+        "question": "A 52-year-old man is evaluated for loud snoring and daytime fatigue. His wife urged him to come in for evaluation because his snoring has become increasingly disruptive over the past 2 years after he gained about 30 lb. She frequently sleeps in another room and reports that she has seen him stop breathing during sleep. During the day, he struggles to stay awake when he is in meetings or sitting at his computer, particularly after lunch. He has a 40-minute commute and has had to pull off the road due to feelings of sleepiness. He has a medical history of hypertension for the past 5 years and takes losartan 25 mg daily. He does not smoke and drinks one beer or glass of wine daily. His father, who is 75 years old, uses a CPAP machine for obstructive sleep apnea and has also had a myocardial infarction. On physical examination, the patient appears well. He has a body mass index of 37.1 kg/m2. When the patient opens his mouth, you can see most of his uvula, which appears somewhat edematous. Tonsillar tissue is visible and extends just beyond tonsillar pillars. The neck circumference is 43 cm. What is the next step in the evaluation and treatment of this patient?",
+        "options": [
+            "Attended in-lab polysomnogram",
+            "Home sleep study",
+            "Overnight oximetry",
+            "Referral for tonsillectomy",
+            "Treatment with autotitrating CPAP"
+        ],
+        "answer": "B",
+        "explanation": "Obstructive sleep apnea/hypopnea syndrome (OSAHS) is a\ncommon condition estimated to affect up to 2%\u201315% of middle-aged individuals and >20% of\nelderly individuals and is associated with repeated collapse of the upper airway during sleep.\nThis patient exhibits multiple risk factors and gives a strong history to support a diagnosis of\nOSAHS, placing him at high risk to have moderate to severe OSAHS. The greatest risk factor the\npatient has that places him at high risk for disease is obesity. Approximately 40%\u201360% of cases\nof OSAHS are attributable to excess body weight. The second major risk factor for OSAHS is\nmale sex because men are two to four times more likely to have OSAHS than women. The\nreasons men develop more OSAHS include greater central obesity and relatively longer\npharyngeal length, which in turn contribute to greater upper airway collapsibility. In addition,\nfemale sex hormones provide a stabilizing effect on the upper airway and stimulate ventilatory\ndrive. Thus, premenopausal women are relatively protected from OSAHS at comparable levels of\nobesity when compared to men. Other risk factors that this patient has include a positive family\nhistory of the disease and hypertension. Other common risk factors for OSAHS in the general\npopulation include craniofacial abnormalities, adenotonsillar hypertrophy, various endocrine\nsyndromes (acromegaly, hypothyroidism), increasing age, and some ethnic groups. For instance,\nindividuals of Asian descent often develop OSAHS at a lower range of body mass index, most\nlikely due to ethnic difference in craniofacial structure. In addition, individuals of African\nAmerican race are at higher risk of OSAHS when compared to whites. This patient also gives\nmany symptoms that are concerning for OSAHS including loud snoring, witnessed apneas, and\ndaytime sleepiness. Given that there is a high clinical suspicion of disease, home sleep testing\nwill likely be adequate for diagnosis of disease in this patient. Home sleep tests can be performed\nin a variety of ways, but most will record respiratory effort, nasal flow, and oxygen saturation. In\na patient with a high suspicion of disease, these tests can be a cost-efficient means of diagnosis.\nHowever, the home tests may yield false-negative results because these tests do not measure the\nelectroencephalogram, and thus, no accurate measure of sleep time is obtained. Therefore, the\nrespiratory events are determined based on total recording time rather than total sleep time. If a\npatient is awake during much of the recording time, this could cause a false-negative result. An\nattended in-lab polysomnogram remains the gold standard for diagnosis OSAHS but is\nsignificantly more expensive. In this individual with a high pretest suspicion of disease, the cost\nwould not be justified. An overnight oximetry provides only oxygen levels and heart rate and is\nnot adequate for diagnosis of OSAHS. Treatment with a CPAP device may be recommended after\na diagnosis is confirmed, but this would not be the next step in the treatment of the patient. The\npatient has only minimally enlarged tonsils. A tonsillectomy would not be expected to alleviate\nhis symptoms."
+    },
+    "57": {
+        "q_no": "57",
+        "question": "A 48-year-old man with a body mass index of 28.9 kg/m2 is diagnosed with obstructive sleep apnea with an apnea-hypopnea index of 42/hr and a minimum oxygen saturation of 78%. What is the most appropriate initial therapy for this patient?",
+        "options": [
+            "CPAP",
+            "Oral appliance therapy",
+            "Oxygen therapy",
+            "Uvulopalatopharyngoplasty",
+            "Weight loss"
+        ],
+        "answer": "A",
+        "explanation": "The treatment of choice for most adults with OSAHS is nasal\nCPAP. CPAP delivers a set pressure that is sufficient to overcome the tendency of the posterior\noropharynx to collapse. This pressure ranges generally from 5\u201315 cmH2O, although pressures as\nhigh as 20 cmH2O can be used. However, the rates of adherence to CPAP therapy are highly\nvariable. Many patients complain of claustrophobia, nasal congestion, aerophagia, or facial pain.\nIf tolerated, there is a large body of data demonstrating beneficial effects of CPAP on blood\npressure, alertness, mood, and insulin sensitivity, and likely improvement in cardiovascular\noutcomes. Oral appliance therapy is generally considered second-line therapy in mild to\nmoderate OSA if the patient fails to tolerate CPAP. It can be prescribed as initial therapy if the\npatient prefers. In most studies, the improvement in the apnea-hypopnea index with oral\nappliance is \u226550% in about two-thirds of individuals. Side effects of oral appliances include\ntemporomandibular joint pain and tooth movement. Surgical interventions for OSAHS in adults\nhave provided less than desired benefits, and it can be difficult to determine which patients will\nderive \nthe \ngreatest \nbenefits \nin \nthe \nabsence \nof \na \nknown \nanatomic \nabnormality.\nUvulopalatopharyngoplasty is the most common surgical procedure over the past two decades\nand is associated with a success rate similar to oral appliance therapy. Weight loss is generally\nrecommended for all patients with OSAHS but should not be the only therapy recommended for\nan individual with this degree of OSAHS. Supplemental oxygen can improve oxygen saturation,\nbut there is little evidence that it improves OSAHS symptoms and the apnea-hypopnea index."
+    },
+    "58": {
+        "q_no": "58",
+        "question": "A 47-year-old woman with idiopathic pulmonary arterial hypertension has failed medical therapy including IV epoprostenol. She has advanced right heart failure with severe right ventricular dysfunction on echocardiography and a cardiac index of 1.7 L/min/m2. She is referred for lung transplantation. Which of the following statements is true?",
+        "options": [
+            "She will require heart-lung transplantation for her advanced right heart failure.",
+            "Idiopathic pulmonary arterial hypertension patients have worse 5-year survival than other transplant recipients.",
+            "Single-lung transplantation is the preferred surgical procedure for idiopathic pulmonary arterial hypertension.",
+            "Her own right ventricular function will recover after lung transplantation.",
+            "She is at risk for recurrent pulmonary arterial hypertension after lung transplantation."
+        ],
+        "answer": "D",
+        "explanation": "Common indications for lung transplantation include COPD,\nidiopathic pulmonary fibrosis, CF, emphysema, and pulmonary arterial hypertension (Table VI-\n58). Five-year survival is similar for all indications for lung transplantation at approximately\n50%. For most indications, double lung transplantation is the preferred procedure, and it is\nmandatory for patients with suppurative lung disease like CF. In general, in patients with\nidiopathic pulmonary arterial hypertension, double lung transplantation is preferred because of\nconcern of overcirculation in the low-resistance vascular bed transplanted lung when a native\nlung is present with markedly elevated pulmonary vascular resistance. It is rare for the primary\ndisease to recur after transplantation, and this has not been described in idiopathic pulmonary\narterial hypertension. The right ventricle is highly plastic and will generally recover function\nafter elevated pulmonary vascular resistance is removed by lung transplantation. Subsequently,\nit is rare to perform heart-lung transplantation in pulmonary arterial hypertension patients\nunless there is concomitant complex congenital heart disease that cannot be repaired at the time\nof lung transplantation.\nTALBLE VI-58   Disease-Specific Guidelines for Referral and Transplantation"
+    },
+    "59": {
+        "q_no": "59",
+        "question": "A 25-year-old woman with cystic fibrosis is referred for lung transplantation. She is concerned about her long-term outcome. Which of the following is the main impediment to long-term survival after lung transplantation?",
+        "options": [
+            "Bronchiolitis obliterans syndrome",
+            "Cytomegalovirus infection",
+            "Chronic kidney disease",
+            "Primary graft dysfunction",
+            "Posttransplantation lymphoproliferative disorder"
+        ],
+        "answer": "A",
+        "explanation": "The long-term complications of lung transplantation are\nmultisystem and range from the diseases that affect the lung and are complications of a foreign\nbody in the chest to distant organ disease, either due to infections or complications of\nimmunosuppressive therapy. Although osteoporosis, posttransplantation lymphoproliferative\ndisorders, and chronic kidney disease are important complications of steroids, calcineurin\ninhibitors, and other agents used for immunosuppression, the major complications after\ntransplantation are in the lung. Primary graft dysfunction is a form of acute lung injury\nimmediately after lung transplantation that is relatively rare, with severe disease occurring in\nonly 10%\u201320% of cases. Airway complications such as anastomotic dehiscence or stenosis have\nsimilar occurrence rates, but can usually be managed bronchoscopically with good survival.\nRejection of transplanted organ is very common and is the main limitation to better medium-\nand long-term outcomes. Rejection occurs as acute cellular rejection often presenting with\ncough, low-grade fever, dyspnea, infiltrates on radiographs, and declining lung function. In\ncontrast, chronic rejection typically presents with advancing obstruction on pulmonary function\ntesting, \nno \ninfiltrates, \nand \nworsening \ndyspnea \non \nexertion. \nThis \nconstellation \nin\nposttransplantation patients is termed bronchiolitis obliterans syndrome. Fifty percent of lung\ntransplant patients have some degree of bronchiolitis obliterans syndrome, and it is the main\nimpediment to better long-term survival. Therapy often involves augmented immunosuppression,\nalthough there is no consensus of how to do this or the duration of this augmentation."
+    },
+    "60": {
+        "q_no": "60",
+        "question": "A 30-year-old man with end-stage cystic fibrosis undergoes lung transplantation. Three years later, he has a 6-month progressive decline in his renal function. Which of the following medications is the most likely etiology of this?",
+        "options": [
+            "Prednisone",
+            "Tacrolimus",
+            "Albuterol",
+            "Mycophenolate mofetil",
+            "None of the above"
+        ],
+        "answer": "B",
+        "explanation": "Chronic kidney disease is a common finding in patients after\nlung transplantation and is associated with poorer outcomes. Although rarely patients may have\nhemolytic-uremic syndrome underlying the kidney disease, it is usually acute, and the most\ncommon etiology of gradually progressive decline in renal function is calcineurin inhibitor\nneuropathy. Cyclosporine and tacrolimus are calcineurin inhibitors commonly used in\nimmunosuppressive regimens after lung transplantation. The exact mechanism of this toxicity is\nunclear but may include a direct toxicity of inhibition of the calcineurin-NFAT system within the\nkidney, alteration in glomerular blood flow, and host-environment interactions within the kidney\nwith calcineurin inhibitors. Prednisone, albuterol, and mycophenolate mofetil are not known to\nbe nephrotoxic."
+    },
+    "61": {
+        "q_no": "61",
+        "question": "A 48-year-old woman is admitted to the ICU with acute respiratory distress syndrome and shock due to ascending cholangitis. Her Acute Physiology and Chronic Health Evaluation Score (APACHE II) is 19 at 24 hours. Which statement best describes the performance of severity of illness scoring systems in predicting outcomes for a patient such as the one described?",
+        "options": [
+            "The APACHE II score and other severity of illness tools are useful for informing clinical research in critical illness, especially regarding severity of illness in patients enrolled in clinical trials.",
+            "The APACHE II score is an important predictor of individual mortality when directly applied to patient care.",
+            "The APACHE II score should be used to guide therapy in this patient.",
+            "The Simplified Acute Physiology Score (SAPS II) would perform better at predicting mortality than the APACHE II score.",
+            "All of the above are true."
+        ],
+        "answer": "A",
+        "explanation": "Several different severity of illness (SOI) scores have been\ndeveloped for use in critically ill populations. Two of the most common systems are the Acute\nPhysiology and Chronic Health Evaluation (APACHE II) score and the Simplified Acute\nPhysiology (SAPS II) score. SOI scores are primarily useful as tools to assess populations of\ncritically ill individuals, but the scores do not perform well at predicting individual patient\noutcomes. These scores are used primarily in clinical trials to compare SOI between groups of\npatients enrolled in trials. These scores are also used by hospital administrations to assess quality\nof intensive care unit (ICU) care over time and also to help determine appropriate nursing and\nancillary support staffing levels. No SOI score should be used to direct an individual patient\u2019s\ncare, although decision support tools based on SOI scores are being investigated. The APACHE II\nscore is the most commonly used SOI score. This score assigns values based on a variety of\ndemographic, medical history, and clinical values taking the worst value in the first 24 hours\nafter admission. Population mortality ranges based on published values range from <5%\u201310%\nfor scores between 0 and 4 and as high as 80%\u201390% for scores \u226535 points. Updated versions of\nthe APACHE score (APACHE III and IV) have been published. The SAPS II score is more\nfrequently used in Europe. This score is not disease specific, although it does add higher values\nfor AIDS, metastatic cancer, or hematologic malignancy. Both scores are used in a similar\nmanner."
+    },
+    "62": {
+        "q_no": "62",
+        "question": "A 42-year-old man is admitted to the ICU after an automobile accident. He suffered a compound fracture of the femur and also had internal bleeding from a ruptured spleen and liver hematoma. He has undergone splenectomy and fixation of the femur fracture. He is intubated and sedated following surgery. His hemoglobin after surgery is 5.2 g/dL. His oxygen saturation is 92%, and his PaO2 is 72 mmHg on FiO2 of 0.6. A pulmonary artery catheter was placed during surgery. His cardiac output is 7.8 L/min. A lactate level is 4.8 mmol/L. Which of the following is the least important factor affecting oxygen delivery in this patient?",
+        "options": [
+            "Cardiac output",
+            "Hemoglobin concentration",
+            "PaO2",
+            "SaO2"
+        ],
+        "answer": "C",
+        "explanation": "Oxygen delivery (QO2) is a function of both cardiac output (CO)\nand the oxygen content of the blood (CaO2) and can be expressed by the following equation:\nQO2 = CO \u00d7 [1.39 \u00d7 hemoglobin \u00d7 SaO2 + (0.003 \u00d7 PaO2)]\nFrom this equation, the effect of PaO2 on overall oxygen delivery is negligible. Nearly all oxygen\ndelivered to the tissues is bound to hemoglobin. One can improve oxygen delivery by increasing\ncardiac output, increasing hemoglobin, or improving oxygen saturation."
+    },
+    "63": {
+        "q_no": "63",
+        "question": "A 67-year-old woman was admitted to the ICU with multilobar pneumonia due to Streptococcus pneumoniae and COPD. She requires intubation and mechanical ventilation. All of the following are appropriate interventions to prevent complications in the ICU EXCEPT:",
+        "options": [
+            "Administration of enoxaparin 40 mg daily",
+            "Administration of omeprazole 20 mg daily",
+            "Aggressive blood glucose control",
+            "Early mobilization and physical therapy while mechanically ventilated",
+            "Use of a standard care bundle for insertion of central lines"
+        ],
+        "answer": "C",
+        "explanation": "This patient has evidence of\nsevere ARDS. The annual incidence of ARDS is 60 cases per 100,000 population. In individuals\nadmitted to the ICU with respiratory failure, approximately 20% of these will meet the criteria\nfor ARDS, although it is generally underrecognized in the ICU population. ARDS is a clinical\nsyndrome of severe dyspnea of rapid onset, hypoxemia, and diffuse pulmonary infiltrates that\nmay lead to respiratory failure. There are myriad causes of ARDS, including sepsis, pneumonia,\naspiration pneumonitis, trauma, acute pancreatitis, multiple transfusions, and toxic inhalation\ninjury among others. The most common causes of ARDS are sepsis and pneumonia, which cause\nabout 40%\u201350% of all cases of ARDS. Clinically, ARDS is diagnosed in the presence of acute\nbilateral pulmonary infiltrates and hypoxemia without evidence of increased left atrial filling\npressure. A consensus panel has recently revised the definition of ARDS into three categories of\nmild, moderate, and severe based on degree of hypoxemia as determined by the ratio of PaO2 to\nFiO2, commonly called P:F ratio. Mild ARDS is present if PaO2/FiO2 is \u2264300 mmHg, but >200\nmm Hg. Moderate ARDS is diagnosed when PaO2/FiO2 is \u2264200 mmHg and >100 mmHg.\nSevere ARDS is diagnosed when PaO2/FiO2 is \u2264100 mmHg. In this case, the ratio of PaO2 to\nFiO2 is 80 mmHg, placing the patient in the category of severe ARDS. The natural history of\nARDS is three stages: exudative, proliferative, and fibrotic. In the early exudative stage of ARDS,\nthere is an acute injury to alveolar capillary endothelial cells and type I pneumocytes. This\nresults in loss of the normal alveolar barrier with subsequent leakage of protein-rich fluid into\nthe alveoli (noncardiogenic pulmonary edema). In the early phase, the inflammatory cell\ninfiltrate is predominantly neutrophils. Pathologically, the finding is described as diffuse alveolar\ndamage. Hyaline membranes and loss of type I pneumocytes are seen. The exudative phase of\nARDS lasts for approximately the first 7 days of illness. The second phase of ARDS is the\nproliferative phase, which begins around day 7 and continues through day 21. Most patients\nrecover during this phase and are able to be liberated from mechanical ventilation.\nHistologically, early signs of repair can be seen in this phase with shift to a lymphocyte-\npredominant infiltrate, proliferation of type II pneumocytes, and organization of the alveolar\npredominant infiltrate, proliferation of type II pneumocytes, and organization of the alveolar\nedema. Only a few individuals who develop ARDS fail to recover during the proliferative phase\nand continue into the fibrotic stage of the disease. Pathologically, individuals who develop\nfibrotic ARDS demonstrate extensive alveolar and interstitial fibrosis at sites of prior alveolar\nedema. The acinar architecture frequently becomes distorted, leading to development of\nemphysematous changes with large bullae. Fibrotic proliferation may also occur in the intima of\npulmonary vasculature, leading to development of pulmonary hypertension. Given the timing of\nthe presentation, this patient would be expected to be in the exudative phase of ARDS and\nexhibit diffuse alveolar damage, loss of type I pneumocytes, and hyaline membranes."
+    },
+    "65": {
+        "q_no": "65",
+        "question": "If a lung biopsy were to be taken 4 days after admission in the patient described in Question VI- 64, which statement correctly identifies the expected findings?",
+        "options": [
+            "Diffuse alveolar damage with hyaline membranes and protein-rich edema fluid in alveoli",
+            "Extensive eosinophil-rich infiltrate with protein-rich edema fluid",
+            "Extensive fibrosis of the alveolar ducts with development of bullae",
+            "Homogeneous infiltrate of neutrophils and leukocytes affecting all alveolar spaces",
+            "Proliferation of type II pneumocytes and presence of a lymphocyte-rich pulmonary infiltrate"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "67": {
+        "q_no": "67",
+        "question": "You are managing a patient admitted to the medical ICU for severe acute respiratory distress syndrome due to necrotizing pancreatitis. The patient has an ideal body weight of 70 kg. The patient\u2019s ventilator is set on a volume control with a respiratory rate of 28 bpm, tidal volume of 420 mL, FiO2 of 0.7, and PEEP of 8 cmH2O. The patient is hypoxemic with an SaO2 of 86% on these settings. You review the static pressure-volume curve for the respiratory system. The lower inflection point is at 12 cmH2O. The upper inflection point is at 30 cmH2O. Measured pressure with an inspiratory hold is 26 cmH2O. Which of the following is the best choice to improve oxygenation in this patient?",
+        "options": [
+            "Administer a paralytic agent",
+            "Decrease tidal volume to 350 mL",
+            "Increase FiO2 to 0.8",
+            "Increase PEEP to 12 cmH2O",
+            "Increase tidal volume to 560 mL"
+        ],
+        "answer": "D",
+        "explanation": "Hypoxemia in ARDS results in shunt physiology with the\npresence of alveolar and interstitial fluid and loss of surfactant. In turn, there is significant loss\nof lung compliance and development of alveolar collapse that is worse in the dependent portions\nof the lungs. During mechanical ventilation, the goal is to minimize overdistention of less\naffected areas of the lungs while maximizing alveolar recruitment. Positive end-expiratory\npressure (PEEP) is used to prevent alveolar collapse at end-expiration. Trials of mechanical\nventilation with high-PEEP compared to low-PEEP strategies did not show any differences in\noutcomes when a low tidal volume ventilation strategy was used. More recently, a trial used a\nstrategy that involved constructing static pressure-volume curves of the lung on the mechanical\nventilator. With this strategy, a lower inflection point can be calculated. This point identifies the\npressure at which the alveoli open. In ARDS, this point is typically 12\u201315 cmH2O. In theory,\nsetting the PEEP to this pressure will maximize oxygenation and prevent lung injury. Trials of\nthis mode of ventilation improve lung function and may have an effect on mortality. More\nrecently, strategies employing esophageal pressure catheters to estimate optimal transpulmonary\npressure are being studied to determine the effects on oxygenation, duration of mechanical\nventilation, and mortality."
+    },
+    "68": {
+        "q_no": "68",
+        "question": "A 75-year-old man is admitted to the ICU for sepsis in the setting of neutropenia due to chemotherapy for gastric cancer. He has severe acute respiratory distress syndrome and requires intubation. During the first 48 hours of his ICU stay, his volume status is positive 6 L. Which of the following statements regarding fluid management in acute respiratory distress syndrome is true?",
+        "options": [
+            "Aggressive diuresis to maintain a low left atrial filling pressure is associated with increased risk of acute kidney injury requiring hemodialysis.",
+            "Maintaining a low left atrial filling pressure through diuresis improves lung compliance and improves oxygenation.",
+            "Maintaining a low left atrial filling pressure through diuresis shortens ICU stay and decreases mortality in the medical intensive care unit, but not the surgical ICU.",
+            "Placement of a pulmonary arterial catheter for accurate measurement of left atrial filling pressure improves diagnostic accuracy and provides added benefit in determining fluid management strategy."
+        ],
+        "answer": "B",
+        "explanation": "The answer is B. (Chap. 322 and N Engl J Med 2006;354:2564\u20132575) Optimal fluid\nmanagement in ARDS is felt to be important to minimize extravasation of fluid into the\ninterstitium and alveolar spaces. However, in individuals with septic shock or other causes of\nhypotension, expansion of fluid volume to optimal levels is important in the management of\nhypotension. Whether an aggressive or conservative fluid management strategy was most\nimportant in acute lung injury was not known as there were concerns that a conservative fluid\nmanagement strategy would increase the likelihood of end-organ failure, especially acute kidney\ninjury. A trial sponsored by the ARDS Network attempted to answer this question by\nrandomizing individuals with acute lung injury to a conservative versus liberal fluid\nmanagement strategy. This trial demonstrated that a conservative fluid management strategy to\nmanagement strategy. This trial demonstrated that a conservative fluid management strategy to\nmaintain low left atrial pressure improved pulmonary mechanics and oxygenation while\ndecreasing the duration of mechanical ventilation, ICU stay, and mortality. At the same time,\nthere was no increased incidence of acute kidney injury."
+    },
+    "69": {
+        "q_no": "69",
+        "question": "In which of the following situations would noninvasive mechanical ventilation be considered contraindicated?",
+        "options": [
+            "Acute exacerbation of COPD",
+            "Acute hypoxemic respiratory failure in an individual with acute respiratory distress syndrome",
+            "Acute myocardial infarction",
+            "Decompensated systolic heart failure without acute myocardial ischemia",
+            "After extubation in an individual who had been intubated for COPD"
+        ],
+        "answer": "C",
+        "explanation": "Mechanical ventilation can be delivered in many different modes, which refers to the manner in\nwhich the breaths are triggered, cycled, and delivered. The most common mode of mechanical\nventilation is assist-control. This mode is volume cycled and flow limited. An inspiratory cycle\nmay be triggered by patient effort or, if there is no patient effort within a specific time, by a\ntimer within the ventilator. Each breath, whether triggered by patient effort or the ventilator,\ndelivers an operator-specified tidal volume. This mode is frequently the initial mode of\nmechanical ventilation when a patient is intubated as it ensures a known minute ventilation in\nthe absence of respiratory effort. Common difficulties with the use of assist-control ventilation\nare asynchrony with the ventilator and tachypnea, which can lead to respiratory alkalosis and/or\ngeneration of dynamic hyperinflation. This occurs when a patient triggers an inspiratory cycle\nbefore a full exhalation occurs. Commonly known as auto-PEEP, dynamic hyperinflation can lead\nto decreased venous return and a fall in cardiac output. It may also lead to barotrauma,\nincluding pneumothorax and pneumomediastinum. Intermittent mandatory ventilation (IMV) is\na mixed mode of ventilation. IMV is primarily a volume-cycled and flow-limited mode of\nventilation and is most often delivered in a synchronized mode (SIMV). The ventilator will\ndeliver a mandatory number of breaths at a specified tidal volume. If a patient breathes only at\nthe set respiratory rate, SIMV is essentially the same as assist-control ventilation. When a patient\nbreathes above the set respiratory rate, the spontaneous breaths may be unassisted or assisted\nwith a pressure support mode of ventilation. SIMV was commonly used as a weaning mode of\nventilation, but clinical trials have shown that trials of spontaneous breathing lead to a shorter\nduration of mechanical ventilation and more rapid extubation. Pressure control ventilation (PCV)\nis time triggered, time cycled, and pressure limited. This mode is often used in individuals who\nhave preexisting barotrauma or for postoperative thoracic surgery patients. It is also used in\nARDS to limit ventilator-induced lung injury. In PCV, there is no prespecified minimum tidal\nARDS to limit ventilator-induced lung injury. In PCV, there is no prespecified minimum tidal\nvolume or minute ventilation. Rather, a specified pressure is set during inspiration by the\noperator, and the tidal volume and inspiratory flow rate are dependent upon lung compliance.\nPressure support ventilation (PSV) is patient triggered, flow cycled, and pressure limited. PSV\nrequires a patient to spontaneously initiate respiration because no machine-delivered breaths are\ngiven. PSV provides graded assistance through application of an inspiratory pressure that\naugments spontaneous respiration. The pressure support falls to a specified expiratory pressure\nwhen the flow falls below a certain rate. PSV is often combined with SIMV to augment the\nspontaneously generated breaths. PSV also is used in ventilator weaning as it is generally well\ntolerated."
+    },
+    "74": {
+        "q_no": "74",
+        "question": "A 62-year-old woman was intubated for community-acquired pneumonia and sepsis. Upon admission to the ICU, she was hypotensive and required vasopressor treatment. She was sedated with propofol to achieve comfort on the ventilator. The ICU has a daily protocol for sedation interruption. She currently has been intubated for 8 days. Which of the following is a contraindication to a spontaneous breathing trial in this patient?",
+        "options": [
+            "Improving infiltrates on chest radiograph",
+            "FiO2 of 0.45",
+            "Ongoing need for vasopressor support",
+            "Patient is breathing over the set respiratory rate by 8 breaths/min",
+            "PEEP of 8 cmH2O"
+        ],
+        "answer": "C",
+        "explanation": "Spontaneous breathing trials (SBTs) have been determined to be\nthe best way to assess whether a patient has recovered sufficiently from respiratory failure to be\nextubated. An SBT can be implemented via T-piece, CPAP at low levels of pressure (1\u20135 cmH2O),\nor pressure support ventilation applied to offset the resistance of the endotracheal tube. A\npatient will undergo an SBT from 30 minutes to 2 hours to determine if respiration can be\nmaintained to support liberation from mechanical ventilation. It is important to recognize which\npatients are appropriate to undergo SBT. The following conditions predict patients who are\nready for weaning attempts: (1) lung injury is stable or resolving; (2) gas exchange is adequate,\nwith PEEP generally <8 cmH2O and FiO2 <0.5; (3) hemodynamic parameters are stable\nwithout need for ongoing vasopressor support; and (4) the patient has spontaneous respiratory\nactivity."
+    },
+    "75": {
+        "q_no": "75",
+        "question": "All of the following statements regarding the pathophysiology of shock are true EXCEPT:",
+        "options": [
+            "Hypotension inhibits the vasomotor center, resulting in decreased adrenergic output and increased vagal activity.",
+            "Metabolic changes, including glycolysis and lipolysis, raise extracellular osmolarity, leading to an osmotic gradient that increases interstitial volume at the expense of intracellular fluid volume.",
+            "Mitochondrial dysfunction and uncoupling of oxidative phosphorylation lead to decreased adenosine triphosphate (ATP) levels and a consequent accumulation of lactate and other reactive oxygen species.",
+            "Proinflammatory mediators stimulated by the innate immune system contribute significantly to multiple organ dysfunction and failure in shock.",
+            "Severe stress or pain causes increased release of adrenocorticotropic hormone (ACTH), subsequently increasing cortisol levels to increase gluconeogenesis, decrease peripheral uptake of glucose and amino acids, and enhance lipolysis."
+        ],
+        "answer": "A",
+        "explanation": "Shock is a complex pathophysiologic process that occurs in\nresponse to a decline in tissue perfusion. Clinically, shock states manifest with a mean arterial\npressure <60 mmHg. This nonspecific term can be caused by many different etiologies including\nsepsis, hypovolemia, trauma, hypoadrenal states, neurologic causes, and cardiac causes. Shock\nstates result in a decrease in tissue oxygen delivery. In turn, this creates a multifaceted response\nthat can become a self-perpetuating process that leads to further tissue injury. Hypotension\ndisinhibits the vasomotor center, leading to increased adrenergic output and decreased vagal\ntone. Norepinephrine leads to significant splanchnic and peripheral vasoconstriction in an\nattempt to maintain cerebral and cardiac blood flow. Other constrictor substances are secreted as\nwell including angiotensin II, vasopressin, endothelin-1, and thromboxane A2. In addition, there\nis pressure to maintain intravascular fluid volume through alterations in hydrostatic pressure and\nosmolarity. However, constriction of arterioles leads to reduction in capillary hydrostatic\npressure and the number of capillary beds perfused. This limits the capillary surface area\navailable for perfusion with the resultant increase in vascular oncotic pressure. This in turn leads\nto a net reabsorption of fluid into the vascular bed. Metabolic changes including glycolysis,\nlipolysis, and proteolysis further increase interstitial and intravascular volume at the expense of\nintracellular volume due to their effects on raising extracellular osmolarity. Within the cells,\nthere is rapid depletion of high-energy phosphate stores. This leads to mitochondrial dysfunction\nwith uncoupling of oxidative phosphorylation with accumulation of reactive oxygen species,\nlactate, and hydrogen ions. The byproducts of anaerobic metabolism can overcome the\ncompensatory vasoconstrictor mechanisms and lead to further hypotension. Extensive\nproinflammatory pathways are activated in shock and contribute to the development of multiple\norgan dysfunction and failure. After the initial insult, a counterregulatory process should be\ninitiated to balance the proinflammatory response. In individuals who have an excessive\nproinflammatory response that cannot be effectively regulated, the inflammatory process may\ncontinue unregulated and lead to further organ injury and failure. At the system level, shock\naffects a variety of endocrine, cardiac, pulmonary, and renal processes, among others. In\naddition to increases in norepinephrine, the stress associated with shock increases\nadrenocorticotropic hormone (ACTH) to increase cortisol secretion. Renin is also released in\nresponse to adrenergic discharge and decreased renal perfusion. Renin induces the formation of\nangiotensin I, which is converted to the active angiotensin II, which is a potent vasoconstrictor.\nAngiotensin II also stimulates release of aldosterone and vasopressin. The cardiac response to\nshock is to initially compensate by increasing heart rate. Many causes of shock, however, are\nshock is to initially compensate by increasing heart rate. Many causes of shock, however, are\nassociated with depression of myocardial contractility such that stroke volume is decreased for\nany given filling pressure. The pulmonary response may lead to development of noncardiogenic\npulmonary edema, ARDS, and decreased lung compliance. Finally, the kidney responds to shock\nby conserving salt and water."
+    },
+    "76": {
+        "q_no": "76",
+        "question": "A person is admitted to the neurologic ICU with a C2-3 spinal cord transection. The patient is in shock with a blood pressure of 72/40 mmHg. What would the expected findings be on a pulmonary artery catheter?",
+        "options": [],
+        "answer": "E",
+        "explanation": "Different causes of shock are associated with different physiologic\nfindings throughout the vascular system. Although rarely used in most cases of shock, a\npulmonary artery catheter can be used to measure these values. However, it is important to\nunderstand pathologically what occurs in the vascular system. The typical measured variables\ninclude cardiac output (CO), systemic vascular resistance (SVR), mixed venous oxygen saturation\n(SVO2), central venous pressure (CVP), and pulmonary capillary wedge pressure (PCWP).\nPatients who have interruption of sympathetic vasomotor input after high cervical cord injury or\nmajor head injury may experience neurogenic shock. In neurogenic shock, there is arteriolar\ndilation and venodilation. The result is a fall in all variables measured (CO, SVR, SVO2, CVP, and\nPCWP) (option E). Hypovolemia is the most common cause of shock and occurs due to acute\nblood loss or significant loss of plasma volume due to extravascular fluid sequestration.\nGastrointestinal or renal fluid losses may also lead to hypovolemic shock. In hypovolemic shock,\nCO is low; SVR is elevated; and SVO2, CVP, and PCWP are low (option A). Cardiogenic shock\n(option B) has similarly low CO, elevated SVR, and low SVO2. However, CVP and PCWP are\nelevated. Septic shock can be hyperdynamic or hypodynamic. Early in the septic shock, the\nhyperdynamic state predominates and is associated with increased CO, low SVR, and low SVO2.\nCVP and PCWP are variable and may be low, normal, or elevated (option C). The hypodynamic\nstate of septic shock is associated with low CO and high SVR with variable effect of CVP, PCWP,\nand SVO2. Shock following trauma is most often due to hypovolemia. However, after\nintravascular volume is restored, some individuals will continue to experience hypotension due\nto loss of plasma volume into the interstitium and injured tissues. This type of shock will be\nassociated with variable effects on CO and SVR with low SVO2, CVP, and PCWP. Finally,\nhypoadrenalism is a rare cause of shock associated with unrecognized adrenal insufficiency.\nHypoadrenal shock presents with a low CO, low SVO2, low CVP, low PCWP, and normal to low\nSVR."
+    },
+    "77": {
+        "q_no": "77",
+        "question": "All of the following statements regarding the epidemiology of sepsis and septic shock are true EXCEPT:",
+        "options": [
+            "Gram-positive bacteria are the most commonly isolated causative organisms in sepsis syndromes.",
+            "In individuals with septic shock, blood cultures are positive in 40%\u201370% of cases.",
+            "Most cases of sepsis occur in individuals with significant underlying illness.",
+            "Respiratory infections are the most common cause of sepsis syndromes.",
+            "The annual incidence of severe sepsis has increased over the past 30 years with a current incidence of approximately 3 per 1000 population."
+        ],
+        "answer": "A",
+        "explanation": "Sepsis and septic shock represent a harmful host response to\ninfection and are contributing factors to more than 200,000 deaths in the United States each\nyear. Over the past 30 years, the incidence of sepsis has risen along with our aging population.\nAnnually, there are more than 750,000 cases of sepsis yearly with an incidence of 3 per 1000\npopulation. Most cases of sepsis occur in individuals with underlying illness. The incidence also\nincreases with age and increasing comorbidities. Other risk factors for sepsis include\nimmunocompromised state and indwelling vascular or mechanical devices. The most common\nsource of infection in individuals with sepsis is the lungs, accounting for 64% of cases of sepsis.\nMicrobial invasion of the bloodstream is not required for an individual to develop the systemic\nresponse that leads to multiorgan dysfunction in sepsis. Blood cultures are only positive in 40%\u2013\n70% of cases of septic shock and approximately 20%\u201340% of cases of severe sepsis. When a\nculture is positive from any site, the most common organisms are gram-negative bacteria (62%),\nwith P aeruginosa and Escherichia coli being the most common. Gram-positive bacteria are present\nin approximately 47% of cases, and 19% occurred in people infected with fungi. Because the\nnumbers add up to >100%, it should be noted that multiple bacteria may be implicated in\nsepsis."
+    },
+    "78": {
+        "q_no": "78",
+        "question": "A 62-year-old woman presents to the emergency department for evaluation of fevers and respiratory symptoms. She began to feel ill about 2 days ago, and her symptoms have been progressively worse since that time. She has a past medical history of rheumatoid arthritis and takes adalimumab 40 mg every other week. On presentation in the emergency department, the patient appears acutely ill and dyspneic. Her oxygen saturation is 84% on room air with a respiratory rate of 25 breaths/min. Initial blood pressure is 82/44 mmHg, heart rate is 132 bpm, and temperature is 101.9\u00b0F. She has crackles over the entire lower half of her right lung. Her chest radiograph shows consolidation of the right lower and middle lobes without a pleural effusion. Blood and sputum cultures are drawn. The patient is begun on IV hydration and treatment with ceftriaxone and moxifloxacin. After 2 hours, the patient has received 2 L of normal saline. Her blood pressure is 98/70 mmHg with a heart rate of 125 bpm. She is requiring 50% oxygen by nasal mask to maintain her SaO2 at 92%\u201394%. Since presentation to the emergency department, she has produced 100 mL of urine. A blood gas is performed with a pH of 7.46, PaCO2 of 32 mmHg, and PaO2 of 76 mmHg. How would this patient\u2019s presentation be classified?",
+        "options": [
+            "Refractory septic shock",
+            "Septic shock",
+            "Sepsis",
+            "Signs of possibly harmful systemic response",
+            "Systemic inflammatory response syndrome"
+        ],
+        "answer": "C",
+        "explanation": "The answer is C. (Chap. 325 and JAMA 2016;315:801\u2013810) Sepsis represents a dysregulated\nhost response to infection, and severity can range broadly from a mild inflammatory response to\nrefractory septic shock (Table VI-78). Multiple professional medical societies have attempted to\ncreate a standardized definition of sepsis and septic shock over the years to aid in early\nidentification of sepsis with the goal of improving patient outcomes. The most recent definition\nof sepsis simplifies diagnosis into two categories: sepsis and septic shock. This eliminates prior\ncategories included in the continuum of sepsis including systemic inflammatory response\ncategories included in the continuum of sepsis including systemic inflammatory response\nsyndrome (SIRS) and severe sepsis. SIRS criteria may be present in many individuals with\ninfection who do not develop progressive symptoms of sepsis. The symptoms that may indicate a\nharmful systemic response to infection are many of those previously included in the SIRS\ndefinition, including fever or hypothermia, tachypnea, tachycardia, and leukocytosis. However,\nSIRS can be present due to systemic inflammatory responses with other stresses such as trauma\nor acute pancreatitis that are not caused by infection. Thus, the term SIRS is neither sensitive nor\nspecific for identifying patients at risk of developing sepsis. Severe sepsis was also a term with\nlimited specificity and did not provide additional risk stratification. In the simplified definition,\nthere is greater reliance on use of the Sequential Organ Failure Assessment (SOFA) score. Sepsis\nis thus defined as a suspected or documented infection with an acute increase of \u22652 points,\nwhereas septic shock is clinically defined as sepsis with need for vasopressor support and\nelevated lactate (>2 mmol/L) despite adequate fluid resuscitation. The SOFA score incorporates\na variety of measures to determine the magnitude of multiorgan dysfunction. Variables include\nPaO2/FiO2 ratio, platelet count, bilirubin, Glasgow Coma Scale score, creatinine, urine output,\nand blood pressure/vasopressor support. Sepsis is identified as evidence of infection with\nevidence of organ dysfunction. Using the SOFA score as a determinant of organ dysfunction\ncreates a more standard measure for identifying sepsis. A patient may be considered in refractory\nseptic shock if the mean arterial pressure remains low for >1 hour despite fluid resuscitation\nand vasopressors. Refractory septic shock is not included in the guidelines.\nTALBLE VI-78   Definitions Used to Describe the Condition of Septic Patients"
+    },
+    "79": {
+        "q_no": "79",
+        "question": "A 68-year-old man is admitted to the ICU with septic shock. He initially presented with hypotension and fever to 102.5\u00b0F. After a 3-L normal saline bolus, he continues to be hypotensive and requires vasopressor support with norepinephrine at 10 \u03bcg/min. On presentation, no source of infection is readily apparent. Blood and urine cultures are obtained. The patient is unable to expectorate sputum. The patient\u2019s past medical history is significant for COPD, coronary artery disease, and alcohol abuse. He also was in a motor vehicle accident 20 years ago that resulted in splenectomy. He has no medication allergies. The local incidence of cephalosporin-resistant S pneumoniae is >1%. Which of the following is the recommended empiric antibiotic regimen for this patient?",
+        "options": [
+            "Cefotaxime",
+            "Cefotaxime plus vancomycin",
+            "Levofloxacin",
+            "Levofloxacin plus vancomycin",
+            "Vancomycin"
+        ],
+        "answer": "B",
+        "explanation": "Blood cultures are positive in only 40%\u201370% of cases of sepsis,\nalthough in most individuals, a source of infection can be identified through examination of\ninfected material (e.g., sputum, abscess fluid, urine) or through the identification of RNA or DNA\nin blood or tissue samples. In some individuals, the immediate source of infection is not\napparent. In cases of sepsis and septic shock, it is important to initiate antibiotic therapy\nimmediately while awaiting culture data to become available. A delay in antibiotic therapy as\nlittle as 1 hour has been associated with lower survival rates. In addition, use of \u201cinappropriate\u201d\nantibiotics defined on the basis of local susceptibility patterns and published guidelines for\nempiric antibiotic therapy is associated with a fivefold increase in mortality. This patient has\nevidence of septic shock and has had a prior splenectomy. Patients who have had splenectomy\nare at risk for sepsis due to encapsulated organisms. In these individuals, sepsis is most\ncommonly caused by Streptococcus pneumoniae, but Haemophilus influenzae and Neisseria\nmeningitidis may also be implicated. In an asplenic patient with sepsis, the patient should be\nempirically treated with cefotaxime or ceftriaxone. In areas where there is significant resistance\nof S pneumoniae to cephalosporins, vancomycin should be added. In most areas, the\ncephalosporin resistance is only 1%. If a patient is allergic to cephalosporins, fluoroquinolones\nshould be used as an alternative medication."
+    },
+    "80": {
+        "q_no": "80",
+        "question": "Despite appropriate antibiotic therapy and supportive care, the mortality related to sepsis remains high with 40%\u201360% of patients with septic shock dying within 30 days. Multiple therapies have been attempted to improve this mortality, but many of these have been found to be ineffective after initially promising results. Examples of these include all of the following EXCEPT:",
+        "options": [
+            "Activated protein C",
+            "Erythrocyte transfusions to maintain a hemoglobin level >7 g/dL",
+            "Insulin therapy to achieve tight glucose control (100\u2013120 mg/dL)",
+            "Performance of adrenocorticotropin hormone stimulation tests for adrenal insufficiency",
+            "Tissue factor pathway inhibitor"
+        ],
+        "answer": "B",
+        "explanation": "Mortality in sepsis remains high, with approximately 20%\u201335%\nof individuals dying when severe sepsis is present and up to 60% dying due to septic shock.\nMortality increases with increasing age and number of comorbidities. Numerous interventions\nhave been attempted to try to decrease mortality by providing better supportive care or targeting\nthe underlying pathophysiologic mechanisms that lead to organ failure in sepsis. An example of a\nsupportive measure that has been proven ineffective in sepsis is insulin therapy to achieve tight\nglucose control. The rationale for lower blood glucose in sepsis was that hyperglycemia was\nassociated with poorer outcomes in critical illness. After initial enthusiasm from data generated\nby a single-center trial in a surgical ICU, the benefits were not demonstrated in a medically ill\npopulation. Meta-analyses have concluded that intensive insulin therapy does not affect survival\nand may lead to harm, particularly from hypoglycemia. Anemia also frequently develops in\nindividuals with critical illness. The target hemoglobin necessary to maintain oxygen-carrying\ncapacity has to be balanced against potential harm from transfusion therapy, including infection\nand transfusion-associated acute lung injury. A randomized trial demonstrated that patients were\nnot harmed by a lower hemoglobin threshold for transfusion (7 g/dL) compared to a higher\nhemoglobin goal (9 g/dL). Patients with refractory hypotension in sepsis have been shown to\nhave a relative deficiency of cortisol in the face of profound metabolic stress. This so-called\ncritical illness\u2013related corticosteroid insufficiency may lead to worse outcomes in critical illness.\nTrials to determine which patients would most benefit from corticosteroid replacement used\nadrenocorticotropin hormone stimulation to assess adrenal response to stimulus. However, this\napproach did not lead to improved outcomes, and most practitioners favor a more empiric\napproach to corticosteroid replacement. Hydrocortisone should be considered at a dose of 50 mg\nevery 6 hours in patients with septic shock on vasopressors. If clinical improvement occurs with\nuse of hydrocortisone over 24\u201348 hours, then a course of therapy for 5\u20137 days is indicated. Other\ninterventions that have been trialed but failed for septic shock include endotoxin-neutralizing\nproteins, inhibitors of cyclooxygenase or nitric oxide synthase, anticoagulants, polyclonal\nantibodies, and inhibitors of tumor necrosis factor-\u03b1, interleukin-1, platelet-activating factor, and\ntissue factor pathway. One of the most widely known medications used for sepsis was\nrecombinant activated protein C (APC). This medication was approved by the FDA for severe\nsepsis and septic shock based on the outcome of a randomized controlled trial that showed a\nmortality benefit in patients who were more severely ill. Subsequent trials showed no benefit in\npatients with less severe illness and in children. A subsequent confirmatory trial showed no\nbenefit to APC, and it was removed from the market 10 years after being approved."
+    },
+    "82": {
+        "q_no": "82",
+        "question": "A 72-year-old man with known ischemic dilated cardiomyopathy and an ejection fraction of 20% is admitted to the coronary care unit with decompensated heart failure. His blood pressure is 74/56 mmHg, and heart rate is 108 bpm. His oxygen saturation is 85% on a non-rebreather mask. His chest radiograph shows diffuse pulmonary edema and bilateral effusions. There is 4+ pitting edema bilaterally throughout both legs and in the sacrum. He has evidence of ascites. His extremities are cool to touch and cyanotic. His mental status is poor. He is lethargic and does not respond to his name. All of the following would be indicated in the initial treatment of this patient EXCEPT:",
+        "options": [
+            "Dobutamine 5 \u03bcg/kg/min IV",
+            "Furosemide 60 mg IV",
+            "Initiation of mechanical ventilation",
+            "Morphine 2 mg IV",
+            "Norepinephrine 5 \u03bcg/min IV"
+        ],
+        "answer": "A",
+        "explanation": "The patient has evidence of decompensated ischemic\ncardiomyopathy with marked volume overload, pulmonary edema, and cardiogenic shock. Initial\nmanagement of this patient includes maintenance of adequate oxygenation and circulatory\nsupport while initiating diuresis. Figure VI-82 outlines the optimal treatment for acute\npulmonary edema. Oxygenation should be maintained, and intubation with mechanical\nventilation is frequently required. The combination of nitroglycerin and morphine provides\nvenodilation and decreases venous return and, in turn, decreases the work of breathing.\nMorphine further provides symptomatic relief of dyspnea and anxiety. Furosemide or other loop\ndiuretics should be administered at the equivalent furosemide dose of 0.5\u20131.0 mg/kg.\nNorepinephrine may be required when the systolic blood pressure is less than 100 mmHg to\nmaintain a mean arterial pressure of 60 mmHg. Dobutamine is a positive inotropic agent that is\noften used for cardiogenic shock but may acutely cause a decline in blood pressure. It should be\nconsidered when the systolic blood pressure is 70\u2013100 mmHg without signs and symptoms of\nshock.\nFIGURE VI-82 ACE, angiotensin-converting enzyme inhibitors; BP, blood pressure; IV, intravenous; SBP,\nsystolic blood pressure; SL, sublingual. Modified from Guidelines 2000 for Cardiopulmonary\nResuscitation and Emergency Cardiovascular Care. Part 7: The era of reperfusion: Section 1: Acute\ncoronary syndromes [acute myocardial infarction]. The American Heart Association in collaboration with\nthe International Liaison Committee on Resuscitation. Circulation 102:I172, 2000."
+    },
+    "83": {
+        "q_no": "83",
+        "question": "A 52-year-old woman is in the coronary care unit after an acute myocardial infarction in the anterior distribution. She was revascularized with a primary percutaneous angioplasty of the proximal left anterior descending artery. Twelve hours after the procedures, you are called to the bedside for an acute decline in blood pressure and dyspnea. Two hours previously, her blood pressure was 115/72 mmHg. Her current blood pressure is 90/78 mmHg. Her heart rate has increased from 88 to 120 bpm. Her oxygen saturation has declined to 86% on room air. She is diaphoretic and pale. She appears in marked distress. There is development of a new cardiac holosystolic murmur heard at the apex and radiating across the precordium into the left axilla. You suspect acute mitral regurgitation. Which of the following would be the expected findings if a pulmonary artery catheter was in place?",
+        "options": [],
+        "answer": "C",
+        "explanation": "Table VI-83 outlines the hemodynamic patterns that can be seen\nin various forms of shock, including shock caused by a variety of complications of acute MI. This\npatient presents with acute hypotension following a coronary revascularization procedure for\nacute anterior MI. Acute severe mitral regurgitation can occur following acute MI due to\npapillary muscle dysfunction and rupture, resulting in cardiogenic shock and/or pulmonary\nedema. This complication most often occurs within the first day after an MI, although there is a\nsecond peak of occurrence several days after MI. Other complications that can occur after MI\nresulting in rapid development of hypotension and cardiogenic shock include ventricular septal\nrupture, cardiac tamponade, and free wall rupture. It is important to understand the\nhemodynamics of these complications as well as other causes of shock, although clinically,\npulmonary artery catheters are used less frequently these days because their use has not been\npulmonary artery catheters are used less frequently these days because their use has not been\nassociated with improvements in care. Normal values (option B) are shown in the top most\nportion of the table and are important for general knowledge regarding the circulatory system. A\npatient with acute mitral regurgitation (option C) would have normal to elevated right atrial\npressure and elevations in the right ventricular systolic pressure and pulmonary artery pressures,\nalthough right ventricular diastolic pressure may be normal or elevated. The most characteristic\nfinding is an elevation in the pulmonary capillary wedge pressure (PCWP) with a prominent v\nwave. The large v wave represents the pressure generated during systole across the regurgitant\nmitral valve. Cardiac index would be low normal to low, with normal to elevated systemic\nvascular resistance. Individuals with cardiac tamponade demonstrate equalization of pressures\nacross the vascular system with a low cardiac index (option E). This is manifest as right atrial\npressure, right ventricular diastolic pressure, pulmonary artery diastolic pressure, and PCWP all\nmanifesting similar values. Free wall rupture causes cardiac tamponade and has a dramatic\npresentation, often leading to death. It can present more subacutely if the pericardium is able to\ntemporarily seal the rupture site. Ventricular septal rupture presents similarly to acute mitral\nregurgitation. However, the hemodynamics are different as the right atrial pressure and right\nventricular diastolic pressure are typically higher, whereas PCWP may not be as elevated.\nCardiogenic shock with right ventricular failure that can occur following inferior MI or\npulmonary embolus will demonstrate a low cardiac index and elevated right atrial and right\nventricular diastolic pressures with a wedge pressure that may be low, normal, or elevated\n(option D). The patient presenting with elevated cardiac output and low right atrial and\nventricular pressures as well as low PCWP is most typical of a patient with septic shock.\nTALBLE VI-83   Hemodynamic Patternsa"
+    },
+    "84": {
+        "q_no": "84",
+        "question": "All of the following statements regarding sudden cardiac death are true EXCEPT:",
+        "options": [
+            "An individual can be classified as having sudden cardiac death following a resuscitated cardiac arrest if death occurs during the subsequent hospitalization or within the next 30 days.",
+            "Approximately 66% of individuals who experience sudden cardiac death have had prior cardiac events.",
+            "Asystole is the most commonly encountered rhythm in an individual with sudden cardiac death.",
+            "Parental history of sudden cardiac death as a first cardiac event increases the probability of a sudden cardiac event in offspring.",
+            "The incidence of sudden cardiac death is higher in the African American population compared to the white population."
+        ],
+        "answer": "B",
+        "explanation": "Sudden cardiac death (SCD) is responsible for between 200,000\nand 450,000 deaths yearly in the United States. SCD is defined as natural death due to cardiac\nand 450,000 deaths yearly in the United States. SCD is defined as natural death due to cardiac\ncauses with presentation within 1 hour or less from a change heralding the onset of the terminal\nclinical event and the onset of cardiac arrest. In an individual who experiences an unwitnessed\ndeath, pathologists may expand the definition to up to 24 hours after the individual was last seen\nto be alive and stable. If an individual is successfully resuscitated from SCD, he or she would still\nbe classified as SCD if death occurs during the initial hospitalization or within 30 days of the\nresuscitated cardiac event. In two-thirds of individuals, SCD is the first clinical expression of\nunderlying cardiac disease, and up to half of all cardiac deaths are sudden and unexpected. SCD\ncan occur due to primary arrhythmia, arrhythmia induced following an acute cardiac event, a\nstructural abnormality following a prior cardiac event, or acute low-output states that may occur\ndue to acute pulmonary embolism, ruptured aortic aneurysm, anaphylaxis, and cardiac\ntamponade, among other causes. There is a peak in sudden, unexpected deaths between birth\nand 6 months of age (sudden infant death syndrome), with a second peak that occurs between\nthe ages of 45 and 75 years with an incidence of 1\u20132 per 1000 per year. Individuals of African\nAmerican descent have a higher incidence of SCD compared to the white population. Young and\nmiddle-aged men have a higher risk of SCD compared to women, but with advancing age, the\ngender differences in SCD disappear. Genetic factors also play a role in the risk for SCD because\nhaving a parental history of SCD as an initial presentation of cardiac disease increases the\nlikelihood of a similar event in offspring. Other risk factors include those of cardiac disease,\nincluding smoking, diabetes, hyperlipidemia, and hypertension. In the past, ventricular\nfibrillation and ventricular tachycardia were the most common arrhythmias seen in patients\nexperiencing SCD. However, asystole currently accounts for about 50% of all cases of SCD.\nPrognosis and outcome depend on the underlying etiology of the event. Ventricular tachycardia\nand ventricular fibrillation have significantly better outcomes when compared to individuals\nwho present with asystole or pulseless electrical activity."
+    },
+    "85": {
+        "q_no": "85",
+        "question": "Which of the following states correctly identifies a patient in a coma?",
+        "options": [
+            "Akinetic mutism",
+            "Catatonia",
+            "Locked-in state",
+            "Metabolic encephalopathy",
+            "Persistent vegetative state"
+        ],
+        "answer": "D",
+        "explanation": "Coma is a surprisingly common medical condition that is\nresponsible for a large number of admissions to emergency and critical care units. Coma refers to\na deep sleeplike state from which a patient cannot be aroused. It occurs on a continuum of\ndisorders of decreased alertness that includes stupor, in which a patient can be transiently\naroused with vigorous stimulation and with generally purposeful response to painful stimuli.\nDrowsiness is a light state of decreased alertness that is similar to light sleep. A patient can be\naroused easily, and alertness typically persists for a period after arousal. There are multiple\netiologies of coma and several disorders that can cause unresponsiveness that can be confused\nwith coma. Some of the common causes of coma include drug intoxications, metabolic\nderangements, severe systemic infections, shock, seizures, hypertensive encephalopathy,\nconcussion, meningitis, encephalitis, intracranial hemorrhage, and intracranial mass lesions,\namong others. One condition that is often confused with coma is the persistent vegetative state.\nA vegetative state refers to someone who has emerged from coma with an awake appearance but\nis unresponsive. There are few, if any, meaningful responses to stimuli from the environment.\nPersistent vegetative state occurs following significant damage to both cerebral hemispheres with\npreservation of brainstem function. It occurs most commonly following cardiac arrest or\ntraumatic brain injury. A minimally conscious state is similar to the persistent vegetative state\nbut less severe. The patient appears awake, can make rudimentary vocalizations, and may have\nsome purposeful motor behaviors, occasionally in response to commands. Other syndromes that\ncan mimic coma include akinetic mutism, catatonia, and locked-in state. Akinetic mutism occurs\ndue to extreme hydrocephalus or damage to the medial thalamic nuclei or frontal lobes. In\nakinetic mutism, the patient appears awake and is able to think and form memories but is unable\nto move or speak. Upon recovery, the patient can recount events from the period of the mutism.\nCatatonia usually occurs in individuals with severe psychiatric illness. Patients make few\nvoluntary or responsive movements, although they do not appear distressed. On careful\nexamination, it usually becomes apparent the patient is responsive. Eyes will move with head\nrotation, and the patient will blink with a visual threat. Other subtle signs may be present as\nwell. Locked-in syndrome occurs following an injury to the ventral pons. In this setting, the\npatient has normal cerebral function but has no means to produce speech or movement. The only\nmovements a patient will have are voluntary vertical movement of the eyes and lid elevation."
+    },
+    "87": {
+        "q_no": "87",
+        "question": "A 44-year-old woman is admitted to the intensive care unit with decreased alertness. She was brought to the hospital after she was found unresponsive at home when she failed to show up for lunch with her mother. She has been feeling depressed after losing her job 2 months ago. She lives alone after a divorce 10 years ago. She has no pertinent past medical history, but her mother is uncertain whether the patient takes any medications. Her blood pressure on admission is 92/54 mmHg, heart rate is 112 bpm, respiratory rate is 24 breaths/min, and SaO2 is 99% on room air. Temperature is 38.2\u00b0C. She appears flushed and has deep rapid breathing. She is unresponsive to voice, but withdraws to painful stimuli. She has intermittent muscular spasms diffusely. Her pupils are 5 mm and reactive. What is the most likely etiology of the patient\u2019s coma?",
+        "options": [
+            "Concussion",
+            "Cortical vein thrombosis",
+            "Drug intoxication",
+            "Systemic infection",
+            "Meningeal infection"
+        ],
+        "answer": "C",
+        "explanation": "The coma in this patient is caused by drug intoxication, most\nlikely tricyclic antidepressant overdose. Coma is commonly caused by drug intoxications and\ncompounded by the resulting metabolic derangements. Because the patient is unresponsive, it is\nnot possible to obtain a medical history, but family members and friends should be queried to\nassist with determining a possible cause. This patient has had recent depression, which could\npotentially indicate use of antidepressant medications and also increased suicide risk. Tricyclic\nantidepressants exert an anticholinergic effect. Common symptoms include an alerted level of\nconsciousness, cardiac conduction abnormalities, arrhythmias, and evidence of anticholinergic\nactivity including elevated temperature, flushing, and dilated pupils. If cardiac conduction delays\nare present, sodium bicarbonate should be given. Other supportive care includes use of\nintravenous fluids and management of agitation."
+    },
+    "88": {
+        "q_no": "88",
+        "question": "A 48-year-old man was admitted to the ICU with a large intracranial bleed following a motorcycle accident. On initial CT scan, there was midline shift and evidence of uncal herniation. At the scene of the accident, the patient was initially minimally response but has been totally unresponsive to all stimuli since admission. The patient was intubated by emergency medical services en route to the hospital. He has now been admitted for 24 hours. You believe the patient is brain dead. Which of the following contributes to the diagnosis of brain death?",
+        "options": [
+            "Absence of pupillary light reflex",
+            "Apnea",
+            "Loss of oculovestibular reflexes",
+            "Unresponsiveness to all forms of stimulation",
+            "All of the above are criteria for assessment of brain death."
+        ],
+        "answer": "E",
+        "explanation": "Brain death refers to the irreversible loss of all cerebral and\nbrainstem function. Cardiac activity is preserved, and respiration is maintained only by artificial\nmeans. In Western society, brain death is considered equivalent to death, and the respirator can\nbe disconnected to allow cardiac death to occur. Careful examination of a patient needs to be\nperformed to assess when brain death has occurred. At the time of examination, the patient\nneeds to be normothermic and have been without treatment with sedative medications for at\nleast 6\u201324 hours. Patients should also be maintaining a systolic blood pressure >100 mmHg and\nbe euvolemic. Ideal criteria are simple, can be assessed at the bedside, and should have no\nchance of diagnostic error. Three essential elements of brain death include:\n1. Widespread cortical destruction identified by coma and unresponsiveness to all stimuli.\n2. Global brainstem damage evidenced by absent pupillary light reflexes and loss of\noculovestibular and corneal reflexes\n3. Loss of medullary function with complete and irreversible apnea\nThe pupils are usually mid-sized, but can be enlarged. However, they should not be miotic. Deep\ntendon reflexes may be present, and Babinski response is usually absent or flexor. The apnea test\nis performed by preoxygenating a patient with 100% FiO2 for up to 10 minutes, with oxygen\ndelivered via transtracheal cannula throughout the test. The patient remains off the ventilator for\n8\u201310 minutes, and signs of respiration are observed. At the end of the test, an arterial blood gas is\nperformed to demonstrate that PaCO2 has risen to 50\u201360 mmHg. Apnea is confirmed if there is\nno evidence of respiration when the PaCO2 has risen to a level that should have stimulated\nrespiration. The apnea test should be terminated if the patient develops cardiovascular instability.\nrespiration. The apnea test should be terminated if the patient develops cardiovascular instability.\nOther ancillary tests are sometimes performed in patients who cannot undergo clinical testing of\nbrain death. Examples of scenarios in which ancillary tests may be useful include patients who\nare hemodynamically unstable, patients with diseases causing baseline carbon dioxide retention,\nand in the presence of prior sedation or neuromuscular blocking agents. The purpose of ancillary\ntesting is to demonstrate lack of cerebral blood flow, and ancillary testing can include\nradionuclide brain imaging, cerebral angiography, and/or transcranial Doppler measurements."
+    },
+    "89": {
+        "q_no": "89",
+        "question": "Intraparenchymal intracranial pressure monitoring is preferred over ventriculostomy in which of the following patients?",
+        "options": [
+            "A 24-year-old man admitted with traumatic brain injury following a motor vehicle accident and a Glasgow Coma Scale score of 6",
+            "A 35-year-old woman with autoimmune hepatitis admitted with fulminant hepatic failure and an international normalized ratio of 3.5",
+            "A 48-year-old man admitted to the ICU with subarachnoid hemorrhage following a rupture of an anterior cerebral artery aneurysm",
+            "A 68-year-old woman admitted with a hemorrhagic stroke in the right temporal region with associated midline shift visualized on CT scan",
+            "All of the above are appropriate candidates for ventriculostomy."
+        ],
+        "answer": "B",
+        "explanation": "Monitoring intracranial pressure (ICP) is an important tool in the\ncare of selected critically ill patients due to neurologic injury or disease. ICP can be monitored\nby ventriculostomy, intraparenchymal transducer, epidural catheter, or subarachnoid catheters.\nEpidural or subarachnoid catheters are less reliable and are less frequently used.\nVentriculostomy is considered the \u201cgold standard\u201d for ICP monitoring because it offers the\nadvantage of providing a means of cerebrospinal fluid drainage in the event of elevated ICP. In\naddition, ventriculostomy monitoring also provides greater accuracy because it has the ability to\nbe recalibrated, whereas the intraparenchymal monitor does not. Patients who are most likely to\nbe considered for ICP monitoring are those with severe primary neurologic disorders, including\nsevere traumatic brain injury (Glasgow Coma Scale \u22648), large tissue shifts from supratentorial\nischemic or hemorrhagic stroke, intraventricular hemorrhage, or posterior fossa stroke.\nIndividuals with fulminant hepatic failure are also at risk for severe cerebral edema leading to\nherniation. ICP monitoring is recommended for these individuals, although intraparenchymal\nmonitoring is often more appropriate than ventriculostomy due to the presence of coagulopathy.\nThese patients are at particularly high risk of bleeding. In addition, individuals with diffuse\ncerebral edema, such as in fulminant hepatic failure, typically have small ventricles leading to\ndifficulty in placement."
+    },
+    "90": {
+        "q_no": "90",
+        "question": "A 55-year-old woman is admitted to the ICU following a subarachnoid hemorrhage caused by a rupture of the posterior communicating artery. The patient is treated with intravascular placement of a coil in the aneurysm, and a ventriculostomy is placed for intracranial pressure (ICP) monitoring. Upon arrival to the ICU after surgery, she is intubated and minimally responsive to painful stimuli. She does not respond to voice. The initial ICP is 45 mmHg, and the initial blood pressure is 138/85 mmHg (mean arterial pressure, 103 mmHg) with the head of the bed elevated at 30 degrees. The ICP remains at 45 mmHg over the next 5 minutes. What would you recommend next in the management of this patient?",
+        "options": [
+            "Administer 30 mL of 23.4% hypertonic saline",
+            "Administer dexamethasone 4 mg every 6 hours",
+            "Do nothing as patient has an adequate cerebral perfusion pressure",
+            "Drain ventriculostomy to attain an ICP <20\u201325 mmHg",
+            "Increase respiratory rate on the ventilator to decrease the PaCO2 to 30 mmHg"
+        ],
+        "answer": "D",
+        "explanation": "The primary goal of ICP monitoring in patients with severe\nneurologic injury and elevated ICP is to maintain adequate cerebral perfusion pressure (CPP).\nCPP is calculated as mean arterial pressure minus the ICP, and the goal CPP is \u226560 mmHg.\nNormal ICP is <20 mmHg. Thus, this patient is showing evidence of marked elevations in ICP\nwith a CPP of 58 mmHg. When ICP remains elevated for more than 5 minutes, therapy should be\nundertaken to decrease the ICP. It is important to consider the underlying cause of ICP in an\nindividual when determining treatment plan. In patients with hydrocephalus or subarachnoid\nhemorrhage, draining cerebrospinal fluid via the ventriculostomy will decrease the ICP. In\npatients with more diffuse cerebral edema from head trauma or stroke, medical approaches are\nmore appropriate. This patient has hydrocephalus due to subarachnoid bleeding. Therefore, the\nfirst line of treatment should be to drain the ventriculostomy. If this fails to adequately alleviate\nthe elevations in ICP, other treatment modalities including osmolar therapy, sedation,\nhyperventilation, or vasopressors to increase mean arterial pressure can be considered. There are\ntwo osmolar therapies that are frequently used: mannitol or 23.4% saline bolus. Deep sedation\nmay be required, and a variety of agents may be used. Neuromuscular blockade may be used as\nwell. Hyperventilation to drop the PaCO2 to 30\u201335 mmHg works acutely to drop the ICP, but the\neffect is limited. Vasopressors can be considered to increase the mean arterial pressure and thus\nensure an improved CPP. Glucocorticoids are best used in individuals with vasogenic edema\nfrom tumor or abscess. In those with refractory elevations in ICP, decompressive craniectomy,\nhigh-dose barbiturate therapy, or hypothermia may also be employed."
+    },
+    "91": {
+        "q_no": "91",
+        "question": "A 56-year-old man is admitted to the hospital following a witnessed cardiac arrest. Upon arrival of emergency medical personnel, the rhythm is ventricular fibrillation. The patient is cardioverted into sinus rhythm with return of spontaneous circulation. His estimated duration without circulation is 10 minutes. ECG demonstrated evidence of acute myocardial infarction in an anterior distribution. The patient is treated with primary angioplasty of a 100% occlusion of the proximal left anterior descending artery. He is brought to the ICU intubated and requires use of norepinephrine to maintain his mean arterial pressure greater than 60 mmHg. Initial neurologic examination shows absence of corneal and gag reflexes. When you move the head side to side, the eyes move in concert with the head movement and do not stay fixed. Intermittent myoclonus is present. You are considering use of hypothermia. Which of the following statements correctly characterizes the use of hypothermia in this patient?",
+        "options": [
+            "A head CT should be performed to determine the extent of cerebral edema before deciding upon whether to employ therapeutic hypothermia.",
+            "Temperature management should be directed at prevention of fevers only with a target temperature of 36\u00b0C.",
+            "Therapeutic hypothermia is recommended to target a temperature of 32\u201334\u00b0C for 24 hours.",
+            "There is no role for therapeutic hypothermia because the patient\u2019s prognosis is very poor.",
+            "There is no role for therapeutic hypothermia because it does not change patient outcomes."
+        ],
+        "answer": "C",
+        "explanation": "Therapeutic hypothermia refers to the purposeful induction of\nhypothermia to temperatures of 32\u201334\u00b0C, and it is primarily used following cardiac arrest. The\nrationale for use of therapeutic hypothermia is to provide a neuroprotective effect to limit\nneuronal cell injury and death following a substantial hypoxic insult. Initially, two trials\nsuggested that use of therapeutic hypothermia would improve functional outcomes in patients\nwho remained comatose after resuscitation from cardiac arrest. Subsequent trials showed no\nsignificant difference in neurologic outcomes if the temperature was maintained at 32\u00b0C or 36\u00b0C\nso long as development of fever was prevented. Treatment guidelines currently support\ntherapeutic hypothermia for 12\u201324 hours when the initial rhythm was ventricular fibrillation.\ntherapeutic hypothermia for 12\u201324 hours when the initial rhythm was ventricular fibrillation.\nWhile cerebral edema is a common complication of cardiac arrest and a leading cause of death,\nthere is no recommendation to perform head imaging prior to initiating therapeutic\nhypothermia. Complications of therapeutic hypothermia include coagulopathy and increased risk\nof infection."
+    },
+    "92": {
+        "q_no": "92",
+        "question": "A 67-year-old man has been in the ICU for 3 weeks after admission for sepsis due to pneumococcal pneumonia. He is currently on minimal ventilatory support with inspiratory pressure support of 15 cmH2O and expiratory pressure of 5 cmH2O. The FiO2 is 0.4. Spontaneous tidal volumes on these settings average 450 mL. He is no longer sedated, appears alert, and is following commands. He appears weak and debilitated. He is not able to lift his arms or legs off the bed. His chest radiograph shows marked improvement in the bilateral infiltrates. For the past week, he has failed spontaneous breathing trials. When the inspiratory pressure support is dropped to less than 10 cmH2O, the patient begins to breathe rapidly at 28 breaths/min, and the tidal volume drops to 220 mL. What is the most likely cause of the patient\u2019s inability to be liberated from the ventilator?",
+        "options": [
+            "Critical illness myopathy",
+            "Critical illness polyneuropathy",
+            "Fibroproliferative progression of acute respiratory distress syndrome",
+            "Guillain-Barr\u00e9 syndrome",
+            "ICU-associated delirium"
+        ],
+        "answer": "B",
+        "explanation": "This clinical scenario\ndescribes an individual with superior vena cava (SVC) syndrome, which is an oncologic\nemergency. Eighty-five percent of cases of SVC syndrome are caused by either small-cell or\nsquamous cell cancer of the lung. Other causes of SVC syndrome include lymphoma, aortic\naneurysm, thyromegaly, fibrosing mediastinitis, thrombosis, histoplasmosis, and Behcet\nsyndrome. The typical clinical presentation is dyspnea, cough, and facial and neck swelling.\nSymptoms are worsened by lying flat or bending forward. As the swelling progresses, it can lead\nto glossal and laryngeal edema with symptoms of hoarseness and dysphagia. Other symptoms\ncan include headaches, nasal congestion, pain, dizziness, and syncope. In rare cases, seizures can\noccur from cerebral edema, although this is more commonly associated with brain metastases.\nOn physical examination, dilated neck veins with collateralization on the anterior chest wall are\nfrequently seen. There is also facial and upper extremity edema associated with cyanosis. The\ndiagnosis of SVC syndrome is a clinical diagnosis. A pleural effusion is seen in about 25% of\ncases, more commonly on the right. A chest CT would demonstrate decreased or absent contrast\nin the central veins with prominent collateral circulation and would help elucidate the cause.\nMost commonly, this would be mediastinal adenopathy or a large central tumor obstructing\nvenous flow. The immediate treatment of SVC syndrome includes oxygen, elevation of the head\nof the bed, and administration of diuretics in combination with a low-sodium diet. Conservative\ntreatment alone often provides adequate relief of symptoms and allows determination of the\nunderlying cause of the obstruction. In this case, this would include histologic confirmation of\ncell type of the tumor to provide more definitive therapy. Radiation therapy is the most common\ntreatment modality and can be used in an emergent situation if conservative treatment fails to\nprovide relief to the patient."
+    },
+    "93": {
+        "q_no": "93",
+        "question": "A 56-year-old woman is admitted to the ICU with a thunderclap headache and a rupture of an aneurysm of the anterior cerebral artery. She is treated with endovascular coiling. On admission to the ICU, she was originally intubated and sedated. Over the course of 4 days, she is extubated but continues to demonstrate right hemiparesis and aphasia. Seven days after her presentation, she abruptly declines with alert mental status and marked worsening of her hemiparesis. A head CT is performed urgently and does not show any progression of bleeding or widening of the ventricles. She has been on nimodipine 60 mg every 4 hours since presentation. What is the most likely diagnosis for her worsened condition?",
+        "options": [
+            "Cerebral edema",
+            "Hydrocephalus",
+            "Hyponatremia",
+            "Rerupture of the coiled aneurysm",
+            "Vasospasm"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "94": {
+        "q_no": "94",
+        "question": "What treatment would you recommend for the patient in Question VI-93 at this time?",
+        "options": [
+            "Consult neurosurgery for clipping of the aneurysm",
+            "Free water restriction",
+            "Placement of a ventriculostomy",
+            "Intubation with hyperventilation and treatment with mannitol",
+            "Intravenous norepinephrine and consultation for percutaneous transluminal angioplasty"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "95": {
+        "q_no": "95",
+        "question": "A 64-year-old man presents to the emergency department complaining of shortness of breath and facial swelling. He smokes one pack of cigarettes daily and has done so since the age of 16. On physical examination, he appears dyspneic at an angle of 45 degrees or less. His vital signs are as follows: heart rate 124 bpm, blood pressure 164/98 mmHg, respiratory rate 28 breaths/min, temperature 37.6\u00b0C (99.6\u00b0F), and oxygen saturation 89% on room air. Pulsus paradoxus is not present. His neck veins are dilated and do not collapse with inspiration. Collateral venous dilation is noted on the upper chest wall. There is facial edema and 1+ edema of the upper extremities bilaterally. Cyanosis is present. There is dullness to percussion and decreased breath sounds over the lower half of the right lung field. Given this clinical scenario, what would be the most likely finding on CT examination of the chest?",
+        "options": [
+            "A central mass lesion obstructing the right mainstem bronchus",
+            "A large apical mass invading the chest wall and brachial plexus",
+            "A large pericardial effusion",
+            "A massive pleural effusion leading to opacification of the right hemithorax",
+            "Enlarged mediastinal lymph nodes causing obstruction of the superior vena cava"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "96": {
+        "q_no": "96",
+        "question": "In the scenario described in Question VI-95, the initial therapy of this patient includes all of the following EXCEPT:",
+        "options": [
+            "Administration of furosemide as needed to achieve diuresis",
+            "Elevation of the head of the bed to 45 degrees",
+            "Emergent radiation",
+            "Low-sodium diet",
+            "Oxygen"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "97": {
+        "q_no": "97",
+        "question": "A 58-year-old woman with known stage IV breast cancer presents to the emergency department with inability to move her legs. She has had lower back pain for the past 4 days and has found it difficult to lie down. There is no radiating pain. Earlier today, the patient lost the ability to move either of her legs. In addition, she has been incontinent of urine recently. She was diagnosed previously with metastatic disease to the lung and pleura from her breast cancer but was not known to have spinal or brain metastases. Her physical examination confirms absence of movement in the bilateral lower extremities associated with decreased to absent sensation below the umbilicus. There is increased tone and 3+ deep tendon reflexes in the lower extremities with crossed adduction. Anal sphincter tone is decreased, and the anal wink reflex is absent. What is the most important first step to take in the management of this patient?",
+        "options": [
+            "Administration of dexamethasone 10 mg IV",
+            "Consult neurosurgery for emergent spinal decompression",
+            "Consult radiation oncology for emergent spinal radiation",
+            "Perform MRI of the brain",
+            "Perform MRI of the entire spinal cord"
+        ],
+        "answer": "A",
+        "explanation": "Tumor lysis syndrome occurs\nmost commonly in individuals undergoing chemotherapy for rapidly proliferating malignancies,\nincluding acute leukemias and Burkitt lymphoma. In rare instances, it can be seen in chronic\nlymphoma or solid tumors. As the chemotherapeutic agents act on these cells, there is massive\ntumor lysis that results in release of intracellular ions and nucleic acids. This leads to a\ncharacteristic metabolic syndrome of hyperuricemia, hyperphosphatemia, hyperkalemia, and\nhypocalcemia. Acute kidney injury is frequent and can lead to renal failure requiring\nhemodialysis if uric acid crystallizes within the renal tubules. Lactic acidosis and dehydration\nincrease the risk of acute kidney injury. Hyperphosphatemia occurs due to the release of\nintracellular phosphate ions and causes a reciprocal reduction in serum calcium. This\nhypocalcemia can be profound, leading to neuromuscular irritability and tetany. Hyperkalemia\ncan become rapidly life-threatening and cause ventricular arrhythmia. Knowing the\ncharacteristics of tumor lysis syndrome, one can attempt to prevent the known complications\nfrom occurring. It is important to monitor serum electrolytes frequently during treatment.\nLaboratory studies should be obtained no less than three times daily, but more frequent\nmonitoring is often needed. Allopurinol should be administered prophylactically at high doses. If\nallopurinol fails to control uric acid to less than 8 mg/dL, rasburicase, a recombinant urate\noxidase, can be added at a dose of 0.2 mg/kg. Throughout this period, the patient should be well\nhydrated with alkalinization of the urine to a pH of greater than 7.0. This is accomplished by\nadministration of intravenous normal or half-normal saline at a dose of 3000 mL/m2 daily with\nsodium bicarbonate. Prophylactic hemodialysis is not performed unless there is underlying renal\nfailure prior to starting chemotherapy."
+    },
+    "98": {
+        "q_no": "98",
+        "question": "A 21-year-old man is treated with induction chemotherapy for acute lymphoblastic leukemia. His initial white blood cell count prior to treatment was 156,000/\u03bcL. All of the following are expected complications during his treatment EXCEPT:",
+        "options": [
+            "Acute kidney injury",
+            "Hypercalcemia",
+            "Hyperkalemia",
+            "Hyperphosphatemia",
+            "Hyperuricemia"
+        ],
+        "answer": "",
+        "explanation": ""
+    },
+    "99": {
+        "q_no": "99",
+        "question": "All of the following would be important for prevention of the complications described in Question VI-98 EXCEPT:",
+        "options": [
+            "Administration of allopurinol 300 mg/m2 daily",
+            "Administration of IV fluids at a minimum of 3000 mL/m2 daily",
+            "Alkalinization of the urine to a pH of greater than 7.0 by administration of sodium bicarbonate",
+            "Frequent monitoring of serum chemistries every 4 hours",
+            "Prophylactic hemodialysis prior to initiating chemotherapy                                   "
+        ],
+        "answer": "",
+        "explanation": ""
+    }
+}

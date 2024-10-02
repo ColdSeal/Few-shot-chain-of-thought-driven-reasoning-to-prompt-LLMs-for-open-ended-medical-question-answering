@@ -1,0 +1,68 @@
+285 Disturbances of Respiratory Function
+Edward T. Naureckas, Julian Solway
+The primary functions of the respiratory system—to oxygenate blood
+and eliminate carbon dioxide—require virtual contact between blood
+and fresh air, which facilitates diffusion of respiratory gases between
+blood and gas. This process occurs in the lung alveoli, where blood
+flowing through alveolar wall capillaries is separated from alveolar
+gas by an extremely thin membrane of flattened endothelial and
+epithelial cells, across which respiratory gases diffuse and
+equilibrate. Blood flow through the lung is unidirectional via a
+continuous vascular path along which venous blood absorbs oxygen
+from and loses CO2 to inspired gas. The path for airflow, in contrast,
+reaches a dead end at the alveolar walls; thus, the alveolar space
+must be ventilated tidally, with inflow of fresh gas and outflow of
+alveolar gas alternating periodically at the respiratory rate (RR). To
+provide an enormous alveolar surface area (typically 70 m2) for
+blood-gas diffusion within the modest volume of a thoracic cavity
+(typically 7 L), nature has distributed both blood flow and ventilation
+among millions of tiny alveoli through multigenerational branching of
+both pulmonary arteries and bronchial airways. Ideally, for the lung to
+be most efficient in exchanging gas, the fresh gas ventilation of a
+given alveolus must be matched to its perfusion. However, as a
+consequence of variations in tube lengths and calibers along these
+pathways as well as the effects of gravity, tidal pressure fluctuations,
+and anatomic constraints from the chest wall, the alveoli vary in their
+relative ventilations and perfusions even in health.
+For the respiratory system to succeed in oxygenating blood and
+eliminating CO2, it must be able to ventilate the lung tidally and thus
+to freshen alveolar gas; it must provide for perfusion of the individual
+alveolus in a manner proportional to its ventilation; and it must allow
+adequate diffusion of respiratory gases between alveolar gas and
+capillary blood. Furthermore, it must accommodate several-fold
+increases in the demand for oxygen uptake or CO2 elimination
+imposed by metabolic needs or acid-base derangement. Given these
+multiple requirements for normal operation, it is not surprising that
+many diseases disturb respiratory function. This chapter considers in
+some detail the physiologic determinants of lung ventilation and
+perfusion, elucidates how the matching distributions of these
+processes and rapid gas diffusion allow normal gas exchange, and
+discusses how common diseases derange these normal functions,
+thereby impairing gas exchange—or at least increasing the work
+required by the respiratory muscles or heart to maintain adequate
+respiratory function.
+■ VENTILATION
+It is useful to conceptualize the respiratory system as three
+independently functioning components: the lung, including its
+airways; the neuromuscular system; and the chest wall, which
+includes everything that is not lung or active neuromuscular system.
+Accordingly, the mass of the respiratory muscles is part of the chest
+wall, while the force these muscles generate is part of the
+neuromuscular system; the abdomen (especially an obese
+abdomen) and the heart (especially an enlarged heart) are, for these
+purposes, part of the chest wall. Each of these three components
+has mechanical properties that relate to its enclosed volume (or—in
+the case of the neuromuscular system—the respiratory system
+volume at which it is operating) and to the rate of change of its
+volume (i.e., flow). The work of breathing required of the
+neuromuscular system is the sum of the work due to volume-related
+mechanical properties and the work from flow-related mechanical
+properties required to move air throughout the airways to create this
+volume change.
+Volume-Related Mechanical Properties—Statics Figure 285-1
+shows the volume-related properties of each component of the
+respiratory system. Because of both surface tension at the air-liquid
+interface between alveolar wall lining fluid and alveolar gas and
+elastic recoil of the lung tissue itself, the lung requires a positive
+transmural pressure difference between alveolar gas and its pleural
+surface to stay inflated; this difference is called the elastic recoil

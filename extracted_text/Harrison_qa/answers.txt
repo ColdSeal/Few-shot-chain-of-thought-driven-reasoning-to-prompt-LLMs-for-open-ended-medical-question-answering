@@ -1,0 +1,1821 @@
+ANSWERS
+1
+  The answer is A. (Chap. 305) The obstructive lung diseases are characterized by a reduction in
+the forced expiratory volume in 1 second (FEV1)/forced vital capacity (FVC) ratio, typically
+below 0.70. The typical lung diseases that manifest with airways obstruction include chronic
+obstructive lung disease (which includes emphysema and chronic bronchitis), asthma,
+bronchiectasis, and bronchiolitis. Asbestosis (Chap. 311) is a lung disease caused by the
+inhalation of asbestos fibers. It is a fibrotic lung disease and typically manifests with a restrictive
+ventilator defect and gas transfer defect (reduced diffusion capacity for carbon monoxide
+[DLCO]) on pulmonary function testing.
+2
+  The answer is B. (Chap. 305) The alveolar-arterial oxygen (A-a O2) difference can be helpful in
+distinguishing hypoventilation (elevated partial pressure of carbon dioxide [PCO2]) as a cause of
+hypoxemia. The A-a O2 difference on room air should be less than 15 mmHg in a young adult
+and typically increases slightly with age. The A-a O2 difference cannot easily be interpreted
+when the fraction of inspired oxygen (FiO2) is greater than 0.21. The A-a O2 difference on room
+air is elevated in situations of hypoxemia due to ventilation-perfusion (V/Q) mismatch, shunt, or
+diffusion defect. It will be normal when the hypoxemia is solely due to hypoventilation. In this
+case, the gradient is 7.5 mmHg, consistent with hypoventilation secondary to a presumed
+narcotic overdose. Asthma and pulmonary embolism typically cause hypoxemia due to V/Q
+mismatch. Pneumococcal and pneumocystis pneumonias cause hypoxemia for multifactorial
+reasons, including shunt.
+3
+  The answer is B. (Chap. 306e) The functional residual capacity of the lung refers to the volume
+of air that remains in the lung following a normal tidal respiration. This volume of air represents
+the point at which the outward recoil of the chest wall is in equilibrium with the inward elastic
+recoil of the lungs. The lungs would remain at this volume if not for the actions of the
+respiratory muscles. The functional residual capacity is comprised of two lung volumes: the
+expiratory reserve volume and the residual volume. The expiratory reserve volume represents
+the additional volume of air that can be exhaled from the lungs when acted upon by the
+respiratory muscles of exhalation. The residual volume is the volume of air that remains in the
+lung following a complete exhalation and is determined by the closing pressure of the small
+airways.
+4
+  The answer is D. (Chap. 306e) This patient is presenting with subacute dyspnea, stridor, and
+airflow obstruction, which are consistent with a diagnosis of subglottic stenosis related to his
+prior prolonged mechanical ventilation. This is confirmed by the finding of fixed airflow
+obstruction on the flow-volume loop. Flow-volume loops are derived from spirometry. Following
+a maximum inspiratory effort from residual volume, an individual forces the maximum volume
+of air from their lungs, and the resultant flows are plotted against the volume. By convention,
+inspiration is shown on the lower portion of the curve and expiration is on the top. There are
+characteristic patterns of airflow obstruction that can be evaluated by examining this curve. A
+fixed central airflow obstruction results in flattening of the flow-volume loop in both inspiration
+and expiration, yielding the characteristic box-like effect, as shown in Figure VI-4B. Examples of
+fixed airflow obstruction include tracheal stenosis and an obstructing central airway tumor.
+Other patterns of large airway obstruction are a variable intrathoracic obstruction and variable
+extrathoracic obstruction. In these situations, flattening of the flow-volume curve occurs on only
+one limb of the flow-volume loop, and the pattern of flattening can be explained by the dynamic
+changes in pressure that affect the trachea. A variable intrathoracic obstruction causes flattening
+of the flow-volume curve only on expiration. During inspiration, the pleural pressure is more
+negative than the tracheal pressure, and the trachea remains unimpeded to flow. However, when
+pleural pressure rises on expiration relative to tracheal pressure, there is collapse of the trachea
+and flattening of flow-volume curve. An example of a variable intrathoracic obstruction is
+tracheomalacia. In contrast, the variable extrathoracic defect leads to flattening of the flow-
+volume loop on inspiration but not expiration. The relevant pressure acting on airflow in the
+trachea in an extrathoracic obstruction is atmospheric pressure. During inspiration, the tracheal
+pressure drops below atmospheric pressure, leading to compromised airflow and the
+characteristic flattening of the flow-volume loop. However, tracheal pressure rises above
+atmospheric pressure during expiration, leading to a normal expiratory curve.
+FIGURE VI-4B Flow-volume loops. A. Normal. B. Airflow obstruction. C. Fixed central airway
+obstruction. RV, residual volume; TLC, total lung capacity.
+5
+  The answer is B. (Chap. 306e) Pregnancy is a known risk factor for the development of venous
+thromboembolic disease and should be suspected in any pregnant patient presenting with acute
+dyspnea. Determining the need for further testing in a pregnant patient should take into account
+the potential risks of radiation exposure on the fetus. Unfortunately, the signs and symptoms of
+pulmonary embolism are often nonspecific. Most chest x-rays are normal, and sinus tachycardia
+may be the only finding on electrocardiogram (ECG). In addition, in the pregnant patient,
+dyspnea is common due to a variety of factors including the effects of progesterone as a central
+respiratory stimulant and increased size of the uterus later in pregnancy. The normal arterial
+blood gas in pregnancy shows a chronic respiratory alkalosis with a pH ranging as high as 7.47
+and partial pressure of arterial carbon dioxide (PaCO2) between 30 and 32 mmHg. Calculation of
+the alveolar-arterial gradient (A-a gradient) can be helpful in this situation. It is easy to be fooled
+by the presence of a normal oxygen saturation and partial pressure of oxygen on arterial blood
+gas, but the A-a gradient may still be elevated in the presence of respiratory alkalosis. In this
+case, the A-a gradient is elevated at 32 mmHg (should be <15 in a young adult in second
+trimester of pregnancy) and should prompt the physician to perform further workup for
+pulmonary embolism. The choice of test for diagnosis pulmonary embolism in pregnant patients
+is most commonly computed tomography (CT) pulmonary angiography, although ventilation-
+perfusion scanning may also be used.
+10
+  The answer is C. (Chap. 306e) In this patient presenting with multilobar pneumonia,
+hypoxemia is present that does not correct with increasing the concentration of inspired oxygen.
+The inability to overcome hypoxemia or the lack of a notable increase in partial pressure of
+arterial oxygen (PaO2) or oxygen saturation (SaO2) with increasing fraction of inspired oxygen
+physiologically defines a shunt. A shunt occurs when deoxygenated blood is transported to the
+left heart and systemic circulation without having the capability of becoming oxygenated. Causes
+of shunt include alveolar collapse (atelectasis), intra-alveolar filling processes, intrapulmonary
+vascular malformations, or structural cardiac disease leading to right-to-left shunt. In this case,
+the patient has multilobar pneumonia leading to alveoli that are being perfused but unable to
+participate in gas exchange because they are filled with pus and inflammatory exudates. Acute
+respiratory distress syndrome is another common cause of shunt physiology. V/Q mismatch is
+the most common cause of hypoxemia and results when there are some alveolar units with low
+ratios (low ventilation to perfusion) that fail to fully oxygenate perfused blood. When blood is
+returned to the left heart, the poorly oxygenated blood admixes with blood from normal alveolar
+units. The resultant hypoxemia is less severe than with shunt and can be corrected with
+increasing the inspired oxygen concentration. Hypoventilation with or without other causes of
+hypoxemia is not present in this case, as the PCO2 <40 mmHg indicates hyperventilation. The
+acidosis present in this case is of a metabolic rather than a pulmonary source. Because the
+patient is paralyzed, she is unable to increase her respiratory rate above the set rate to
+compensate for the metabolic acidosis.
+11
+  The answer is A. (Chap. 307) This patient is at risk of infection and malignancy. The findings
+on positron emission tomography (PET)/CT are consistent with either diagnosis. Her risk of
+infection, particularly aspiration pneumonia, is related to her scleroderma-induced esophageal
+dysfunction, history of low-grade fever, and location. Most aspiration pneumonias involve the
+right lower lobe, particularly the superior segment. They may appear as consolidation or nodular
+infiltrates. Given her history of smoking, she is also at risk of primary lung malignancies.
+Fluorodeoxyglucose (FDG)-PET can often differentiate benign from malignant lesions as small as
+1 cm. However, false-positive results are seen in inflammatory conditions, such as pneumonia or
+granulomatous diseases. False-negative findings can occur in lesions with low metabolic activity
+such as carcinoid tumors and bronchioloalveolar cell carcinomas.
+12
+  The answer is D. (Chap. 307) This patient presents with a slowly progressive illness manifested
+by dyspnea on exertion, dry cough, clubbing, and the presence of crackles on examination. In
+addition, the pulmonary function tests demonstrate restrictive lung disease. This scenario is
+characteristic of an individual with interstitial lung disease, most commonly idiopathic
+pulmonary fibrosis in individuals at this age. A more thorough history should be obtained to
+determine if there are any other exposures or symptoms that could identify other causes of
+interstitial lung disease. The next step in the evaluation of this patient is to perform a high-
+resolution CT scan (HRCT) of the chest. HRCT employs thinner cross-sectional images at
+approximately 1–2 mm rather than the usual 7–10 mm. This creates more visible details and is
+particularly useful for recognizing subtle changes of the interstitium and small airways including
+interstitial lung disease, bronchiolitis, and bronchiectasis. Bronchoscopy with transbronchial
+biopsy typically does not provide the detail required to adequately diagnose interstitial lung
+disease. It may be considered if there are specific features on HRCT that would suggest an
+alternative diagnosis. However, in most instances, the pathologic diagnosis of interstitial lung
+disease requires a surgical lung biopsy to provide definitive diagnosis. This patient’s symptoms
+do not suggest coronary artery disease or congestive heart failure. Thus, echocardiography and
+nuclear stress testing are not indicated. CT scanning has evolved over the years to offer several
+different techniques that are useful in a variety of circumstances. Standard CT imaging is most
+useful for the evaluation and staging of lung masses. Helical CT scanning requires only a single
+breath hold and provides continuous collection of data with improved contrast enhancement and
+thinner collimation. Once the data are obtained, the images can be reconstructed into other
+views including sagittal and coronal planes as well as three-dimensional volumetric
+representations. A recent use of this technology is employed in the setting of virtual
+bronchoscopy to aid in the planning and performance of bronchoscopy. Multidectector CT scans
+can obtain multiple slices in a single rotation that are thinner than the usual cuts. Multidetector
+CT scanners are used in the performance of the CT pulmonary angiogram.
+13
+  The answer is B. (Chap. 309) Asthma is a heterogeneous disease with interplay between genetic
+and environmental factors (Table VI-13). Several risk factors that predispose to asthma have
+been identified. These should be distinguished from triggers, which are environmental factors
+that worsen asthma in a patient with established disease. Atopy is the major risk factor for
+asthma, and nonatopic individuals have a very low risk of developing asthma. Patients with
+asthma commonly suffer from other atopic diseases, particularly allergic rhinitis, which may be
+found in over 80% of asthmatic patients, and atopic dermatitis (eczema). The familial association
+of asthma and a high degree of concordance for asthma in identical twins indicate a genetic
+predisposition to the disease; however, whether or not the genes predisposing to asthma are
+similar or in addition to those predisposing to atopy is not yet clear. It now seems likely that
+different genes may also contribute to asthma specifically, and there is increasing evidence that
+the severity of asthma is also genetically determined. Although viral infections (especially
+rhinovirus) are common triggers of asthma exacerbations, it is uncertain whether they play a
+role in etiology. There is some association between respiratory syncytial virus infection in
+infancy and the development of asthma, but the specific pathogenesis is difficult to elucidate
+because this infection is very common in children. The role of dietary factors is controversial.
+Observational studies have shown that diets low in antioxidants such as vitamin C and vitamin
+A, magnesium, selenium, and omega-3 polyunsaturated fats (fish oil) or high in sodium and
+omega-6 polyunsaturated fats are associated with an increased risk of asthma. Vitamin D
+deficiency may also predispose to the development of asthma. However, interventional studies
+with supplementary diets have not supported an important role for these dietary factors. Obesity
+is also an independent risk factor for asthma, particularly in women, but the mechanisms are
+thus far unknown. Air pollutants, such as sulfur dioxide, ozone, and diesel particulates, may
+trigger asthma symptoms, but the role of different air pollutants in the etiology of the disease is
+much less certain. Most evidence argues against an important role for air pollution because
+asthma is no more prevalent in cities with a high ambient level of traffic pollution than in rural
+areas with low levels of pollution. There is some evidence that maternal smoking is a risk factor
+for asthma, but it is difficult to dissociate this association from an increased risk of respiratory
+infections.
+TALBLE VI-13   Risk Factors and Triggers Involved in Asthma
+14
+  The answer is E. (Chap. 309) The patient in this clinical scenario presents with symptoms
+typical of asthma, including shortness of breath and wheezing. She also manifests evidence of
+atopy, the most common risk factor for developing asthma, with sensitivity to outdoor allergens
+and cats. In addition, the patient has a history of allergic rhinitis and eczema, both of which are
+commonly seen in individuals with asthma. Indeed, over 80% of asthma patients have a
+concomitant diagnosis of allergic rhinitis. Atopy is present in 40%–50% of the population of
+affluent countries, but only a small proportion of these individuals develop asthma. Many studies
+have shown a genetic predisposition via family history and recent genome-wide screens, but no
+single genetic profile has shown high positive predictive value. Overall, the prevalence of asthma
+in developed countries has increased over the past 30 years, but recently has leveled off, with a
+prevalence of about 15% in children and 10%–12% in adults. Asthma deaths remain rare and
+have decreased in recent decades. In the 1960s, asthma deaths did increase with an overuse of
+short-acting β-agonist medications. However, since the introduction of inhaled corticosteroids as
+maintenance therapy, deaths have declined. Risk factors for fatal asthma include frequent use of
+rescue inhalers, lack of therapy with inhaled corticosteroids, and prior hospitalizations for
+asthma. Interestingly, the overall disease severity does not vary significantly within a given
+patient over the course of the disease. Individuals who have mild asthma typically continue to
+have mild asthma, whereas those with severe disease present with severe disease. Diagnosis of
+asthma can be made by demonstrating airflow obstruction with significant reversibility on
+bronchodilator administration. In this case, the FEV1/FVC ratio is decreased to 70%, which is
+low. In addition, the FEV1 increases by 12.4% and 230 mL. This meets the criteria for
+bronchodilator reversibility of increases of at least 200 mL and 12%. Bronchoprovocation testing
+with methacholine can be considered in individuals who have suspected asthma but have normal
+pulmonary function tests.
+15
+  The answer is B. (Chap. 309) The pathology of asthma has largely been determined by
+examining bronchial biopsies of patients with asthma as well as the lungs of individuals who die
+from asthma. These pathologic changes are centered around the airways with sparing of the
+alveolar spaces. The airways are infiltrated by eosinophils, activated T lymphocytes, and
+activated mucosal mast cells. However, the degree of inflammation does not correlate with the
+severity of asthma. Another common finding in all asthmatics and individuals with eosinophilic
+bronchitis is thickening of the basement membrane due to collagen deposition in the
+subepithelium. The airway smooth muscle is hypertrophied as well. Overall, this leads to
+thickening of the airway wall, which may also exhibit edematous fluid, particularly in those with
+fatal asthma. In cases of fatal asthma, it is also common to find multiple airways that are
+occluded by mucus plugs. However, the disease is limited to the airways, and infiltration of the
+alveolar spaces by inflammatory cells is not seen.
+16
+  The answer is C. (Chap. 309) The preferred method for diagnosing asthma is demonstration of
+airflow obstruction on spirometry that is at least partially reversible. This is demonstrated in
+option C, with a decreased FEV1/FVC ratio, decreased FEV1, and a significant increase in FEV1
+following administration of albuterol. For an individual to be considered responsive to a
+bronchodilator, the individual should experience an increase in either FEV1 or FVC of at least
+200 mL and 12%. Option A describes someone with postviral cough syndrome, which can persist
+for several weeks following a viral upper respiratory infection. Option B describes someone with
+exercise-induced bronchoconstriction (EIB), which, in absence of other symptoms to suggest
+asthma, should not be diagnosed as asthma. Isolated EIB lacks the characteristic airway
+inflammation of asthma and does not progress to asthma. Although it is estimated that 80%–90%
+of individuals with asthma experience EIB, many individuals who have EIB do not also have
+asthma. EIB is caused by hyperventilation with inhalation of cool dry air that leads to
+bronchospasm. Option D describes someone with occupational asthma that has occurred after
+working with animals in the medical laboratory for many years. Symptoms that are
+characteristic of occupational asthma are symptoms only while at work that improve on the
+weekends and during holidays. Option D describes someone with COPD. In COPD, 25%–48% of
+individuals can demonstrate bronchial hyperresponsive in response to methacholine.
+17
+  The answer is A. (Chap. 309) The main drugs for asthma can be divided into bronchodilators,
+which give rapid relief of symptoms mainly through relaxation of airway smooth muscle, and
+controllers, which inhibit the underlying inflammatory process (Figure VI-17). For patients with
+mild, intermittent asthma, a short-acting β2-agonist is all that is required. However, use of a
+reliever medication more than twice a week indicates the need for regular controller therapy.
+This patient is using her reliever medication frequently; therefore, a controller should be added
+to her regimen. The treatment of choice for all patients is an inhaled corticosteroid given twice
+daily. It is usual to start with an intermediate dose (e.g., 200 μg twice a day of beclomethasone
+dipropionate or equivalent) and to decrease the dose if symptoms are controlled after 3 months.
+If symptoms are not controlled, a long-acting β-agonist (LABA) should be added, which is most
+conveniently given by switching to a combination inhaler. The dose of controller should be
+adjusted accordingly, as judged by the need for a rescue inhaler. Muscarinic receptor antagonists
+such as ipratropium bromide prevent cholinergic nerve-induced bronchoconstriction and mucus
+secretion. They are less effective than β2-agonists in asthma therapy because they inhibit only
+the cholinergic reflex component of bronchoconstriction, whereas β2-agonists prevent all
+bronchoconstrictor mechanisms. Anticholinergics, including tiotropium, may be used as
+additional bronchodilators in patients with asthma that is not controlled by inhaled
+corticosteroid and LABA combinations. Low doses of theophylline or an antileukotriene may also
+be considered as an add-on therapy, but these are less effective than LABA. If asthma is not
+controlled despite the maximal recommended dose of inhaled therapy, it is important to check
+compliance and inhaler technique. In these patients, maintenance treatment with an oral
+corticosteroid may be needed, and the lowest dose that maintains control should be used.
+FIGURE VI-17 Stepwise approach to asthma therapy according to the severity of asthma and ability to
+control symptoms. ICS, inhaled corticosteroids; LABA, long-acting β2-agonist; OCS, oral corticosteroid.
+18
+  The answer is A. (Chap. 309) Approximately one-third of asthmatic patients who are pregnant
+improve during the course of a pregnancy, one-third deteriorate, and one-third are unchanged. It
+is important to maintain good control of asthma because poor control may have adverse effects
+on fetal development. Compliance may be a problem because there is often concern about the
+effects of antiasthma medications on fetal development. The drugs that have been used for many
+years in asthma therapy have now been shown to be safe and without teratogenic potential.
+These drugs include short-acting β-agonists (e.g., albuterol), inhaled corticosteroids (e.g.,
+beclomethasone), and theophylline; there is less safety information about newer classes of drugs
+such as LABAs (e.g., salmeterol), antileukotrienes, and anti–immunoglobulin (Ig) E. If an oral
+corticosteroid is needed, it is better to use prednisone rather than prednisolone because it cannot
+be converted to the active prednisolone by the fetal liver, thus protecting the fetus from systemic
+effects of the corticosteroid. There is no contraindication to breast-feeding when patients are
+using these drugs.
+19
+  The answer is C. (Chap. 310) Acute eosinophilic pneumonia is an acute respiratory syndrome
+that often presents with a clinical picture that is difficult to differentiate from acute lung injury
+or acute respiratory distress syndrome (ARDS). Clinically, patients present with a prodrome of
+fevers, malaise, myalgias, night sweats, dyspnea, cough, and pleuritic chest pain. Physical
+examination may demonstrate high fevers, bibasilar rales, and rhonchi. The clinical course is
+frequently marked by rapid clinical progression to hypoxemic respiratory failure that requires
+mechanical ventilation. Chest radiography shows bilateral pulmonary infiltrates. This clinical
+picture clearly overlaps with infectious causes of respiratory failure and ARDS. However, the
+hallmark of acute eosinophilic pneumonia is the finding of >25% eosinophils in the
+bronchoalveolar lavage fluid. Acute eosinophilic pneumonia most frequently presents in
+individuals between the ages of 20 and 40 years and is more common in men. There is no
+epidemiologic link between the diagnosis and a prior history of asthma. However, several case
+reports have linked development of acute eosinophilic pneumonia to recent initiation of cigarette
+smoking or exposure to other environmental stimuli including dust. A bronchoalveolar lavage
+showing eosinophilia >25% is sufficient to establish the diagnosis of acute eosinophilic
+pneumonia. A surgical lung biopsy is not necessary. If performed, it would demonstrate
+eosinophilic infiltration with acute and organizing diffuse alveolar damage. Peripheral
+eosinophilia is not present acutely at disease onset, but often becomes present between day 7
+and day 30. Other organ failure is not present. The disease has a high degree of corticosteroid
+responsiveness and a good prognosis. Initiation of therapy with corticosteroids should not be
+delayed. Although there is no recommended dose of steroids for therapy, patients are often
+initiated on therapy with intravenous glucocorticoids with rapid improvement in the hypoxemic
+respiratory failure. The expected clinical course is complete resolution of clinical and
+radiographic features of the disease over several weeks without relapse upon tapering of steroids.
+20
+  The answer is D. (Chap. 310) Allergic bronchopulmonary aspergillosis (ABPA) is an
+eosinophilic pulmonary disorder that occurs in response to allergic sensitization to antigens from
+Aspergillus fungi. The classic presentation of an individual with ABPA is someone with an
+asthmatic phenotype that becomes increasingly difficult to control and may be steroid
+dependent. These individuals often complain of chronic cough with expectoration of thick brown
+mucus plugs. In addition, individuals with cystic fibrosis have an increased incidence of ABPA.
+ABPA can be difficult to diagnose, and many individuals have had prolonged symptoms prior to
+diagnosis. Initial diagnostic testing should include demonstration of elevated circulating IgE level
+(option D), typically >1000 IU/mL. Peripheral eosinophilia is also commonly seen. If the IgE
+level is elevated and suggestive of IgE, one must demonstrate sensitivity to Aspergillus antigens.
+This can be achieved by skin test reactivity, positive serum precipitins for Aspergillus, and/or
+direct measurement of circulating specific IgG and IgE to Aspergillus. Testing for specific IgE in
+the serum is most frequent accomplished via radioallergosorbent (RAST) testing. Chest CT
+(option B) may show central bronchiectasis as the classic manifestation of ABPA but is present in
+only about 30% of individuals. Other findings in ABPA including patchy infiltrates and mucus
+impaction. Aspirin desensitization (option A) therapy is a treatment for aspirin-sensitive asthma
+that characteristically presents with the Samter triad of asthma, nasal polyposis, and aspirin
+and/or nonsteroidal anti-inflammatory drug sensitivity. Nasal nitric oxide testing (option C) is a
+diagnostic test used for identification of primary ciliary dyskinesia. Sweat chloride testing
+(option E) is used for diagnosis of cystic fibrosis.
+21
+and VI-22.    The answers are B and E, respectively. (Chap. 310) The patient has a subacute
+presentation of hypersensitivity pneumonitis related to exposure to bird droppings and feathers
+at work. Hypersensitivity pneumonitis is a delayed-type hypersensitivity reaction that has a
+variety of presentations. Some people develop acute onset of shortness of breath, fevers, chills,
+and dyspnea within 6–8 hours of antigen exposure. Others may present subacutely with
+worsening dyspnea on exertion and dry cough over weeks to months. Chronic hypersensitivity
+pneumonitis presents with more severe and persistent symptoms with clubbing. Progressive
+worsening is common with the development of chronic hypoxemia, pulmonary hypertension,
+interstitial pulmonary fibrosis, and respiratory failure. The diagnosis relies on a variety of tests.
+Peripheral eosinophilia is not a feature of this disease as the disease is mediated through T-cell
+inflammation. Other nonspecific markers of inflammation may be elevated, including the
+erythrocyte 
+sedimentation 
+rate, 
+C-reactive 
+protein, 
+rheumatoid 
+factor, 
+and 
+serum
+immunoglobulins. Neutrophilia and lymphopenia can be seen. If a specific antigen is suspected,
+serum precipitins directed toward that antigen may be demonstrated. However, these tests are
+neither sensitive nor specific for the presence of disease. Chest radiography may be normal or
+show a diffuse reticulonodular infiltrate. Chest HRCT is the imaging modality of choice and
+shows ground-glass infiltrates in the lower lobes. Centrilobular infiltrates are often seen as well.
+In the chronic stages, patchy emphysema is the most common finding. Histopathologically,
+interstitial alveolar infiltrates predominate, with a variety of lymphocytes, plasma cells, and
+occasionally eosinophils and neutrophils seen. Loose, noncaseating granulomas are typical.
+Treatment requires removing the individual from exposure to the antigen. If this is not possible,
+the patient should wear a mask that prevents small-particle inhalation during exposure. In
+patients with mild disease, removal from antigen exposure alone may be sufficient to treat the
+disease. More severe symptoms require therapy with glucocorticoids at an equivalent prednisone
+dose of 1 mg/kg daily for 7 to 14 days. The steroids are then gradually tapered over 2 to 6
+weeks.
+23
+  The answer is C. (Chap. 311) Mesothelioma is a rare malignancy of the pleura and peritoneum,
+with almost all cases associated with asbestos exposure. It is notable that the exposure to
+asbestos could seem almost minimal but still confer significant risk. Exposures of less than 1–2
+years or that have occurred more than 40 years in the past have been demonstrated to confer
+increased risk of mesothelioma. Although tobacco smoking in association with asbestos exposure
+increases the risk of lung cancer several-fold, there is no additive or exponential risk of
+mesothelioma in those who smoke. Mesothelioma most often presents with a persistent unilateral
+pleural effusion that may mask the underlying pleural tumor. However, the pleura may be
+diffusely thickened. Typically, large pleural effusions would cause expansion of the hemithorax
+with mediastinal shift away from the side of the pleural effusion. However, even with large
+effusions, no mediastinal shift is seen on chest radiograph because the pleural thickening
+associated with the disease leads to a fixed chest cavity size and thoracic restriction. The most
+difficult diagnostic dilemma in these patients is to differentiate mesothelioma from metastatic
+lung carcinoma (usually adenocarcinoma) as many patients are at risk for both tumors, and lung
+cancer is by far the most common malignancy seen in individuals with asbestos exposure and
+cigarette smoking. Pleural fluid cytology is not adequate for the diagnosis of most individuals
+with mesothelioma, with samples being positive for the disease in less than 50% of individuals.
+Most often, video-assisted thoracoscopy is required to directly visualize the pleural and direct
+biopsy sampling. Unfortunately, there is no proven effective therapy for mesothelioma, and most
+patients die from local extension of the disease.
+24
+  The answer is E. (Chap. 311) Silicosis results from the inhalation of free silica (or crystalline
+quartz) and is associated with mining, stonecutting, foundry work, and quarrying. The chronic
+form of silicosis has been associated with an increased risk of a variety of diseases. Silica is
+known to be cytotoxic to alveolar macrophages and, thus, places patients at increased risk of
+pulmonary infections that rely on cellular immunity, including Mycobacterium tuberculosis,
+atypical mycobacteria, and fungus. In addition, silicosis is associated with the development of
+connective tissue disorders including rheumatoid arthritis with rheumatoid nodules (Caplan
+syndrome) and scleroderma. Finally, silica is listed as a probable lung carcinogen.
+25
+  The answer is D. (Chap. 311) Occupational lung diseases have been associated with a wide
+variety of organic and inorganic exposures in the workplace and clinically can range from
+primarily an airway disease to progressive pulmonary fibrosis. When evaluating a patient for a
+new pulmonary diagnosis, it is important to perform a detailed occupational history to determine
+if there is a possibility that the patient’s profession may be causing or perpetuating the disease
+process. Specific clinical syndromes are associated with well-defined clinical exposures. The
+inorganic dusts include asbestos, silica, coal dust, beryllium, and a variety of other metals.
+Asbestos and silica are among the most common exposures. Asbestos exposure is associated with
+mining, construction, and ship repair. In areas near where asbestos mining has occurred, the
+general population also has shown an increased risk of asbestos-related lung disease. Clinically,
+asbestos exposure is associated with a range of clinical syndromes including asbestosis
+(interstitial lung disease), benign pleural plaques and pleural effusions, lung cancer, and
+mesothelioma. Silica exposure is common among miners, stone masons, and individuals involved
+in sand blasting or quarrying. A variety of clinical syndrome can occur with silica exposure, the
+most severe being progressive massive fibrosis with mass-like upper lobe consolidating nodules
+(>1 cm). Coal mining is also associated with a clinical picture similar to silicosis and progressive
+massive fibrosis. Beryllium is a lightweight metal that is highly conductive and is used in high-
+tech industries. The classic disease associated with beryllium exposure is a chronic
+granulomatous disease similar in clinical appearance to sarcoidosis. Other metals can produce
+any number of clinical syndromes. Welders of galvanized metal who use zinc oxide are
+susceptible to metal fume fever and present with an acute self-limited influenza-like illness.
+    Organic dusts that can lead to occupational lung disease include cotton dust, grain dust, toxic
+chemicals, and other agricultural dusts, among many others. Cotton milling and processing can
+present with a clinical syndrome known as byssinosis, which has asthma-like features. Many of
+the organic dust exposures also lead to hypersensitivity pneumonitis. Examples of
+hypersensitivity pneumonitis syndromes related to occupational exposures include farmer’s lung,
+pigeon breeder’s lung, and malt worker’s lung. Typically, a specific antigen can be identified as
+the culprit for the development of hypersensitivity pneumonitis. In farmer’s lung, the most
+common cause is thermophilic Actinomyces species found in moldy hay.
+26
+  The answer is D. (Chap. 311) The patient presents with acute-onset pulmonary symptoms,
+including wheezing, with no other medical problems. He is a farmer and was recently handling
+hay. The clinical presentation and radiogram are consistent with farmer’s lung, a hypersensitivity
+pneumonitis caused by Actinomyces. In this disorder, moldy hay with spores of actinomycetes are
+inhaled and produce a hypersensitivity pneumonitis. The disorder is seen most commonly in
+rainy periods, when the spores multiply. Patients present generally 4–8 hours after exposure with
+fever, cough, and shortness of breath without wheezing. Chest radiograms often show patchy
+bilateral, often upper lobe infiltrates. The exposure history will differentiate this disorder from
+other types of pneumonia.
+27
+  The answer is D. (Chap. 311) Firefighters and fire victims are at risk of smoke inhalation
+injury, an important cause of acute cardiorespiratory failure. In addition to the risk of carbon
+monoxide poisoning, these individuals are also at risk from toxic inhalational injury from fumes
+released from the burning of synthetic materials. This patient has a carbon monoxide level that
+requires treatment with 100% oxygen but would not be expected to lead to significant
+cardiorespiratory collapse. Recently, cyanide toxicity has been recognized as a significant cause
+of morbidity and mortality following industrial and house fires. Cyanide toxicity can present
+with rapid development of neurologic and cardiorespiratory collapse. The neurologic symptoms
+can range from mild headache to confusion, generalized seizures, and coma. Hypotension with
+significant lactic acidosis is prominent. Often an elevated lactate level leads to the suspicion of
+concomitant cyanide toxicity in an individual with smoke inhalation injury. However to
+definitely make the diagnosis, one would want to assess the red blood cell cyanide concentration.
+28
+  The answer is D. (Chap. 312) Bronchiectasis is a common disorder that refers to an irreversible
+dilation of the airways that affects the lung in a focal or diffuse pattern. Historically,
+bronchiectasis has been characterized pathologically as cylindrical, varicose, or cystic in nature.
+There are numerous causes of bronchiectasis including infectious, inherited, immunologic, and
+idiopathic causes. The most common cause of bronchiectasis worldwide is postinfectious
+following tuberculosis infection. However, in developed countries, other causes are more
+common. The most common cause in developed countries is cystic fibrosis (CF); CF patients
+develop clinically significant bronchiectasis in late adolescence or early adulthood. Most children
+with CF are diagnosed currently through newborn screening programs, which were introduced in
+all states within the past decade. However, adults may continue to present with milder forms of
+the disease, so clinicians should continue to have a high degree of clinical suspicion for CF when
+an individual presents with a new diagnosis of bronchiectasis. Epidemiologically, individuals
+presenting with CF bronchiectasis will typically be younger than individuals with non-CF
+bronchiectasis. In contrast, non-CF bronchiectasis more commonly affects nonsmoking women
+older than 50 years. The clinical presentation of bronchiectasis is a daily cough productive of
+thick tenacious sputum. Physical examination demonstrates both crackles and wheezing on
+examination. In CF, the disease findings are more predominant in the upper lobes, whereas in
+certain other causes (chronic aspiration, immunoglobulin deficiency), there is a lower lobe
+predominance. Clubbing is variably present and generally only seen in more advance disease.
+The diagnosis of bronchiectasis is determined by the presence of the disease on a chest CT
+imaging. Chest radiography is not sensitive for the diagnosis of bronchiectasis, particularly early
+in the disease process. It may show “tram tracks” indicating dilated airway. Chest HRCT is the
+diagnostic modality of choice for confirming diagnosis. Findings include demonstration of
+dilated, nontapering airways that may be filled with mucus. In addition, signet-ring signs may
+also be seen where the airway is greater than 1.5 times the size of the adjacent blood vessel.
+Other findings include bronchial wall thickening, inspissated secretion with a “tree-in-bud”
+pattern, and cysts emanating from the bronchial wall. Once bronchiectasis has been confirmed
+on CT imaging, other tests may be indicated in this patient to determine the etiology of the
+bronchiectasis. Testing should be guided by the history and physical examination and may
+include sputum culture for mycobacteria and fungal organisms, immunoglobulin levels,
+autoimmune panel, sweat chloride testing, nasal nitric oxide testing (for primary ciliary
+dyskinesia), bronchoscopy, and/or tests of swallow function. Despite thorough evaluation, in as
+many as 25%–50% of individuals referred for workup of bronchiectasis, no specific cause is ever
+identified.
+29
+  The answer is C. (Chap. 312) Treatment of infectious bronchiectasis relies upon controlling the
+source of infection and maintaining good bronchial hygiene and airway clearance. The most
+common nontuberculous mycobacterial organism causing infection in individuals with
+bronchiectasis is Mycobacterium avium-intracellculare (MAI or MAC). The recommended treatment
+for MAI is a macrolide combined with ethambutol and rifampin. The recommended course of
+therapy is 12 months after the last positive culture. In certain instances, surgical resection can be
+considered for focal bronchiectasis if a patient is failing to clear the infection after a prolonged
+course of antibiotic therapy. However, this patient has had negative cultures for 12 months,
+demonstrating an appropriate response to antimicrobial therapy. Thus, options A and B are
+incorrect. However, the patient continues to have daily sputum expectoration related to her
+underlying bronchiectasis and should be instructed on appropriate bronchial hygiene and airway
+clearance. A variety of approaches have been used, and no one treatment has been demonstrated
+to be superior. Chest physiotherapy is often recommended on a daily basis to improve secretion
+clearance. This can be accomplished through postural drainage often combined with traditional
+mechanical percussion or the use of devices including high-frequency chest wall oscillation vest
+or oscillatory positive expiratory pressure flutter valve (option C). Regular exercise may also
+improve airway clearance. Mucolytic agents such as hypertonic saline are also often used.
+However, in contrast with CF bronchiectasis, dornase (DNase) (option D) is not used for non-CF
+bronchiectasis. A randomized, placebo-controlled research trial demonstrated lack of efficacy
+and potential harm in the non-CF population. Finally, there is no proven role for the use of daily
+oral corticosteroids (option E) in the absence of a disease known to respond to steroid therapy,
+such as allergic bronchopulmonary aspergillosis or autoimmune disease such as Sjögren
+syndrome.
+VI-30 and VI-31.    The answers are B and B, respectively. (Chap. 313) Cystic fibrosis is one of the
+most common life-shortening autosomal recessive disorders, affecting about 1 in 3300 live births
+in Caucasians. It is much less common in African Americans (~1 in 15,000) and Asians (~1 in
+33,000). The disease is caused by an inherited defect in the cystic fibrosis transmembrane
+regulator (CFTR) protein, a large ion channel in the cell membrane responsible for chloride ion
+transport. In the absence of a functional CFTR protein, individuals with CF have a variety of
+disease manifestations related to impaired exocrine function. The primary disease manifestations
+are respiratory and pancreatic in nature with chronic sinopulmonary infections, impaired
+exocrine pancreatic function, and poor nutrition. The gene that encodes CFTR is located on
+chromosome 7, and more than 2000 mutations have been described. In understanding the
+genetics, it is best to categorize them according to the effect on CFTR function. Class I mutations
+(G542X, 621+1G>T) lead to absence of synthesis, most frequently through the presence of an
+abnormal stop codon. Class II mutations (F508del, the most common mutation) cause defective
+protein synthesis and premature degradation. Class III mutations (G551D) are gating mutations,
+in which the CFTR protein is present at the cell membrane but fails to function properly. Type IV
+mutations (R117H, R117C) are conductance mutations with impaired conductance through the
+ion channel pore, and Type V mutations are splice mutations that lead to a diminished number
+of CFTR transcripts being produced due to a promoter or splicing abnormality. One of the most
+exciting breakthroughs in the treatment of CF has been in the area of CFTR modulations. High-
+throughput screening identified small-molecule compounds that act as potentiators or correctors
+of CFTR and improve CFTR function. The first of these compounds to be identified was ivacaftor.
+This drug works as a potentiator and has been approved for individuals with gating mutations,
+the most common of which is G551D. Approximately 5% of the CF population has a gating
+mutation. In clinical trials, individuals with a G551D mutation treated with ivacaftor
+experienced an absolute improvement in lung function (FEV1 percent predicted) of 10.6% and a
+decline in sweat chloride values to normal levels. This was sustained over the 24 weeks of the
+clinical trial. Long-term data are now available that demonstrates persistent effects of ivacaftor
+up to 144 weeks (McKone EF et al: Lancet Respir Med 2014;2(11):902–910). Individuals on
+ivacaftor also experience an improvement in nutritional status and growth in younger
+individuals as well. Ivacaftor is now being combined with corrector compounds such as
+lumacaftor to attempt to correct the F508del processing abnormality. The combination of
+ivacaftor and lumacaftor was approved by the US Food and Drug Administration (FDA) in July
+2015 for individuals homozygous for F508del. Other potentiator/corrector combinations are
+undergoing clinical trials.
+32
+  The answer is E. (Chap. 313 and J Pediatr 2008;153(2):S4–S14) CF is a common autosomal
+recessive disorder that affects 1 out of every 3300 live births in the Caucasian population of
+North America and Europe. There have been more than 2000 mutations identified in the gene
+for the CFTR protein—the abnormal protein identified in CF. This protein is a large
+transmembrane protein involved in the transport of chloride and other ions, and abnormalities of
+the CFTR lead to abnormalities of salt and water transport. The primary clinical manifestations
+of CF are due to the effects of the mutated CFTR in the lungs, gastrointestinal tract, and
+pancreas. In the lungs, abnormal CFTR leads to thick, sticky mucus with abnormal mucociliary
+clearance. A patient will have recurrent respiratory infections with development of cystic
+bronchiectasis over time. The presenting manifestation in infancy is often meconium ileus and
+can lead to constipation and distal intestinal obstruction in adults. Failure of the CFTR in the
+pancreas prevents appropriate release of pancreatic enzymes to allow for proper digestion of
+food, especially fatty foods, with resultant malnutrition and steatorrhea. While most patients
+with CF present in infancy or childhood, about 5% of all individuals with CF will not be
+diagnosed until adulthood. Presenting symptoms in adulthood can be myriad and often result
+from minor mutations of the CFTR gene. These symptoms can include recurrent lung and sinus
+infections, malnutrition, sinus disease, and infertility, especially absence of the vas deferens in
+men. The standard test for the diagnosis of CF is the sweat chloride test. Elevated values are
+pathognomonic for CF, with a cutoff of >60 mmol/L in adults being diagnostic. Values greater
+than 40 mmol/L fall within the indeterminate range. Given the large number of mutations that
+can cause CF, genetic testing can be expensive and is not the first test performed when CF is
+suspected. A screening CF genetic panel often only identifies between approximately 20 and 80
+of the common CF mutations. If only one mutation is identified, then this may represent the
+carrier state, or it could represent CF with a more rare mutation requiring more detailed genetic
+analysis, including full gene sequencing. In such cases, referral to a tertiary CF care center is
+helpful for data interpretation. In some instances, nasal potential difference testing can be
+helpful because CF patients demonstrate an elevated baseline nasal potential difference with
+failure to respond to stimulation with β-agonists. Presence of Pseudomonas aeruginosa is common
+in adults with CF but is not specific for the diagnosis of the disease because bronchiectasis from
+any cause can lead to P aeruginosa colonization.
+33
+  The answer is C. (Chap. 313 and Ann Am Thorac Soc 2014;11(10):1640–1650) Individuals with
+CF experience recurrent pulmonary and sinus infections. In childhood, the most commonly
+isolated organisms are Haemophilus influenzae and Staphylococcus aureus. However, over time,
+most adults demonstrate P aeruginosa. It is now recognized that chronic colonization with
+Pseudomonas, especially multidrug-resistant organisms, is associated with a more rapid decline in
+lung function. The Cystic Fibrosis Foundation recommends quarterly office visits with a
+physician with assessment of respiratory cultures at each visit. When Pseudomonas is initially
+detected, attempts to eradicate the organism should be undertaken. The recommended regimen
+for eradication is an inhaled antibiotic with the aminoglycoside antibiotic tobramycin as the
+preferred agent. This will be continued every other month until the next office visit to determine
+if therapy should be continued. For all patients chronically colonized with Pseudomonas, inhaled
+tobramycin every other month should be continued on an indefinite basis. In addition,
+azithromycin 500 mg three times weekly or 250 mg daily is also used. Whether azithromycin
+primarily exerts its beneficial effect through anti-inflammatory or antimicrobial actions is not
+definitively known at the present time. Because the patient is clinically well without any
+symptoms of acute exacerbation, the use of intravenous antibiotics is not required. Chest wall
+oscillation and hypertonic saline are both mechanisms to improve airway clearance. While the
+patient may need to improve airway clearance in the future, the most important component of
+his care at present is to eradicate new growth of Pseudomonas. His current exercise regimen and
+autogenic drainage provide a component of airway clearance in his maintenance care plan.
+34
+  The answer is D. (Chap. 314) Acute exacerbations of COPD are a frequent cause of morbidity
+and mortality in COPD, contributing to >70% of healthcare expenditures for COPD. Risk factors
+for development of acute exacerbation include severity of airflow obstruction (FEV1 <50%
+predicted), history of prior exacerbations, and elevated ratio of pulmonary artery to aorta on
+chest CT. Acute exacerbations of COPD cost over $10 billion to the healthcare system in the
+United States annually. Thus, determining the causes of exacerbations and prevention of future
+exacerbations have been important targets in the care of COPD patients. Most acute
+exacerbations are associated with airway inflammation or infection, including acquiring a new
+strain of bacteria or a viral respiratory infection. Therefore, strategies for prevention have been
+primarily focused on decreasing inflammatory responses and preventing infections. The selective
+phosphodiesterase-4 inhibitor roflumilast has been demonstrated to decrease exacerbation
+frequency in individuals with COPD who have symptoms of chronic bronchitis and frequent
+exacerbations. However, it has limited effects of pulmonary function and chronic respiratory
+symptoms. The macrolide antibiotic azithromycin has both anti-inflammatory and antibiotic
+properties. In a randomized controlled trial, it has been shown to decrease exacerbation
+frequency and increase time to first exacerbation when administered at a dose of 500 mg daily,
+not 250 mg three times weekly. Other interventions that also decrease exacerbation frequency
+include use of inhaled glucocorticoids in individuals with frequent exacerbations or asthmatic
+symptoms and influenza vaccination. Long-acting anticholinergic medications and long-acting β-
+agonists decrease exacerbations as well. Oxygen therapy and nocturnal ventilation are not
+indicated for prevention of exacerbations. Theophylline yields modest improvements in lung
+function but has no proven effect on exacerbations.
+35
+  The answer is D. (Chap. 314) COPD affects more than 10 million Americans and is currently
+the fourth leading cause of death in the United States. Worldwide, COPD is also increasing as
+cigarette smoking, the primary risk factor for the development of COPD, is increasing in
+prevalence throughout the world. While cigarette smoking is clearly identified as a risk factor for
+COPD, other factors have also been identified to contribute to the risk of COPD. In many
+developing countries, the prevalence of smoking among women remains low. However, the
+incidence of COPD is increasing in women as well as men. In many developing countries, this
+increased incidence of COPD in women is attributable to the use of biomass fuels in poorly
+ventilated areas for heat and cooking. In addition, passive cigarette smoke exposure may also
+contribute. Occupational exposures also lead to an increased risk of COPD. Although some
+exposures such as cotton textile dust and gold mining have not been definitively associated with
+COPD, coal dust exposure is a risk factor for emphysema in both smokers and nonsmokers.
+Inherent properties of the airways also affect the risk of COPD. Airway hyperresponsiveness
+increases the risk of lung function decline and is a risk factor for COPD. Although there is much
+interest in the role of chronic or recurrent infections as a risk factor for COPD, there has been no
+proven link.
+36
+  The answer is B. (Chap. 314) COPD is a disease process encompassing the clinical entities of
+emphysema and chronic bronchitis. COPD is defined pathophysiologically by the presence of
+irreversible airflow obstruction with hyperinflation and impaired gas exchange. The airflow
+obstruction occurs for several reasons including decreased elastic recoil of the lungs, increased
+airway inflammation, and increased closure of small airways due to loss of tethering in
+emphysematous lungs. This leads to early closure of airways in expiration with air trapping and
+hyperinflation. Finally, the loss of alveoli in emphysematous lungs leads to a progressive decline
+in gas exchange with alterations of ventilation-perfusion relationships. On pulmonary function
+testing, these pathophysiologic changes result in a typical pattern with the primary characteristic
+of COPD being a decrease in the FEV1/FVC ratio and FEV1. The severity of airflow obstruction is
+graded by the degree of decline in the percent predicted FEV1. The FVC may or may not be
+decreased. With hyperinflation, the TLC increases with a concomitant increase in RV. Finally, the
+DLCO is also characteristically decreased in most cases of COPD. Some patients with pure
+chronic bronchitis without any emphysematous component may have a preserved DLCO,
+although this is a rare presentation for COPD. This same pattern of pulmonary function testing
+can be seen in asthma with the exception of the DLCO, which is typically normal asthma. A
+decrease in TLC is characteristic in restrictive ventilator disorders, such as pulmonary fibrosis,
+but not in obstructive disorders such as COPD.
+37
+  The answer is D. (Chap. 314) This patient has a known diagnosis of COPD, with worsening
+symptoms and pulmonary function testing consistent with a moderate degree of disease. By the
+Global Initiative for Lung Disease (GOLD) criteria, the patient would have stage II disease. He is
+currently undermanaged with a short-acting β-agonist only in the setting of limiting symptoms.
+Unfortunately, there is no medical therapy that alters mortality or definitively decreases rate of
+decline in lung function in COPD with the exception of smoking cessation, oxygen for chronic
+hypoxemia, and lung volume reduction surgery in a small subset of highly selected patients.
+Therefore, the goal of therapy in COPD is to improve symptoms and quality of life. The best
+initial medication for this patient would be to add a long-acting bronchodilator in the form of
+the antimuscarinic agent tiotropium. In large randomized controlled trials, tiotropium has been
+demonstrated to improve symptoms and decrease exacerbations in COPD. Ipratropium, a short-
+acting anticholinergic medication, also improves symptoms but has not been similarly shown to
+decrease exacerbation rate. Combinations of long-acting β-agonists and inhaled glucocorticoids
+have also been shown to decrease exacerbations and improve quality of life in COPD. The largest
+trial of these medications to date has demonstrated a trend toward improved mortality.
+Currently, the recommendation for initiation of long-acting β-agonist and inhaled glucocorticoid
+combinations is to consider starting the medication if the patient has two or more exacerbations
+yearly or demonstrates significant acute bronchodilator reactivity on pulmonary function testing.
+At one time, physicians considered prescribing long-term oral glucocorticoids if a patient
+demonstrated significant improvement in lung function in response to a trial of oral steroids.
+However, long-term treatment with steroids has an unfavorable risk-benefit ratio including
+weight gain, osteoporosis, and increased risk of infection, especially pneumonia. Oxygen therapy
+improves outcomes in individuals who are hypoxemic at rest or have borderline hypoxemia with
+evidence of end-organ damage (e.g., pulmonary hypertension, polycythemia). Although oxygen
+may be prescribed for individuals with isolated exercise or nocturnal hypoxemia, research to
+date has not demonstrated any change in outcomes with oxygen in these settings.
+38
+  The answer is E. (Chap. 314) Acute exacerbations of COPD are marked by an increase in
+dyspnea, an increase in sputum, and a change in sputum color. Acute exacerbations of COPD
+account for more than $10 billion in healthcare expenditures annually in the United States, with
+significant morbidity and mortality associated with these exacerbations. Prompt treatment can
+improve symptoms and decrease hospitalizations and mortality in this setting. In patients
+presenting with hypercarbic respiratory failure in the setting of an acute exacerbation, the
+treatment that has demonstrated the strongest reduction in mortality, when compared to
+traditional mechanical ventilation, is noninvasive positive-pressure ventilation (NIPPV). NIPPV
+also decreases the need for endotracheal intubation, complications, and length of stay in the
+hospital. Antibiotics, bronchodilators, and glucocorticoids are all cornerstones of therapy in the
+treatment of acute exacerbations in COPD but have not been demonstrated in clinical trials to
+have similar mortality benefits in the situation of acute hypercarbic respiratory failure.
+Specifically, no benefit is demonstrated for intravenous versus oral corticosteroids. Likewise, the
+choice of antibiotic should be made based on local susceptibility patterns, and need for broad-
+spectrum antibiotics that cover for Pseudomonas is not typically indicated. Recent studies have
+demonstrated that high-flow nasal oxygen may be an effective alternative to NIPPV, with
+improved outcomes (need for mechanical ventilation) and improved patient comfort.
+39
+  The answer is C. (Chap. 314) The only therapies that have been proven to improve survival in
+patients with COPD are smoking cessation, oxygen in patients with resting hypoxemia, and lung
+volume reduction surgery in a very small subset of highly selected patients. This patient
+probably has resting hypoxemia resulting from the presence of an elevated jugular venous pulse,
+pedal edema, and elevated hematocrit. Theophylline has been shown to increase exercise
+tolerance in patients with COPD through a mechanism other than bronchodilation. Oral
+glucocorticoids are not indicated in the absence of an acute exacerbation and may lead to
+complications if they are used indiscriminately. Atenolol and enalapril have no specific role in
+therapy for COPD but are often used when there is concomitant hypertension or cardiovascular
+disease.
+VI-40 and VI-41.   The answers are E and C, respectively. (Chap. 315 and Am J Respir Crit Care Med
+2015;192(2):238–248) Idiopathic pulmonary fibrosis (IPF) is the most common cause of
+idiopathic interstitial pneumonia. The disease typically presents with progressive dyspnea on
+exertion and dry cough in an older individual. IPF is rare in individuals younger than age 50
+years. On physical examination, inspiratory crackles and clubbing are common. Pulmonary
+function tests demonstrate restrictive ventilatory defect (low TLC, low RV, low VC) with a low
+DLCO. As in the chest HRCT shown, there is typically interstitial fibrosis that is worse in the
+bases and begins in the subpleural areas, often associated with traction bronchiectasis and
+honeycombing. Atypical findings that should cause one to consider an alternative diagnosis
+include the presence of ground-glass infiltrates, nodular opacities, an upper lobe predominance
+of disease, and prominent hilar or mediastinal lymphadenopathy. Bronchoscopic biopsy is
+insufficient for histologic confirmation, and a surgical lung biopsy is required for definitive
+diagnosis. The histologic hallmark of IPF is usual interstitial pneumonia, but can also occur in
+rheumatologic diseases or due to secondary exposures. In these cases, the prognosis is better
+than when the diagnosis is IPF. If no other secondary cause is identified, the diagnosis of IPF is
+given. The natural history of IPF is one of continued progression of disease and a high mortality
+rate. Acute exacerbations also occur with a rapid progression of symptoms associated with a
+pattern of diffuse ground-glass opacities on CT. These are associated with a high mortality. Until
+recently, no treatment had been demonstrated to slow progression of disease. Recently, two
+therapies have been approved by the FDA for treatment of IPF—nintedanib and pirfenidone (Am
+J Respir Crit Care Med 2015;192(2):238–248). Nintedanib is an intracellular tyrosine kinase
+inhibitor that inhibits several growth factors including vascular endothelial growth factor,
+fibroblast growth factor, and platelet-derived growth factor. A recent trial demonstrated that use
+of this medication slowed the rate of decline in FVC and could potentially decrease mortality.
+Pirfenidone is an oral antifibrotic medication that has been demonstrated to decrease fibroblast
+proliferation and collagen synthesis. It too has also been shown to decrease decline in FVC and
+potentially decrease mortality. Therapies that have been shown to not benefit in IPF include
+glucocorticoids, immunosuppressant agents, and N-acetylcysteine. Referral for lung CT should be
+considered in all patients with a diagnosis of IPF due to the unpredictability of the diagnosis.
+42
+  The answer is C. (Chap. 315) In many cases of interstitial lung disease, bronchoscopy can offer
+some clues to the cause of the disease. Diffuse alveolar hemorrhage is a pathologic process that
+can occur in many diseases including vasculitis, Goodpasture syndrome, systemic lupus
+erythematosus, crack cocaine use, mitral stenosis, and idiopathic pulmonary hemosiderosis,
+among many others. On bronchoscopy, one would expect to see a progressively greater blood
+return on sequential aliquots of lavage fluid. Microscopic examination would show hemosiderin-
+laden macrophages and red blood cells. Atypical hyperplastic type II pneumocytes are seen in
+diffuse alveolar damage or cases of drug toxicity. Ferruginous bodies and dust particles are found
+in asbestos-related pulmonary disease. Lymphocytosis is common in hypersensitivity
+pneumonitis and sarcoidosis. Hypersensitivity pneumonitis has a low CD4:CD8 ratio, whereas
+sarcoidosis has an elevated CD4:CD8 ratio. The bronchoalveolar lavage fluid in pulmonary
+alveolar proteinosis has a milky appearance with foamy macrophages.
+VI-43 and VI-44.    The answers are E and E, respectively. (Chap. 315) Pulmonary alveolar
+proteinosis is a rare disorder that usually presents between ages 30 and 50 years. It is slightly
+more common in men. Three distinct subtypes have been described: congenital, acquired, and
+secondary (most frequently caused by acute silicosis or hematologic malignancies). Interestingly,
+the pathogenesis of the disease has been associated with antibodies to granulocyte-macrophage
+colony-stimulating factor (GM-CSF) in most cases of acquired disease in adults. The pathobiology
+of the disease is failure of clearance of pulmonary surfactant. These patients typically present
+with subacute dyspnea on exertion with fatigue and low-grade fevers. Associated laboratory
+abnormalities 
+include 
+polycythemia, 
+hypergammaglobulinemia, 
+and 
+increased 
+lactate
+dehydrogenase levels. Elevated serum levels of lung surfactant proteins A and D have been
+described, and autoantibodies to GM-CSF can be found in both the serum and bronchoalveolar
+lavage fluid. Classically, the CT appearance is described as “crazy pavement” with ground-glass
+alveolar infiltrates in a perihilar distribution and intervening areas of normal lung.
+Bronchoalveolar lavage is diagnostic, with large amounts of amorphous proteinaceous material
+seen. Macrophages filled with periodic acid-Schiff–positive material are also frequently seen. The
+treatment of choice is whole-lung lavage through a double-lumen endotracheal tube. Survival at
+5 years is higher than 95%, although some patients will need a repeat whole-lung lavage.
+Treatment of pulmonary alveolar proteinosis with GM-CSF remains experimental.
+45
+  The answer is D. (Chap. 315) This patient is presenting with subacute pulmonary symptoms,
+intermittent fevers, myalgias, and malaise. The biopsy shows a pattern of cryptogenic organizing
+pneumonia (COP). COP (formerly bronchiolitis obliterans organizing pneumonia) usually
+presents in the fifth or sixth decades with a flulike illness. Symptoms include fevers, malaise,
+weight loss, cough, and dyspnea. Inspiratory crackles are common, and late inspiratory squeaks
+may also be heard. Pulmonary function testing reveals restrictive lung disease. The typical
+pattern on chest HRCT is patchy areas of airspace consolidation, nodular opacities, and ground-
+glass opacities that occur more frequently in the lower lung zones. Pathology shows the presence
+of granulation tissue plugging airways, alveolar ducts, and alveoli. There is frequently chronic
+inflammation in the alveolar interstitium. Treatment with high-dose steroids is effective in two-
+thirds of individuals, with most individuals being able to be tapered to lower doses over the first
+year. Azathioprine is an immunosuppressive therapy that is commonly used in interstitial lung
+disease due to usual interstitial pneumonitis. While it may be considered in COP unresponsive to
+glucocorticoids, it would not be a first-line agent used without concomitant steroid therapy.
+Because most patients with COP respond to corticosteroids, referral for lung transplantation is
+not required unless there is a failure to respond to therapy. Nintedanib and pirfenidone are
+treatments for idiopathic pulmonary fibrosis.
+46
+  The answer is C. (Chap. 316) Empyema refers to the presence of a grossly purulent pleural
+effusion, which is present in this clinical scenario. The management of an empyema requires
+placement of a chest tube for drainage, and a recent randomized, placebo-controlled clinical trial
+demonstrated improved outcomes with use of both alteplase (tissue plasminogen activator) and
+deoxyribonuclease (DNase) twice daily for 3 days beginning within the first day after chest tube
+placement. The trial was conducted using a factorial design comparing the combination therapy
+to placebo and to either therapy alone. The combination of alteplase and DNase showed
+improved resolution of pleural fluid, shorter duration of hospital stay, and lesser need for
+surgical intervention when compared to placebo or either therapy alone (Rahman NM et al: N
+Engl J Med 2011;365:518–526).
+47
+  The answer is C. (Chap. 316) Tension pneumothorax is a life-threatening complication that
+must be rapidly recognized and alleviated. If undetected, it will rapidly progress to
+cardiovascular collapse and death. Tension pneumothorax most commonly occurs during
+mechanical ventilation and during resuscitative efforts. An initial sign during mechanical
+ventilation is high peak inspiratory pressures or difficulty with ventilation. Hypotension and
+hypoxemia are signs of impending cardiovascular collapse and are caused by decreased venous
+return to the heart and reduced cardiac output. The physical examination may show absence of
+breath sounds on the affected side with enlargement of the hemithorax, hyperresonance to
+percussion, and mediastinal shift to the contralateral side. A chest radiograph would be
+confirmatory, but in an acute setting, there may not be time to obtain the testing. If clinical
+suspicion is high, treatment should not be delayed as tension pneumothorax is a medical
+emergency and the patient is likely to die if the tension is not relieved. A large-bore needle
+should be placed into the pleural space through the second anterior intercostal space. If a large
+amount of air escapes after the needle is inserted, the diagnosis is confirmed. The needle should
+remain in place until definitive treatment with a tube thoracostomy can be performed.
+48
+  The answer is E. (Chap. 316) Parapneumonic effusions are one of the most common causes of
+the exudative pleural effusion. When an effusion is identified in association with pneumonia, it is
+prudent to perform a thoracentesis if the fluid can be safely accessed. One way to know whether
+there is enough fluid for thoracentesis is to perform a lateral decubitus film and observe if there
+is free-flowing fluid at a volume of >10 mm from the chest wall. However, if the fluid does not
+layer, this may indicate a complex loculated fluid. A loculated effusion often indicates an
+infected effusion and may require chest tube drainage or surgical intervention. Other factors that
+are associated with the need for more invasive procedures include pleural fluid pH <7.20,
+pleural fluid glucose <60 mg/dL (<3.3 mmol/L), positive Gram stain or culture of the pleural
+fluid, and presence of gross pus in the pleural space (empyema). Fluid recurrence following
+initial thoracentesis does indicate a complicated pleural effusion, but a repeat thoracentesis
+should be performed to ensure no concerning features have developed.
+49
+  The answer is A. (Chap. 316) The characteristics of the pleural fluid in this patient are
+consistent with an exudate by Light’s criteria. These criteria are as follows: pleural fluid
+protein/serum protein ratio >0.5, pleural fluid lactate dehydrogenase (LDH)/serum LDH ratio
+>0.6, and pleural fluid LDH more than two-thirds of the upper limit of normal serum values. If
+one of the criteria is met, then the effusion would be classified as an exudate. This patient clearly
+meets the criteria for an exudate. Exudative pleural effusions occur when there are alterations in
+the local environment that change the formation and absorption of pleural fluid. The most
+common causes of exudative pleural effusion are infection and malignancy. Other less common
+causes include pulmonary embolism, chylothorax, autoimmune diseases, asbestos exposure, drug
+reactions, hemothorax, and following cardiac surgery or other cardiac injury, among others.
+Unfortunately, 25% of transudative effusions can be incorrectly identified as exudates by these
+criteria. Most often, this occurs when the effusion has an increased number of cells to cause an
+elevation in the LDH or has been treated with diuretics to cause an increase in pleural fluid
+protein. Transudative effusions are most often caused by heart failure, but can also be seen in
+cirrhosis, nephrotic syndrome, and myxedema.
+50
+  The answer is B. (Chap. 316) A primary spontaneous pneumothorax occurs in the absence of
+trauma to the thorax. Most individuals who present with a primary spontaneous pneumothorax
+are young, and primary spontaneous pneumothorax occurs almost exclusively in cigarette
+smokers, the primary risk factor. Primary spontaneous pneumothorax is also more common in
+men and has been associated with a tall, thin body habitus. The primary cause is the rupture of
+small apical pleural blebs or cysts, and the CT scan of the chest is often normal. About half of
+individuals will experience more than one primary spontaneous pneumothorax. The initial
+treatment is simple needle aspiration, which is most commonly done with ultrasound or CT
+guidance. Oxygen is given simultaneously to speed resorption of the residual air in the pleural
+space. If conservative treatment fails, tube thoracostomy can be performed. Pneumothoraces that
+fail to resolve or are recurrent often require thoracoscopy with stapling of blebs and pleural
+abrasion, a treatment that is effective in almost 100% of cases.
+51
+  The answer is B. (Chap. 317) Chronic fibrosing mediastinitis most commonly occurs after
+granulomatous inflammation in the lymph nodes in the mediastinum that leads to an exuberant
+calcification response. Over time, the inflammation can cause significant disruption to the vital
+structures that course through the mediastinum and lead to the clinical symptoms of fibrosing
+mediastinitis. The most common causes of fibrosing mediastinitis are histoplasmosis and
+tuberculosis. Other causes include sarcoidosis, silicosis, or other fungal diseases. Symptoms are
+related to compression of mediastinal structures including the superior vena cava, pulmonary
+arteries or veins, or large airway compression. The phrenic or recurrent laryngeal nerves may
+also become paralyzed. The most common symptom is dyspnea on exertion. Patients may also
+develop chronic cough with lithoptysis or hemoptysis due to erosion of the calcific lymph nodes
+into airways. Patients may describe lithoptysis as gritty or sandy sputum. Hemoptysis can be
+large volume and may necessitate surgical intervention for control. However, other than
+antituberculous therapy for tuberculous mediastinitis, no medical or surgical therapy has any
+effectiveness on the treatment of fibrosing mediastinitis. This patient most likely has
+histoplasmosis as the cause of her disease because histoplasmosis is endemic in Indiana. Because
+the fibrosing mediastinitis is a sequela of an old infection, the urine Histoplasma antigen test
+would not yield a positive result.
+52
+  The answer is E. (Chap. 318) Obesity hypoventilation syndrome (OHS) is a disorder of chronic
+hypoventilation that has an unknown prevalence as no large population studies have been
+conducted. However, the prevalence is expected to increase as the prevalence of obesity is rising
+worldwide. OHS requires a body mass index >30 kg/m2 and the presence of chronic alveolar
+hypoventilation for diagnosis, with a daytime awake PaCO2 ≥45 mmHg. In more than 90% of
+cases, concomitant obstructive sleep apnea (OSA) is also present. The pathogenesis of OHS is not
+fully understood, although it is known that there is a downregulation of the central respiratory
+drive in response to carbon dioxide. Multiple physiologic factors acting together likely lead to
+this including OSA, increased work of breathing, respiratory muscle impairment, V/Q
+mismatching, and depressed central chemo-responsiveness to hypoxemia and hypercarbia. Most
+patients present with daytime sleepiness, headaches, and symptoms typical of OSA. These
+patients should be treated with weight loss and positive airway pressure therapy. Sustained
+weight loss will lead to improvements in PaCO2 over time. Continuous positive airway pressure
+(CPAP) therapy does lead to improvement in daytime hypercapnia and hypoxemia in more than
+half of patients with OHS and OSA but is not recommended for use if patients have sustained
+hypoxemia after resolution of obstructive apneic events. In these individuals bilevel positive
+airway pressure (BiPAP) therapy is used. BiPAP is also used if a patient cannot tolerate the
+typically high levels of CPAP required for treatment. Some patients with OHS may present
+acutely with decompensated symptoms of right heart failure and respiratory failure as in this
+scenario. When a patient presents in acute decompensated OHS, BiPAP is the treatment of choice
+acutely as well. Even in patients who have previously failed home noninvasive therapy, this
+remains the treatment of choice for their acute condition and may prevent intubation and
+mechanical ventilation. The PHOX2b gene mutation plays no role in OHS but is associated with
+congenital central hypoventilation syndromes.
+53
+  The answer is E. (Chap. 318) Patients with amyotrophic lateral sclerosis (ALS) often develop
+hypoventilation due to involvement of their respiratory pump muscles (e.g., diaphragm,
+intercostal muscles, sternocleidomastoids). NIPPV has been used successfully in the therapy of
+patients with hypoventilation such as ALS. Nocturnal NIPPV can improve daytime hypercapnia,
+prolong survival, and improve health-related quality of life. Current ALS guidelines are to
+institute NIPPV if symptoms of hypoventilation exist and PaCO2 is ≥45 mmHg, nocturnal
+desaturation to <89% is documented for 5 consecutive minutes, maximal inspiratory pressure is
+<60 cmH2O, or FVC is <50% predicted. Symptoms of hypoventilation are not particular to ALS
+and may include the following: dyspnea during activities of daily living, orthopnea in diseases
+that affect diaphragm function, poor-quality sleep, daytime hypersomnolence, early morning
+headaches, anxiety, and impaired cough in neuromuscular disease.
+54
+  The answer is B. (Chap. 319) Obstructive sleep apnea/hypopnea syndrome (OSAHS) is a
+common condition estimated to affect up to 2%–15% of middle-aged individuals and >20% of
+elderly individuals and is associated with repeated collapse of the upper airway during sleep.
+This patient exhibits multiple risk factors and gives a strong history to support a diagnosis of
+OSAHS, placing him at high risk to have moderate to severe OSAHS. The greatest risk factor the
+patient has that places him at high risk for disease is obesity. Approximately 40%–60% of cases
+of OSAHS are attributable to excess body weight. The second major risk factor for OSAHS is
+male sex because men are two to four times more likely to have OSAHS than women. The
+reasons men develop more OSAHS include greater central obesity and relatively longer
+pharyngeal length, which in turn contribute to greater upper airway collapsibility. In addition,
+female sex hormones provide a stabilizing effect on the upper airway and stimulate ventilatory
+drive. Thus, premenopausal women are relatively protected from OSAHS at comparable levels of
+obesity when compared to men. Other risk factors that this patient has include a positive family
+history of the disease and hypertension. Other common risk factors for OSAHS in the general
+population include craniofacial abnormalities, adenotonsillar hypertrophy, various endocrine
+syndromes (acromegaly, hypothyroidism), increasing age, and some ethnic groups. For instance,
+individuals of Asian descent often develop OSAHS at a lower range of body mass index, most
+likely due to ethnic difference in craniofacial structure. In addition, individuals of African
+American race are at higher risk of OSAHS when compared to whites. This patient also gives
+many symptoms that are concerning for OSAHS including loud snoring, witnessed apneas, and
+daytime sleepiness. Given that there is a high clinical suspicion of disease, home sleep testing
+will likely be adequate for diagnosis of disease in this patient. Home sleep tests can be performed
+in a variety of ways, but most will record respiratory effort, nasal flow, and oxygen saturation. In
+a patient with a high suspicion of disease, these tests can be a cost-efficient means of diagnosis.
+However, the home tests may yield false-negative results because these tests do not measure the
+electroencephalogram, and thus, no accurate measure of sleep time is obtained. Therefore, the
+respiratory events are determined based on total recording time rather than total sleep time. If a
+patient is awake during much of the recording time, this could cause a false-negative result. An
+attended in-lab polysomnogram remains the gold standard for diagnosis OSAHS but is
+significantly more expensive. In this individual with a high pretest suspicion of disease, the cost
+would not be justified. An overnight oximetry provides only oxygen levels and heart rate and is
+not adequate for diagnosis of OSAHS. Treatment with a CPAP device may be recommended after
+a diagnosis is confirmed, but this would not be the next step in the treatment of the patient. The
+patient has only minimally enlarged tonsils. A tonsillectomy would not be expected to alleviate
+his symptoms.
+55
+  The answer is E. (Chap. 319) There are numerous benefits to treating OSAHS, and the
+consequences of untreated OSAHS are numerous and can be severe. They primarily fall in one of
+three categories: neurocognitive, cardiovascular, and metabolic. The neurocognitive effects are
+the ones most readily identified by the patient and include daytime sleepiness and inability to
+concentrate. In addition, individuals with untreated OSAHS have an increased risk of depression,
+particularly somatic depression with irritability, fatigue, and lack of energy. Moreover, untreated
+OSAHS increases the risk of occupational accidents by more than twofold and automobile
+accidents by as much as sevenfold. In addition to the neurocognitive effects, untreated OSA leads
+to increased sympathetic nervous system activity and increased systemic inflammatory
+responses. This leads to a loss of the normal nocturnal fall in blood pressure. However, treatment
+with CPAP can reduce 24-hour ambulatory blood pressure, although the overall effect on blood
+pressure is modest, decreasing the blood pressure about by 2–4 mmHg. Other cardiovascular and
+metabolic effects include an increased risk of coronary artery disease, heart failure with and
+without reduced ejection fraction, atrial and ventricular arrhythmias, atherosclerosis, stroke, and
+diabetes. Treatment with CPAP yields improvements in insulin resistance, decreases the
+recurrence rate of atrial fibrillation, and reduces several biomarkers of cardiovascular disease.
+56
+  The answer is E. (Chap. 319) Cheyne-Stokes respiration is a type of central sleep apnea
+associated with hypocapnia and demonstrates a crescendo-decrescendo pattern of breathing.
+Pathophysiologically, this occurs because the baseline carbon dioxide during wakefulness is
+below the apneic threshold during sleep. Thus, at sleep onset, a central apneic event occurs
+allowing carbon dioxide to rise. When this rise in carbon dioxide is detected centrally, there is an
+exaggerated respiratory response that leads to hyperpnea and hyperventilation, driving the
+carbon dioxide levels below the apneic threshold again, creating a self-perpetuating cycle of
+apnea and hyperpnea. It occurs more commonly in individuals with heart failure or atrial
+fibrillation due to a delay in circulation time. This prolonged circulation delay between the
+pulmonary capillaries and the central carbon dioxide–sensing chemoreceptors contributes to
+these ongoing cycles of hyperpnea and apnea. In many individuals with Cheyne-Stokes
+respiration, it has been observed that the pattern of breathing may worsen over the course of the
+night and the fluid is redistributed centrally, further prolonging circulation time.
+57
+  The answer is A. (Chap. 319) The treatment of choice for most adults with OSAHS is nasal
+CPAP. CPAP delivers a set pressure that is sufficient to overcome the tendency of the posterior
+oropharynx to collapse. This pressure ranges generally from 5–15 cmH2O, although pressures as
+high as 20 cmH2O can be used. However, the rates of adherence to CPAP therapy are highly
+variable. Many patients complain of claustrophobia, nasal congestion, aerophagia, or facial pain.
+If tolerated, there is a large body of data demonstrating beneficial effects of CPAP on blood
+pressure, alertness, mood, and insulin sensitivity, and likely improvement in cardiovascular
+outcomes. Oral appliance therapy is generally considered second-line therapy in mild to
+moderate OSA if the patient fails to tolerate CPAP. It can be prescribed as initial therapy if the
+patient prefers. In most studies, the improvement in the apnea-hypopnea index with oral
+appliance is ≥50% in about two-thirds of individuals. Side effects of oral appliances include
+temporomandibular joint pain and tooth movement. Surgical interventions for OSAHS in adults
+have provided less than desired benefits, and it can be difficult to determine which patients will
+derive 
+the 
+greatest 
+benefits 
+in 
+the 
+absence 
+of 
+a 
+known 
+anatomic 
+abnormality.
+Uvulopalatopharyngoplasty is the most common surgical procedure over the past two decades
+and is associated with a success rate similar to oral appliance therapy. Weight loss is generally
+recommended for all patients with OSAHS but should not be the only therapy recommended for
+an individual with this degree of OSAHS. Supplemental oxygen can improve oxygen saturation,
+but there is little evidence that it improves OSAHS symptoms and the apnea-hypopnea index.
+58
+  The answer is D. (Chap. 320e) Common indications for lung transplantation include COPD,
+idiopathic pulmonary fibrosis, CF, emphysema, and pulmonary arterial hypertension (Table VI-
+58). Five-year survival is similar for all indications for lung transplantation at approximately
+50%. For most indications, double lung transplantation is the preferred procedure, and it is
+mandatory for patients with suppurative lung disease like CF. In general, in patients with
+idiopathic pulmonary arterial hypertension, double lung transplantation is preferred because of
+concern of overcirculation in the low-resistance vascular bed transplanted lung when a native
+lung is present with markedly elevated pulmonary vascular resistance. It is rare for the primary
+disease to recur after transplantation, and this has not been described in idiopathic pulmonary
+arterial hypertension. The right ventricle is highly plastic and will generally recover function
+after elevated pulmonary vascular resistance is removed by lung transplantation. Subsequently,
+it is rare to perform heart-lung transplantation in pulmonary arterial hypertension patients
+unless there is concomitant complex congenital heart disease that cannot be repaired at the time
+of lung transplantation.
+TALBLE VI-58   Disease-Specific Guidelines for Referral and Transplantation
+59
+  The answer is A. (Chap. 320e) The long-term complications of lung transplantation are
+multisystem and range from the diseases that affect the lung and are complications of a foreign
+body in the chest to distant organ disease, either due to infections or complications of
+immunosuppressive therapy. Although osteoporosis, posttransplantation lymphoproliferative
+disorders, and chronic kidney disease are important complications of steroids, calcineurin
+inhibitors, and other agents used for immunosuppression, the major complications after
+transplantation are in the lung. Primary graft dysfunction is a form of acute lung injury
+immediately after lung transplantation that is relatively rare, with severe disease occurring in
+only 10%–20% of cases. Airway complications such as anastomotic dehiscence or stenosis have
+similar occurrence rates, but can usually be managed bronchoscopically with good survival.
+Rejection of transplanted organ is very common and is the main limitation to better medium-
+and long-term outcomes. Rejection occurs as acute cellular rejection often presenting with
+cough, low-grade fever, dyspnea, infiltrates on radiographs, and declining lung function. In
+contrast, chronic rejection typically presents with advancing obstruction on pulmonary function
+testing, 
+no 
+infiltrates, 
+and 
+worsening 
+dyspnea 
+on 
+exertion. 
+This 
+constellation 
+in
+posttransplantation patients is termed bronchiolitis obliterans syndrome. Fifty percent of lung
+transplant patients have some degree of bronchiolitis obliterans syndrome, and it is the main
+impediment to better long-term survival. Therapy often involves augmented immunosuppression,
+although there is no consensus of how to do this or the duration of this augmentation.
+60
+  The answer is B. (Chap. 320e) Chronic kidney disease is a common finding in patients after
+lung transplantation and is associated with poorer outcomes. Although rarely patients may have
+hemolytic-uremic syndrome underlying the kidney disease, it is usually acute, and the most
+common etiology of gradually progressive decline in renal function is calcineurin inhibitor
+neuropathy. Cyclosporine and tacrolimus are calcineurin inhibitors commonly used in
+immunosuppressive regimens after lung transplantation. The exact mechanism of this toxicity is
+unclear but may include a direct toxicity of inhibition of the calcineurin-NFAT system within the
+kidney, alteration in glomerular blood flow, and host-environment interactions within the kidney
+with calcineurin inhibitors. Prednisone, albuterol, and mycophenolate mofetil are not known to
+be nephrotoxic.
+61
+  The answer is A. (Chap. 321) Several different severity of illness (SOI) scores have been
+developed for use in critically ill populations. Two of the most common systems are the Acute
+Physiology and Chronic Health Evaluation (APACHE II) score and the Simplified Acute
+Physiology (SAPS II) score. SOI scores are primarily useful as tools to assess populations of
+critically ill individuals, but the scores do not perform well at predicting individual patient
+outcomes. These scores are used primarily in clinical trials to compare SOI between groups of
+patients enrolled in trials. These scores are also used by hospital administrations to assess quality
+of intensive care unit (ICU) care over time and also to help determine appropriate nursing and
+ancillary support staffing levels. No SOI score should be used to direct an individual patient’s
+care, although decision support tools based on SOI scores are being investigated. The APACHE II
+score is the most commonly used SOI score. This score assigns values based on a variety of
+demographic, medical history, and clinical values taking the worst value in the first 24 hours
+after admission. Population mortality ranges based on published values range from <5%–10%
+for scores between 0 and 4 and as high as 80%–90% for scores ≥35 points. Updated versions of
+the APACHE score (APACHE III and IV) have been published. The SAPS II score is more
+frequently used in Europe. This score is not disease specific, although it does add higher values
+for AIDS, metastatic cancer, or hematologic malignancy. Both scores are used in a similar
+manner.
+62
+  The answer is C. (Chap. 321) Oxygen delivery (QO2) is a function of both cardiac output (CO)
+and the oxygen content of the blood (CaO2) and can be expressed by the following equation:
+QO2 = CO × [1.39 × hemoglobin × SaO2 + (0.003 × PaO2)]
+From this equation, the effect of PaO2 on overall oxygen delivery is negligible. Nearly all oxygen
+delivered to the tissues is bound to hemoglobin. One can improve oxygen delivery by increasing
+cardiac output, increasing hemoglobin, or improving oxygen saturation.
+63
+  The answer is C. (Chap. 321) In patients admitted to the ICU, one of the most important
+aspects of care is to prevent complications that may occur during the process of care. One of the
+most common complications is nosocomial infections, including hospital- or ventilator-acquired
+pneumonia, catheter-related bloodstream infections, urinary tract infections, and Clostridium
+difficile infection. It is important to remove indwelling devices such as central lines, urinary
+catheters, and endotracheal tubes as soon as clinically possible. Another important preventative
+measure to decrease nosocomial infections includes ensuring appropriate sterile procedures for
+device insertion. Using care bundles and emphasizing good hand washing protocols are
+important strategies for decreasing nosocomial infections. Individuals in the ICU are also at
+increased risk of deep venous thrombosis due to immobility and often have factors that increase
+hypercoagulability. Standard interventions to prevent deep venous thrombosis include use of
+low-molecular-weight heparin or low-dose heparin along with sequential compression devices.
+Protection against development of stress ulcers is accomplished with histamine-2 blockers or
+proton pump inhibitors. The patients who benefit most from stress ulcer prophylaxis are those
+with coagulopathy, shock, or respiratory failure. Enteral nutrition is preferred over parenteral
+nutrition, although no definitive data demonstrate that early use of enteral nutrition provides
+benefit. ICU-acquired weakness is also a common complication of ICU care. The mechanisms are
+poorly understood. Interventions that may improve functional outcomes in critical illness include
+early physical and occupational therapy. Use of tight glucose control with intensive insulin
+therapy was thought to improve ICU outcomes, but further study has demonstrated no benefits
+on nosocomial infection and increased hypoglycemia with this mode of therapy.
+VI-64 and VI-65.    The answers are E and A, respectively. (Chap. 322) This patient has evidence of
+severe ARDS. The annual incidence of ARDS is 60 cases per 100,000 population. In individuals
+admitted to the ICU with respiratory failure, approximately 20% of these will meet the criteria
+for ARDS, although it is generally underrecognized in the ICU population. ARDS is a clinical
+syndrome of severe dyspnea of rapid onset, hypoxemia, and diffuse pulmonary infiltrates that
+may lead to respiratory failure. There are myriad causes of ARDS, including sepsis, pneumonia,
+aspiration pneumonitis, trauma, acute pancreatitis, multiple transfusions, and toxic inhalation
+injury among others. The most common causes of ARDS are sepsis and pneumonia, which cause
+about 40%–50% of all cases of ARDS. Clinically, ARDS is diagnosed in the presence of acute
+bilateral pulmonary infiltrates and hypoxemia without evidence of increased left atrial filling
+pressure. A consensus panel has recently revised the definition of ARDS into three categories of
+mild, moderate, and severe based on degree of hypoxemia as determined by the ratio of PaO2 to
+FiO2, commonly called P:F ratio. Mild ARDS is present if PaO2/FiO2 is ≤300 mmHg, but >200
+mm Hg. Moderate ARDS is diagnosed when PaO2/FiO2 is ≤200 mmHg and >100 mmHg.
+Severe ARDS is diagnosed when PaO2/FiO2 is ≤100 mmHg. In this case, the ratio of PaO2 to
+FiO2 is 80 mmHg, placing the patient in the category of severe ARDS. The natural history of
+ARDS is three stages: exudative, proliferative, and fibrotic. In the early exudative stage of ARDS,
+there is an acute injury to alveolar capillary endothelial cells and type I pneumocytes. This
+results in loss of the normal alveolar barrier with subsequent leakage of protein-rich fluid into
+the alveoli (noncardiogenic pulmonary edema). In the early phase, the inflammatory cell
+infiltrate is predominantly neutrophils. Pathologically, the finding is described as diffuse alveolar
+damage. Hyaline membranes and loss of type I pneumocytes are seen. The exudative phase of
+ARDS lasts for approximately the first 7 days of illness. The second phase of ARDS is the
+proliferative phase, which begins around day 7 and continues through day 21. Most patients
+recover during this phase and are able to be liberated from mechanical ventilation.
+Histologically, early signs of repair can be seen in this phase with shift to a lymphocyte-
+predominant infiltrate, proliferation of type II pneumocytes, and organization of the alveolar
+predominant infiltrate, proliferation of type II pneumocytes, and organization of the alveolar
+edema. Only a few individuals who develop ARDS fail to recover during the proliferative phase
+and continue into the fibrotic stage of the disease. Pathologically, individuals who develop
+fibrotic ARDS demonstrate extensive alveolar and interstitial fibrosis at sites of prior alveolar
+edema. The acinar architecture frequently becomes distorted, leading to development of
+emphysematous changes with large bullae. Fibrotic proliferation may also occur in the intima of
+pulmonary vasculature, leading to development of pulmonary hypertension. Given the timing of
+the presentation, this patient would be expected to be in the exudative phase of ARDS and
+exhibit diffuse alveolar damage, loss of type I pneumocytes, and hyaline membranes.
+66
+  The answer is B. (Chap. 322) This individual has severe ARDS due to trauma, a pulmonary
+contusion, and possible transfusion-related lung injury. Mechanical ventilation is frequently
+necessary for individuals suffering from ARDS and has been essential for prolonging life and
+improving mortality from this disorder. However, appropriate ventilator management is
+necessary to prevent further morbidity from ventilator-associated lung injury. ARDS is not
+experienced uniformly across the lung tissue. The dependent portions of the lungs are typically
+the most affected, while other areas of the lung may be spared. The portions of the lung that are
+most affected are poorly compliant and are prone to alveolar collapse. Alternatively, the more
+normal portions of the lungs have better lung compliance. With positive-pressure ventilation,
+ventilator-associated lung injury may occur as a result of overdistention of the more normal
+areas of the lung with resultant perpetuation of alveolar damage and capillary leak in these
+areas. In the poorly compliant areas, respirations initiated by the ventilator can lead to repetitive
+opening and closure of alveoli, causing further damage in these areas. Because of this, a strategy
+that employs low tidal volumes to prevent alveolar overdistention and recurrent alveolar
+collapse is recommended. The ARDS Network conducted a clinical trial that compared low tidal
+volume ventilation to conventional ventilation and demonstrated improved mortality with the
+low tidal volume strategy (31% vs. 40%). The recommended initial tidal volume setting is 6
+mL/kg of ideal body weight. This strategy is recommended in all patients with ARDS, and the
+improvement in outcomes is not affected by obesity.
+67
+  The answer is D. (Chap. 322) Hypoxemia in ARDS results in shunt physiology with the
+presence of alveolar and interstitial fluid and loss of surfactant. In turn, there is significant loss
+of lung compliance and development of alveolar collapse that is worse in the dependent portions
+of the lungs. During mechanical ventilation, the goal is to minimize overdistention of less
+affected areas of the lungs while maximizing alveolar recruitment. Positive end-expiratory
+pressure (PEEP) is used to prevent alveolar collapse at end-expiration. Trials of mechanical
+ventilation with high-PEEP compared to low-PEEP strategies did not show any differences in
+outcomes when a low tidal volume ventilation strategy was used. More recently, a trial used a
+strategy that involved constructing static pressure-volume curves of the lung on the mechanical
+ventilator. With this strategy, a lower inflection point can be calculated. This point identifies the
+pressure at which the alveoli open. In ARDS, this point is typically 12–15 cmH2O. In theory,
+setting the PEEP to this pressure will maximize oxygenation and prevent lung injury. Trials of
+this mode of ventilation improve lung function and may have an effect on mortality. More
+recently, strategies employing esophageal pressure catheters to estimate optimal transpulmonary
+pressure are being studied to determine the effects on oxygenation, duration of mechanical
+ventilation, and mortality.
+68
+  The answer is B. (Chap. 322 and N Engl J Med 2006;354:2564–2575) Optimal fluid
+management in ARDS is felt to be important to minimize extravasation of fluid into the
+interstitium and alveolar spaces. However, in individuals with septic shock or other causes of
+hypotension, expansion of fluid volume to optimal levels is important in the management of
+hypotension. Whether an aggressive or conservative fluid management strategy was most
+important in acute lung injury was not known as there were concerns that a conservative fluid
+management strategy would increase the likelihood of end-organ failure, especially acute kidney
+injury. A trial sponsored by the ARDS Network attempted to answer this question by
+randomizing individuals with acute lung injury to a conservative versus liberal fluid
+management strategy. This trial demonstrated that a conservative fluid management strategy to
+management strategy. This trial demonstrated that a conservative fluid management strategy to
+maintain low left atrial pressure improved pulmonary mechanics and oxygenation while
+decreasing the duration of mechanical ventilation, ICU stay, and mortality. At the same time,
+there was no increased incidence of acute kidney injury.
+69
+  The answer is C. (Chap. 323) Noninvasive ventilation (NIV) refers to respiratory support that is
+provided through a tight-fitting face mask or nasal mask. NIV can be administered with bilevel
+positive expiratory pressure ventilation or pressure support ventilation. Both modes of
+ventilation provide a higher positive pressure with inspiration and decrease to a lower pressure
+with expiration to decrease work of breathing and provide assisted ventilation. The major
+difficulty with using NIV clinically is poor patient tolerance due to the use of a tight-fitting mask
+and psychological discomfort and anxiety. The primary group of individuals who have benefited
+from the use of NIV are those with acute exacerbations of COPD. In those with COPD, several
+randomized trials have shown low failure rates in individuals with pH of 7.25 to 7.35, along
+with decreased need for invasive ventilation, decreased length of ICU stay, and decreased
+mortality in some studies. In those with pH >7.35, NIV confers no benefit over standard
+therapy. In those with pH <7.25, use of NIV has a higher failure rate that is inversely
+proportional to the degree of acidosis. Another group of individuals who may benefit from NIV
+are those with decompensated systolic heart failure with respiratory acidosis. In these
+individuals, a large clinical trial demonstrated a decreased need for invasive mechanical
+ventilation. NIV in these individuals decreased both preload and afterload and can provide
+assistance to the failing heart (Gray A, et al: N Engl J Med 2008;359(2):142–151). A last group
+for which NIV has shown promise is in individuals immediately after extubation, especially
+individuals with COPD or hypercapnic respiratory failure. NIV is associated with higher failure
+rates in individuals with acute hypoxemic respiratory failure and ARDS. Invasive mechanical
+ventilation is the ventilatory method of choice in these individuals, although not strictly
+contraindicated. Contraindications to mechanical ventilation include absence of spontaneous
+respirations, cardiac or respiratory arrest, severe encephalopathy, severe gastrointestinal bleed,
+hemodynamic instability, unstable angina or acute myocardial infarction, facial surgery or
+trauma, upper airway obstruction, inability to protect airway, and inability to clear secretions.
+VI-70, VI-71, VI-72, and VI-73.   The answers are C, B, A, and D, respectively. (Chap. 323)
+Mechanical ventilation can be delivered in many different modes, which refers to the manner in
+which the breaths are triggered, cycled, and delivered. The most common mode of mechanical
+ventilation is assist-control. This mode is volume cycled and flow limited. An inspiratory cycle
+may be triggered by patient effort or, if there is no patient effort within a specific time, by a
+timer within the ventilator. Each breath, whether triggered by patient effort or the ventilator,
+delivers an operator-specified tidal volume. This mode is frequently the initial mode of
+mechanical ventilation when a patient is intubated as it ensures a known minute ventilation in
+the absence of respiratory effort. Common difficulties with the use of assist-control ventilation
+are asynchrony with the ventilator and tachypnea, which can lead to respiratory alkalosis and/or
+generation of dynamic hyperinflation. This occurs when a patient triggers an inspiratory cycle
+before a full exhalation occurs. Commonly known as auto-PEEP, dynamic hyperinflation can lead
+to decreased venous return and a fall in cardiac output. It may also lead to barotrauma,
+including pneumothorax and pneumomediastinum. Intermittent mandatory ventilation (IMV) is
+a mixed mode of ventilation. IMV is primarily a volume-cycled and flow-limited mode of
+ventilation and is most often delivered in a synchronized mode (SIMV). The ventilator will
+deliver a mandatory number of breaths at a specified tidal volume. If a patient breathes only at
+the set respiratory rate, SIMV is essentially the same as assist-control ventilation. When a patient
+breathes above the set respiratory rate, the spontaneous breaths may be unassisted or assisted
+with a pressure support mode of ventilation. SIMV was commonly used as a weaning mode of
+ventilation, but clinical trials have shown that trials of spontaneous breathing lead to a shorter
+duration of mechanical ventilation and more rapid extubation. Pressure control ventilation (PCV)
+is time triggered, time cycled, and pressure limited. This mode is often used in individuals who
+have preexisting barotrauma or for postoperative thoracic surgery patients. It is also used in
+ARDS to limit ventilator-induced lung injury. In PCV, there is no prespecified minimum tidal
+ARDS to limit ventilator-induced lung injury. In PCV, there is no prespecified minimum tidal
+volume or minute ventilation. Rather, a specified pressure is set during inspiration by the
+operator, and the tidal volume and inspiratory flow rate are dependent upon lung compliance.
+Pressure support ventilation (PSV) is patient triggered, flow cycled, and pressure limited. PSV
+requires a patient to spontaneously initiate respiration because no machine-delivered breaths are
+given. PSV provides graded assistance through application of an inspiratory pressure that
+augments spontaneous respiration. The pressure support falls to a specified expiratory pressure
+when the flow falls below a certain rate. PSV is often combined with SIMV to augment the
+spontaneously generated breaths. PSV also is used in ventilator weaning as it is generally well
+tolerated.
+74
+  The answer is C. (Chap. 323) Spontaneous breathing trials (SBTs) have been determined to be
+the best way to assess whether a patient has recovered sufficiently from respiratory failure to be
+extubated. An SBT can be implemented via T-piece, CPAP at low levels of pressure (1–5 cmH2O),
+or pressure support ventilation applied to offset the resistance of the endotracheal tube. A
+patient will undergo an SBT from 30 minutes to 2 hours to determine if respiration can be
+maintained to support liberation from mechanical ventilation. It is important to recognize which
+patients are appropriate to undergo SBT. The following conditions predict patients who are
+ready for weaning attempts: (1) lung injury is stable or resolving; (2) gas exchange is adequate,
+with PEEP generally <8 cmH2O and FiO2 <0.5; (3) hemodynamic parameters are stable
+without need for ongoing vasopressor support; and (4) the patient has spontaneous respiratory
+activity.
+75
+  The answer is A. (Chap. 324) Shock is a complex pathophysiologic process that occurs in
+response to a decline in tissue perfusion. Clinically, shock states manifest with a mean arterial
+pressure <60 mmHg. This nonspecific term can be caused by many different etiologies including
+sepsis, hypovolemia, trauma, hypoadrenal states, neurologic causes, and cardiac causes. Shock
+states result in a decrease in tissue oxygen delivery. In turn, this creates a multifaceted response
+that can become a self-perpetuating process that leads to further tissue injury. Hypotension
+disinhibits the vasomotor center, leading to increased adrenergic output and decreased vagal
+tone. Norepinephrine leads to significant splanchnic and peripheral vasoconstriction in an
+attempt to maintain cerebral and cardiac blood flow. Other constrictor substances are secreted as
+well including angiotensin II, vasopressin, endothelin-1, and thromboxane A2. In addition, there
+is pressure to maintain intravascular fluid volume through alterations in hydrostatic pressure and
+osmolarity. However, constriction of arterioles leads to reduction in capillary hydrostatic
+pressure and the number of capillary beds perfused. This limits the capillary surface area
+available for perfusion with the resultant increase in vascular oncotic pressure. This in turn leads
+to a net reabsorption of fluid into the vascular bed. Metabolic changes including glycolysis,
+lipolysis, and proteolysis further increase interstitial and intravascular volume at the expense of
+intracellular volume due to their effects on raising extracellular osmolarity. Within the cells,
+there is rapid depletion of high-energy phosphate stores. This leads to mitochondrial dysfunction
+with uncoupling of oxidative phosphorylation with accumulation of reactive oxygen species,
+lactate, and hydrogen ions. The byproducts of anaerobic metabolism can overcome the
+compensatory vasoconstrictor mechanisms and lead to further hypotension. Extensive
+proinflammatory pathways are activated in shock and contribute to the development of multiple
+organ dysfunction and failure. After the initial insult, a counterregulatory process should be
+initiated to balance the proinflammatory response. In individuals who have an excessive
+proinflammatory response that cannot be effectively regulated, the inflammatory process may
+continue unregulated and lead to further organ injury and failure. At the system level, shock
+affects a variety of endocrine, cardiac, pulmonary, and renal processes, among others. In
+addition to increases in norepinephrine, the stress associated with shock increases
+adrenocorticotropic hormone (ACTH) to increase cortisol secretion. Renin is also released in
+response to adrenergic discharge and decreased renal perfusion. Renin induces the formation of
+angiotensin I, which is converted to the active angiotensin II, which is a potent vasoconstrictor.
+Angiotensin II also stimulates release of aldosterone and vasopressin. The cardiac response to
+shock is to initially compensate by increasing heart rate. Many causes of shock, however, are
+shock is to initially compensate by increasing heart rate. Many causes of shock, however, are
+associated with depression of myocardial contractility such that stroke volume is decreased for
+any given filling pressure. The pulmonary response may lead to development of noncardiogenic
+pulmonary edema, ARDS, and decreased lung compliance. Finally, the kidney responds to shock
+by conserving salt and water.
+76
+  The answer is E. (Chap. 324) Different causes of shock are associated with different physiologic
+findings throughout the vascular system. Although rarely used in most cases of shock, a
+pulmonary artery catheter can be used to measure these values. However, it is important to
+understand pathologically what occurs in the vascular system. The typical measured variables
+include cardiac output (CO), systemic vascular resistance (SVR), mixed venous oxygen saturation
+(SVO2), central venous pressure (CVP), and pulmonary capillary wedge pressure (PCWP).
+Patients who have interruption of sympathetic vasomotor input after high cervical cord injury or
+major head injury may experience neurogenic shock. In neurogenic shock, there is arteriolar
+dilation and venodilation. The result is a fall in all variables measured (CO, SVR, SVO2, CVP, and
+PCWP) (option E). Hypovolemia is the most common cause of shock and occurs due to acute
+blood loss or significant loss of plasma volume due to extravascular fluid sequestration.
+Gastrointestinal or renal fluid losses may also lead to hypovolemic shock. In hypovolemic shock,
+CO is low; SVR is elevated; and SVO2, CVP, and PCWP are low (option A). Cardiogenic shock
+(option B) has similarly low CO, elevated SVR, and low SVO2. However, CVP and PCWP are
+elevated. Septic shock can be hyperdynamic or hypodynamic. Early in the septic shock, the
+hyperdynamic state predominates and is associated with increased CO, low SVR, and low SVO2.
+CVP and PCWP are variable and may be low, normal, or elevated (option C). The hypodynamic
+state of septic shock is associated with low CO and high SVR with variable effect of CVP, PCWP,
+and SVO2. Shock following trauma is most often due to hypovolemia. However, after
+intravascular volume is restored, some individuals will continue to experience hypotension due
+to loss of plasma volume into the interstitium and injured tissues. This type of shock will be
+associated with variable effects on CO and SVR with low SVO2, CVP, and PCWP. Finally,
+hypoadrenalism is a rare cause of shock associated with unrecognized adrenal insufficiency.
+Hypoadrenal shock presents with a low CO, low SVO2, low CVP, low PCWP, and normal to low
+SVR.
+77
+  The answer is A. (Chap. 325) Sepsis and septic shock represent a harmful host response to
+infection and are contributing factors to more than 200,000 deaths in the United States each
+year. Over the past 30 years, the incidence of sepsis has risen along with our aging population.
+Annually, there are more than 750,000 cases of sepsis yearly with an incidence of 3 per 1000
+population. Most cases of sepsis occur in individuals with underlying illness. The incidence also
+increases with age and increasing comorbidities. Other risk factors for sepsis include
+immunocompromised state and indwelling vascular or mechanical devices. The most common
+source of infection in individuals with sepsis is the lungs, accounting for 64% of cases of sepsis.
+Microbial invasion of the bloodstream is not required for an individual to develop the systemic
+response that leads to multiorgan dysfunction in sepsis. Blood cultures are only positive in 40%–
+70% of cases of septic shock and approximately 20%–40% of cases of severe sepsis. When a
+culture is positive from any site, the most common organisms are gram-negative bacteria (62%),
+with P aeruginosa and Escherichia coli being the most common. Gram-positive bacteria are present
+in approximately 47% of cases, and 19% occurred in people infected with fungi. Because the
+numbers add up to >100%, it should be noted that multiple bacteria may be implicated in
+sepsis.
+78
+  The answer is C. (Chap. 325 and JAMA 2016;315:801–810) Sepsis represents a dysregulated
+host response to infection, and severity can range broadly from a mild inflammatory response to
+refractory septic shock (Table VI-78). Multiple professional medical societies have attempted to
+create a standardized definition of sepsis and septic shock over the years to aid in early
+identification of sepsis with the goal of improving patient outcomes. The most recent definition
+of sepsis simplifies diagnosis into two categories: sepsis and septic shock. This eliminates prior
+categories included in the continuum of sepsis including systemic inflammatory response
+categories included in the continuum of sepsis including systemic inflammatory response
+syndrome (SIRS) and severe sepsis. SIRS criteria may be present in many individuals with
+infection who do not develop progressive symptoms of sepsis. The symptoms that may indicate a
+harmful systemic response to infection are many of those previously included in the SIRS
+definition, including fever or hypothermia, tachypnea, tachycardia, and leukocytosis. However,
+SIRS can be present due to systemic inflammatory responses with other stresses such as trauma
+or acute pancreatitis that are not caused by infection. Thus, the term SIRS is neither sensitive nor
+specific for identifying patients at risk of developing sepsis. Severe sepsis was also a term with
+limited specificity and did not provide additional risk stratification. In the simplified definition,
+there is greater reliance on use of the Sequential Organ Failure Assessment (SOFA) score. Sepsis
+is thus defined as a suspected or documented infection with an acute increase of ≥2 points,
+whereas septic shock is clinically defined as sepsis with need for vasopressor support and
+elevated lactate (>2 mmol/L) despite adequate fluid resuscitation. The SOFA score incorporates
+a variety of measures to determine the magnitude of multiorgan dysfunction. Variables include
+PaO2/FiO2 ratio, platelet count, bilirubin, Glasgow Coma Scale score, creatinine, urine output,
+and blood pressure/vasopressor support. Sepsis is identified as evidence of infection with
+evidence of organ dysfunction. Using the SOFA score as a determinant of organ dysfunction
+creates a more standard measure for identifying sepsis. A patient may be considered in refractory
+septic shock if the mean arterial pressure remains low for >1 hour despite fluid resuscitation
+and vasopressors. Refractory septic shock is not included in the guidelines.
+TALBLE VI-78   Definitions Used to Describe the Condition of Septic Patients
+79
+  The answer is B. (Chap. 325) Blood cultures are positive in only 40%–70% of cases of sepsis,
+although in most individuals, a source of infection can be identified through examination of
+infected material (e.g., sputum, abscess fluid, urine) or through the identification of RNA or DNA
+in blood or tissue samples. In some individuals, the immediate source of infection is not
+apparent. In cases of sepsis and septic shock, it is important to initiate antibiotic therapy
+immediately while awaiting culture data to become available. A delay in antibiotic therapy as
+little as 1 hour has been associated with lower survival rates. In addition, use of “inappropriate”
+antibiotics defined on the basis of local susceptibility patterns and published guidelines for
+empiric antibiotic therapy is associated with a fivefold increase in mortality. This patient has
+evidence of septic shock and has had a prior splenectomy. Patients who have had splenectomy
+are at risk for sepsis due to encapsulated organisms. In these individuals, sepsis is most
+commonly caused by Streptococcus pneumoniae, but Haemophilus influenzae and Neisseria
+meningitidis may also be implicated. In an asplenic patient with sepsis, the patient should be
+empirically treated with cefotaxime or ceftriaxone. In areas where there is significant resistance
+of S pneumoniae to cephalosporins, vancomycin should be added. In most areas, the
+cephalosporin resistance is only 1%. If a patient is allergic to cephalosporins, fluoroquinolones
+should be used as an alternative medication.
+80
+  The answer is B. (Chap. 325) Mortality in sepsis remains high, with approximately 20%–35%
+of individuals dying when severe sepsis is present and up to 60% dying due to septic shock.
+Mortality increases with increasing age and number of comorbidities. Numerous interventions
+have been attempted to try to decrease mortality by providing better supportive care or targeting
+the underlying pathophysiologic mechanisms that lead to organ failure in sepsis. An example of a
+supportive measure that has been proven ineffective in sepsis is insulin therapy to achieve tight
+glucose control. The rationale for lower blood glucose in sepsis was that hyperglycemia was
+associated with poorer outcomes in critical illness. After initial enthusiasm from data generated
+by a single-center trial in a surgical ICU, the benefits were not demonstrated in a medically ill
+population. Meta-analyses have concluded that intensive insulin therapy does not affect survival
+and may lead to harm, particularly from hypoglycemia. Anemia also frequently develops in
+individuals with critical illness. The target hemoglobin necessary to maintain oxygen-carrying
+capacity has to be balanced against potential harm from transfusion therapy, including infection
+and transfusion-associated acute lung injury. A randomized trial demonstrated that patients were
+not harmed by a lower hemoglobin threshold for transfusion (7 g/dL) compared to a higher
+hemoglobin goal (9 g/dL). Patients with refractory hypotension in sepsis have been shown to
+have a relative deficiency of cortisol in the face of profound metabolic stress. This so-called
+critical illness–related corticosteroid insufficiency may lead to worse outcomes in critical illness.
+Trials to determine which patients would most benefit from corticosteroid replacement used
+adrenocorticotropin hormone stimulation to assess adrenal response to stimulus. However, this
+approach did not lead to improved outcomes, and most practitioners favor a more empiric
+approach to corticosteroid replacement. Hydrocortisone should be considered at a dose of 50 mg
+every 6 hours in patients with septic shock on vasopressors. If clinical improvement occurs with
+use of hydrocortisone over 24–48 hours, then a course of therapy for 5–7 days is indicated. Other
+interventions that have been trialed but failed for septic shock include endotoxin-neutralizing
+proteins, inhibitors of cyclooxygenase or nitric oxide synthase, anticoagulants, polyclonal
+antibodies, and inhibitors of tumor necrosis factor-α, interleukin-1, platelet-activating factor, and
+tissue factor pathway. One of the most widely known medications used for sepsis was
+recombinant activated protein C (APC). This medication was approved by the FDA for severe
+sepsis and septic shock based on the outcome of a randomized controlled trial that showed a
+mortality benefit in patients who were more severely ill. Subsequent trials showed no benefit in
+patients with less severe illness and in children. A subsequent confirmatory trial showed no
+benefit to APC, and it was removed from the market 10 years after being approved.
+81
+  The answer is D. (Chap. 326) The ECG shows ST-segment elevation in leads I, aVL, and V3-V6.
+This patient is presenting in cardiogenic shock in the setting of acute anterior myocardial
+infarction (MI), likely due to occlusion of the left anterior descending coronary artery.
+infarction (MI), likely due to occlusion of the left anterior descending coronary artery.
+Cardiogenic shock is characterized by systemic hypoperfusion due to depression of the cardiac
+index and sustained arterial hypotension despite an elevated filling pressure. The incidence of
+cardiogenic shock was as high as 20% in the 1960s. Over time, this has decreased to about 5%–
+7% in the setting of early reperfusion therapy for acute myocardial infarction (MI). The cause of
+cardiogenic shock in acute MI is primarily due to left ventricular pump failure in approximately
+80% of cases but can be associated with acute mitral regurgitation in the setting of papillary
+muscle dysfunction, ventricular septal rupture, right ventricular failure in inferior MI, or free
+wall rupture. Only 25% of patients who develop cardiogenic shock in the setting of acute MI will
+present already in shock. Another 25% will develop it within the first 6 hours after presentation.
+The other 50% of individuals who develop cardiogenic shock in acute MI will develop it after
+this time point. Rapid recognition and treatment of the underlying myocardial ischemia are the
+most important tools in the management of patients with acute MI and cardiogenic shock.
+Supportive measures include providing adequate volume to maintain left ventricular filling
+pressure and treatment of pain while avoiding medications that have negative inotropic effects.
+Mechanical ventilation is commonly required to prevent hypoxemia. Augmentation of blood
+pressure to maintain cardiac perfusion is often required. No vasopressor agent has been shown to
+change the outcome of patients in established cardiogenic shock. Norepinephrine is a potent
+vasoconstrictor and inotropic agent. In a trial comparing norepinephrine with dopamine,
+norepinephrine was associated with fewer adverse events, including arrhythmias. Given the
+relative safety compared to dopamine, norepinephrine is the preferred initial agent for blood
+pressure support. Dopamine should be a second-line agent in this patient given the presence of
+ventricular ectopy and tachycardia because dopamine is associated with the development of
+tachyarrhythmias. Vasopressin is a potent vasoconstrictor and may be considered in only low
+doses in the treatment of shock. Doses greater than 0.03 U/min have been associated with
+coronary and mesenteric ischemia. Nitroglycerin as a continuous drip may be considered for
+venodilation and management of the patient’s pain. However, it would be expected to decrease
+blood pressure and should not be used in the absence of other means of circulatory support. Of
+the options listed, the best choice for circulatory support in this patient is the placement of an
+intra-aortic balloon pump. This temporary percutaneous device is inserted into the aorta via the
+femoral artery, and the balloon is expanded during ventricular diastole to maintain coronary
+artery perfusion pressure. During systole, the rapid deflation of the blood provides effective
+afterload reduction to support a failing heart. Venoarterial extracorporeal membrane
+oxygenation is rarely used for acute MI but may be considered when respiratory failure
+complicates cardiogenic shock.
+82
+  The answer is A. (Chap. 326) The patient has evidence of decompensated ischemic
+cardiomyopathy with marked volume overload, pulmonary edema, and cardiogenic shock. Initial
+management of this patient includes maintenance of adequate oxygenation and circulatory
+support while initiating diuresis. Figure VI-82 outlines the optimal treatment for acute
+pulmonary edema. Oxygenation should be maintained, and intubation with mechanical
+ventilation is frequently required. The combination of nitroglycerin and morphine provides
+venodilation and decreases venous return and, in turn, decreases the work of breathing.
+Morphine further provides symptomatic relief of dyspnea and anxiety. Furosemide or other loop
+diuretics should be administered at the equivalent furosemide dose of 0.5–1.0 mg/kg.
+Norepinephrine may be required when the systolic blood pressure is less than 100 mmHg to
+maintain a mean arterial pressure of 60 mmHg. Dobutamine is a positive inotropic agent that is
+often used for cardiogenic shock but may acutely cause a decline in blood pressure. It should be
+considered when the systolic blood pressure is 70–100 mmHg without signs and symptoms of
+shock.
+FIGURE VI-82 ACE, angiotensin-converting enzyme inhibitors; BP, blood pressure; IV, intravenous; SBP,
+systolic blood pressure; SL, sublingual. Modified from Guidelines 2000 for Cardiopulmonary
+Resuscitation and Emergency Cardiovascular Care. Part 7: The era of reperfusion: Section 1: Acute
+coronary syndromes [acute myocardial infarction]. The American Heart Association in collaboration with
+the International Liaison Committee on Resuscitation. Circulation 102:I172, 2000.
+83
+  The answer is C. (Chap. 326) Table VI-83 outlines the hemodynamic patterns that can be seen
+in various forms of shock, including shock caused by a variety of complications of acute MI. This
+patient presents with acute hypotension following a coronary revascularization procedure for
+acute anterior MI. Acute severe mitral regurgitation can occur following acute MI due to
+papillary muscle dysfunction and rupture, resulting in cardiogenic shock and/or pulmonary
+edema. This complication most often occurs within the first day after an MI, although there is a
+second peak of occurrence several days after MI. Other complications that can occur after MI
+resulting in rapid development of hypotension and cardiogenic shock include ventricular septal
+rupture, cardiac tamponade, and free wall rupture. It is important to understand the
+hemodynamics of these complications as well as other causes of shock, although clinically,
+pulmonary artery catheters are used less frequently these days because their use has not been
+pulmonary artery catheters are used less frequently these days because their use has not been
+associated with improvements in care. Normal values (option B) are shown in the top most
+portion of the table and are important for general knowledge regarding the circulatory system. A
+patient with acute mitral regurgitation (option C) would have normal to elevated right atrial
+pressure and elevations in the right ventricular systolic pressure and pulmonary artery pressures,
+although right ventricular diastolic pressure may be normal or elevated. The most characteristic
+finding is an elevation in the pulmonary capillary wedge pressure (PCWP) with a prominent v
+wave. The large v wave represents the pressure generated during systole across the regurgitant
+mitral valve. Cardiac index would be low normal to low, with normal to elevated systemic
+vascular resistance. Individuals with cardiac tamponade demonstrate equalization of pressures
+across the vascular system with a low cardiac index (option E). This is manifest as right atrial
+pressure, right ventricular diastolic pressure, pulmonary artery diastolic pressure, and PCWP all
+manifesting similar values. Free wall rupture causes cardiac tamponade and has a dramatic
+presentation, often leading to death. It can present more subacutely if the pericardium is able to
+temporarily seal the rupture site. Ventricular septal rupture presents similarly to acute mitral
+regurgitation. However, the hemodynamics are different as the right atrial pressure and right
+ventricular diastolic pressure are typically higher, whereas PCWP may not be as elevated.
+Cardiogenic shock with right ventricular failure that can occur following inferior MI or
+pulmonary embolus will demonstrate a low cardiac index and elevated right atrial and right
+ventricular diastolic pressures with a wedge pressure that may be low, normal, or elevated
+(option D). The patient presenting with elevated cardiac output and low right atrial and
+ventricular pressures as well as low PCWP is most typical of a patient with septic shock.
+TALBLE VI-83   Hemodynamic Patternsa
+84
+  The answer is B. (Chap. 327) Sudden cardiac death (SCD) is responsible for between 200,000
+and 450,000 deaths yearly in the United States. SCD is defined as natural death due to cardiac
+and 450,000 deaths yearly in the United States. SCD is defined as natural death due to cardiac
+causes with presentation within 1 hour or less from a change heralding the onset of the terminal
+clinical event and the onset of cardiac arrest. In an individual who experiences an unwitnessed
+death, pathologists may expand the definition to up to 24 hours after the individual was last seen
+to be alive and stable. If an individual is successfully resuscitated from SCD, he or she would still
+be classified as SCD if death occurs during the initial hospitalization or within 30 days of the
+resuscitated cardiac event. In two-thirds of individuals, SCD is the first clinical expression of
+underlying cardiac disease, and up to half of all cardiac deaths are sudden and unexpected. SCD
+can occur due to primary arrhythmia, arrhythmia induced following an acute cardiac event, a
+structural abnormality following a prior cardiac event, or acute low-output states that may occur
+due to acute pulmonary embolism, ruptured aortic aneurysm, anaphylaxis, and cardiac
+tamponade, among other causes. There is a peak in sudden, unexpected deaths between birth
+and 6 months of age (sudden infant death syndrome), with a second peak that occurs between
+the ages of 45 and 75 years with an incidence of 1–2 per 1000 per year. Individuals of African
+American descent have a higher incidence of SCD compared to the white population. Young and
+middle-aged men have a higher risk of SCD compared to women, but with advancing age, the
+gender differences in SCD disappear. Genetic factors also play a role in the risk for SCD because
+having a parental history of SCD as an initial presentation of cardiac disease increases the
+likelihood of a similar event in offspring. Other risk factors include those of cardiac disease,
+including smoking, diabetes, hyperlipidemia, and hypertension. In the past, ventricular
+fibrillation and ventricular tachycardia were the most common arrhythmias seen in patients
+experiencing SCD. However, asystole currently accounts for about 50% of all cases of SCD.
+Prognosis and outcome depend on the underlying etiology of the event. Ventricular tachycardia
+and ventricular fibrillation have significantly better outcomes when compared to individuals
+who present with asystole or pulseless electrical activity.
+85
+  The answer is D. (Chap. 328) Coma is a surprisingly common medical condition that is
+responsible for a large number of admissions to emergency and critical care units. Coma refers to
+a deep sleeplike state from which a patient cannot be aroused. It occurs on a continuum of
+disorders of decreased alertness that includes stupor, in which a patient can be transiently
+aroused with vigorous stimulation and with generally purposeful response to painful stimuli.
+Drowsiness is a light state of decreased alertness that is similar to light sleep. A patient can be
+aroused easily, and alertness typically persists for a period after arousal. There are multiple
+etiologies of coma and several disorders that can cause unresponsiveness that can be confused
+with coma. Some of the common causes of coma include drug intoxications, metabolic
+derangements, severe systemic infections, shock, seizures, hypertensive encephalopathy,
+concussion, meningitis, encephalitis, intracranial hemorrhage, and intracranial mass lesions,
+among others. One condition that is often confused with coma is the persistent vegetative state.
+A vegetative state refers to someone who has emerged from coma with an awake appearance but
+is unresponsive. There are few, if any, meaningful responses to stimuli from the environment.
+Persistent vegetative state occurs following significant damage to both cerebral hemispheres with
+preservation of brainstem function. It occurs most commonly following cardiac arrest or
+traumatic brain injury. A minimally conscious state is similar to the persistent vegetative state
+but less severe. The patient appears awake, can make rudimentary vocalizations, and may have
+some purposeful motor behaviors, occasionally in response to commands. Other syndromes that
+can mimic coma include akinetic mutism, catatonia, and locked-in state. Akinetic mutism occurs
+due to extreme hydrocephalus or damage to the medial thalamic nuclei or frontal lobes. In
+akinetic mutism, the patient appears awake and is able to think and form memories but is unable
+to move or speak. Upon recovery, the patient can recount events from the period of the mutism.
+Catatonia usually occurs in individuals with severe psychiatric illness. Patients make few
+voluntary or responsive movements, although they do not appear distressed. On careful
+examination, it usually becomes apparent the patient is responsive. Eyes will move with head
+rotation, and the patient will blink with a visual threat. Other subtle signs may be present as
+well. Locked-in syndrome occurs following an injury to the ventral pons. In this setting, the
+patient has normal cerebral function but has no means to produce speech or movement. The only
+movements a patient will have are voluntary vertical movement of the eyes and lid elevation.
+86
+  The answer is B. (Chap. 328) Figure VI-86 shows a large left-sided subdural hematoma with
+compression of the upper midbrain and lower thalamic regions. The regions are displaced away
+from the mass, and there is transtentorial uncal herniation of the medial temporal lobe. Cerebral
+herniation occurs when brain is displaced by an adjacent mass into a contiguous compartment
+that it does not occupy. There are several types of brain herniation: uncal, central, transfalcical,
+and foraminal. The most common type is uncal herniation, which occurs when brain is displaced
+across the tentorium from the supratentorial to infratentorial compartment. The uncus (anterior
+medial temporal gyrus) moves into the tentorial opening just anterior and adjacent to the
+midbrain. This causes compression of the ipsilateral third nerve with subsequent enlargement of
+the ipsilateral pupil. Coma is caused by compression of the midbrain against the opposite
+tentorial edge. Lateral displacement of the midbrain may also cause compression of the opposite
+cerebral peduncle causing a contralateral hemiparesis and Babinski sign. Central transtentorial
+herniation causes a symmetric displacement of the thalamic structures through the tentorial
+opening, compressing the midbrain. Miotic pupils and decreased alertness occur as opposed to
+enlargement of a single pupil with uncal herniation. As both central and uncal herniation
+progress, there is a similar progression of clinical signs with progressive dysfunction of the
+midbrain, pons, and finally, the medulla. Transfalcical herniation occurs when cingulate gyrus is
+displaced under the falx and across the midline. Foraminal herniation occurs when the cerebellar
+tonsils are forced into the foramen magnum and results in rapid death due to compression of the
+respiratory center.
+87
+  The answer is C. (Chap. 328) The coma in this patient is caused by drug intoxication, most
+likely tricyclic antidepressant overdose. Coma is commonly caused by drug intoxications and
+compounded by the resulting metabolic derangements. Because the patient is unresponsive, it is
+not possible to obtain a medical history, but family members and friends should be queried to
+assist with determining a possible cause. This patient has had recent depression, which could
+potentially indicate use of antidepressant medications and also increased suicide risk. Tricyclic
+antidepressants exert an anticholinergic effect. Common symptoms include an alerted level of
+consciousness, cardiac conduction abnormalities, arrhythmias, and evidence of anticholinergic
+activity including elevated temperature, flushing, and dilated pupils. If cardiac conduction delays
+are present, sodium bicarbonate should be given. Other supportive care includes use of
+intravenous fluids and management of agitation.
+88
+  The answer is E. (Chap. 328) Brain death refers to the irreversible loss of all cerebral and
+brainstem function. Cardiac activity is preserved, and respiration is maintained only by artificial
+means. In Western society, brain death is considered equivalent to death, and the respirator can
+be disconnected to allow cardiac death to occur. Careful examination of a patient needs to be
+performed to assess when brain death has occurred. At the time of examination, the patient
+needs to be normothermic and have been without treatment with sedative medications for at
+least 6–24 hours. Patients should also be maintaining a systolic blood pressure >100 mmHg and
+be euvolemic. Ideal criteria are simple, can be assessed at the bedside, and should have no
+chance of diagnostic error. Three essential elements of brain death include:
+1. Widespread cortical destruction identified by coma and unresponsiveness to all stimuli.
+2. Global brainstem damage evidenced by absent pupillary light reflexes and loss of
+oculovestibular and corneal reflexes
+3. Loss of medullary function with complete and irreversible apnea
+The pupils are usually mid-sized, but can be enlarged. However, they should not be miotic. Deep
+tendon reflexes may be present, and Babinski response is usually absent or flexor. The apnea test
+is performed by preoxygenating a patient with 100% FiO2 for up to 10 minutes, with oxygen
+delivered via transtracheal cannula throughout the test. The patient remains off the ventilator for
+8–10 minutes, and signs of respiration are observed. At the end of the test, an arterial blood gas is
+performed to demonstrate that PaCO2 has risen to 50–60 mmHg. Apnea is confirmed if there is
+no evidence of respiration when the PaCO2 has risen to a level that should have stimulated
+respiration. The apnea test should be terminated if the patient develops cardiovascular instability.
+respiration. The apnea test should be terminated if the patient develops cardiovascular instability.
+Other ancillary tests are sometimes performed in patients who cannot undergo clinical testing of
+brain death. Examples of scenarios in which ancillary tests may be useful include patients who
+are hemodynamically unstable, patients with diseases causing baseline carbon dioxide retention,
+and in the presence of prior sedation or neuromuscular blocking agents. The purpose of ancillary
+testing is to demonstrate lack of cerebral blood flow, and ancillary testing can include
+radionuclide brain imaging, cerebral angiography, and/or transcranial Doppler measurements.
+89
+  The answer is B. (Chap. 330) Monitoring intracranial pressure (ICP) is an important tool in the
+care of selected critically ill patients due to neurologic injury or disease. ICP can be monitored
+by ventriculostomy, intraparenchymal transducer, epidural catheter, or subarachnoid catheters.
+Epidural or subarachnoid catheters are less reliable and are less frequently used.
+Ventriculostomy is considered the “gold standard” for ICP monitoring because it offers the
+advantage of providing a means of cerebrospinal fluid drainage in the event of elevated ICP. In
+addition, ventriculostomy monitoring also provides greater accuracy because it has the ability to
+be recalibrated, whereas the intraparenchymal monitor does not. Patients who are most likely to
+be considered for ICP monitoring are those with severe primary neurologic disorders, including
+severe traumatic brain injury (Glasgow Coma Scale ≤8), large tissue shifts from supratentorial
+ischemic or hemorrhagic stroke, intraventricular hemorrhage, or posterior fossa stroke.
+Individuals with fulminant hepatic failure are also at risk for severe cerebral edema leading to
+herniation. ICP monitoring is recommended for these individuals, although intraparenchymal
+monitoring is often more appropriate than ventriculostomy due to the presence of coagulopathy.
+These patients are at particularly high risk of bleeding. In addition, individuals with diffuse
+cerebral edema, such as in fulminant hepatic failure, typically have small ventricles leading to
+difficulty in placement.
+90
+  The answer is D. (Chap. 330) The primary goal of ICP monitoring in patients with severe
+neurologic injury and elevated ICP is to maintain adequate cerebral perfusion pressure (CPP).
+CPP is calculated as mean arterial pressure minus the ICP, and the goal CPP is ≥60 mmHg.
+Normal ICP is <20 mmHg. Thus, this patient is showing evidence of marked elevations in ICP
+with a CPP of 58 mmHg. When ICP remains elevated for more than 5 minutes, therapy should be
+undertaken to decrease the ICP. It is important to consider the underlying cause of ICP in an
+individual when determining treatment plan. In patients with hydrocephalus or subarachnoid
+hemorrhage, draining cerebrospinal fluid via the ventriculostomy will decrease the ICP. In
+patients with more diffuse cerebral edema from head trauma or stroke, medical approaches are
+more appropriate. This patient has hydrocephalus due to subarachnoid bleeding. Therefore, the
+first line of treatment should be to drain the ventriculostomy. If this fails to adequately alleviate
+the elevations in ICP, other treatment modalities including osmolar therapy, sedation,
+hyperventilation, or vasopressors to increase mean arterial pressure can be considered. There are
+two osmolar therapies that are frequently used: mannitol or 23.4% saline bolus. Deep sedation
+may be required, and a variety of agents may be used. Neuromuscular blockade may be used as
+well. Hyperventilation to drop the PaCO2 to 30–35 mmHg works acutely to drop the ICP, but the
+effect is limited. Vasopressors can be considered to increase the mean arterial pressure and thus
+ensure an improved CPP. Glucocorticoids are best used in individuals with vasogenic edema
+from tumor or abscess. In those with refractory elevations in ICP, decompressive craniectomy,
+high-dose barbiturate therapy, or hypothermia may also be employed.
+91
+  The answer is C. (Chap. 330) Therapeutic hypothermia refers to the purposeful induction of
+hypothermia to temperatures of 32–34°C, and it is primarily used following cardiac arrest. The
+rationale for use of therapeutic hypothermia is to provide a neuroprotective effect to limit
+neuronal cell injury and death following a substantial hypoxic insult. Initially, two trials
+suggested that use of therapeutic hypothermia would improve functional outcomes in patients
+who remained comatose after resuscitation from cardiac arrest. Subsequent trials showed no
+significant difference in neurologic outcomes if the temperature was maintained at 32°C or 36°C
+so long as development of fever was prevented. Treatment guidelines currently support
+therapeutic hypothermia for 12–24 hours when the initial rhythm was ventricular fibrillation.
+therapeutic hypothermia for 12–24 hours when the initial rhythm was ventricular fibrillation.
+While cerebral edema is a common complication of cardiac arrest and a leading cause of death,
+there is no recommendation to perform head imaging prior to initiating therapeutic
+hypothermia. Complications of therapeutic hypothermia include coagulopathy and increased risk
+of infection.
+92
+  The answer is B. (Chap. 330) Critical illness polyneuropathy is the most common peripheral
+nervous system complication of critical illness. Prior studies have shown that as many as 70% of
+individuals hospitalized in intensive care units with sepsis develop critical illness
+polyneuropathy. The clinical presentation of critical illness polyneuropathy is diffuse weakness
+with decreased deep tendon reflexes and distal sensory loss. On electrophysiologic testing, a
+diffuse, symmetric distal axonal sensorimotor neuropathy is seen. The cause of critical illness
+polyneuropathy is not known but is postulated to be due to circulating inflammatory cytokines
+that are commonly elevated is sepsis and other critical illness. Risk factors for development of
+the syndrome include sepsis, prolonged critical illness, and multiorgan system failure. In severe
+cases, critical illness polyneuropathy can lead to decreased respiratory muscle strength and can
+contribute to prolonged ventilator dependence. Treatment is supportive, and recovery is
+spontaneous, although it may take weeks to months for full recovery.
+Critical illness myopathy is a term used to describe several discrete muscular disorders in
+critically ill individuals. It is less common than critical illness polyneuropathy and may have
+elevated levels of serum creatine kinase. As disease progresses, electromyography can show
+abnormal spontaneous activity. Muscle biopsy is variable, with results ranging from type II
+atrophy to panfascicular necrosis. This patient does not show evidence of fibroproliferative
+progression of acute respiratory distress syndrome as the chest radiograph shows clearing of
+infiltrates. The patient also requires minimal ventilatory support with good tidal volumes.
+Guillain-Barré syndrome is an acute demyelinating polyneuropathy that presents as a cause of
+respiratory failure and is not present in this case. ICU delirium is a common complication of ICU
+care but should not result in low tidal volumes when ventilatory support is decreased.
+VI-93 and VI-94.    The answers are E and E, respectively. (Chap. 330) Nontraumatic subarachnoid
+hemorrhage (SAH) occurs most commonly following rupture of a saccular, or berry, aneurysm.
+Autopsy and angiography studies have identified aneurysms in 2% of the adult population,
+affecting 4 million individuals. The yearly incidence of SAH due to aneurysmal rupture is
+20,000–30,000 cases. Many patients die before reaching the hospital. If a patient survives to
+hospital admission, the 28-day mortality rate is 45%. More than half of individuals who survive
+have significant neurologic injury with lingering manifestations. The patient with SAH should be
+admitted to a critical care unit with expertise in managing SAH. Initial treatment of SAH
+includes early aneurysmal repair while managing intracranial hypertension. Repair of the
+aneurysm may be accomplished via neurosurgical clipping or endovascular coiling of the
+aneurysm. Generally coiling has shown improved functional outcomes in those undergoing
+endovascular procedures. Medical management is complex. Intracranial hypertension is common
+and frequently requires management with ventriculostomy. Medical management of elevated
+intracranial pressures is also often required. If a patient survives the initial period following
+SAH, the patient is vulnerable to several causes of delayed neurologic deficits that typically
+present within 1–2 weeks after the event. Vasospasm refers to the narrowing of the arteries at
+the base of the brain following SAH and is the most common cause of delayed morbidity and
+mortality in SAH. Signs of ischemic injury and change in neurologic exam herald the
+development of vasospasm. Nimodipine is typically prescribed at a dose of 60 mg every 4 hours
+upon admission to the ICU to attempt to prevent vasospasm. Vasospasm can be detected by x-ray
+angiography or transcranial Doppler ultrasound. Surveillance for vasospasm is often performed
+via transcranial Doppler ultrasound on a daily or every-other-day basis. In addition to
+nimodipine, management of acute vasospasm includes raising cerebral perfusion pressure and
+volume expansion. Phenylephrine and norepinephrine are the most frequently used vasopressors.
+If vasospasm is refractory to these treatments, intra-arterial vasodilators and/or percutaneous
+transluminal angioplasty should be considered. Other causes of delayed neurologic deficits
+following SAH include rerupture of the aneurysm, hydrocephalus, and hyponatremia. The
+following SAH include rerupture of the aneurysm, hydrocephalus, and hyponatremia. The
+incidence of rerupture of an aneurysm is ~30% in the first month after presentation, with a peak
+incidence within the first 7 days. Mortality associated with rerupture is 60%. Early endovascular
+coiling or surgical clipping of the aneurysm decreases the incidence of rerupture. Hydrocephalus
+can occur acutely or subacutely after SAH. Subacute development of hydrocephalus is more
+common and presents over a few days or weeks with progressive drowsiness, incontinence, and
+slowed mentation. The patient in this scenario had a CT scan that did not show increasing blood,
+cerebral edema, or development of hydrocephalus. Hyponatremia occurs following SAH due to
+natriuresis and volume depletion. Electrolytes are typically assessed at least twice daily following
+SAH as hyponatremia can develop fairly acutely.
+VI-95 and VI-96.    The answers are E and C, respectively. (Chap. 331) This clinical scenario
+describes an individual with superior vena cava (SVC) syndrome, which is an oncologic
+emergency. Eighty-five percent of cases of SVC syndrome are caused by either small-cell or
+squamous cell cancer of the lung. Other causes of SVC syndrome include lymphoma, aortic
+aneurysm, thyromegaly, fibrosing mediastinitis, thrombosis, histoplasmosis, and Behcet
+syndrome. The typical clinical presentation is dyspnea, cough, and facial and neck swelling.
+Symptoms are worsened by lying flat or bending forward. As the swelling progresses, it can lead
+to glossal and laryngeal edema with symptoms of hoarseness and dysphagia. Other symptoms
+can include headaches, nasal congestion, pain, dizziness, and syncope. In rare cases, seizures can
+occur from cerebral edema, although this is more commonly associated with brain metastases.
+On physical examination, dilated neck veins with collateralization on the anterior chest wall are
+frequently seen. There is also facial and upper extremity edema associated with cyanosis. The
+diagnosis of SVC syndrome is a clinical diagnosis. A pleural effusion is seen in about 25% of
+cases, more commonly on the right. A chest CT would demonstrate decreased or absent contrast
+in the central veins with prominent collateral circulation and would help elucidate the cause.
+Most commonly, this would be mediastinal adenopathy or a large central tumor obstructing
+venous flow. The immediate treatment of SVC syndrome includes oxygen, elevation of the head
+of the bed, and administration of diuretics in combination with a low-sodium diet. Conservative
+treatment alone often provides adequate relief of symptoms and allows determination of the
+underlying cause of the obstruction. In this case, this would include histologic confirmation of
+cell type of the tumor to provide more definitive therapy. Radiation therapy is the most common
+treatment modality and can be used in an emergent situation if conservative treatment fails to
+provide relief to the patient.
+97
+  The answer is A. (Chap. 331) This patient presents with symptoms of spinal cord compression
+in the setting of known stage IV breast cancer. This represents an oncologic emergency as only
+10% of patients presenting with paraplegia regain the ability to walk. Most commonly, patients
+develop symptoms of localized back pain and tenderness days to months before developing
+paraplegia. The pain is worsened by movement, cough, or sneezing. In contrast to radicular pain,
+the pain related to spinal cord metastases is worse with lying down. Patients presenting with
+back pain alone should have a careful examination to attempt to localize the lesion prior to
+development of more severe neurologic symptoms. In this patient with paraplegia, there is a
+definitive level at which sensation is diminished. This level is typically one to two vertebrae
+below the site of compression. Other findings include spasticity, weakness, and increased deep
+tendon reflexes. In those with autonomic dysfunction, bowel and bladder incontinence will occur
+with decreased anal tone, absence of the anal wink and bulbocavernosus reflexes, and bladder
+distention. The most important initial step is the administration of high-dose intravenous
+corticosteroids to minimize associated swelling around the lesion and prevent paraplegia while
+allowing further evaluation and treatment. Magnetic resonance imaging (MRI) should be
+performed of the entire spinal cord to evaluate for other metastatic disease that may require
+therapy. Although a brain MRI may be indicated in the future to evaluate for brain metastases, it
+is not required in the initial evaluation because the bilateral nature of the patient’s symptoms
+and sensory level clearly indicate the spinal cord as the site of the injury. Once an MRI is
+performed, a definitive treatment plan can be made. Most commonly, radiation therapy is used
+with or without surgical decompression.
+VI-98 and VI-99.    The answers are B and E, respectively. (Chap. 331) Tumor lysis syndrome occurs
+most commonly in individuals undergoing chemotherapy for rapidly proliferating malignancies,
+including acute leukemias and Burkitt lymphoma. In rare instances, it can be seen in chronic
+lymphoma or solid tumors. As the chemotherapeutic agents act on these cells, there is massive
+tumor lysis that results in release of intracellular ions and nucleic acids. This leads to a
+characteristic metabolic syndrome of hyperuricemia, hyperphosphatemia, hyperkalemia, and
+hypocalcemia. Acute kidney injury is frequent and can lead to renal failure requiring
+hemodialysis if uric acid crystallizes within the renal tubules. Lactic acidosis and dehydration
+increase the risk of acute kidney injury. Hyperphosphatemia occurs due to the release of
+intracellular phosphate ions and causes a reciprocal reduction in serum calcium. This
+hypocalcemia can be profound, leading to neuromuscular irritability and tetany. Hyperkalemia
+can become rapidly life-threatening and cause ventricular arrhythmia. Knowing the
+characteristics of tumor lysis syndrome, one can attempt to prevent the known complications
+from occurring. It is important to monitor serum electrolytes frequently during treatment.
+Laboratory studies should be obtained no less than three times daily, but more frequent
+monitoring is often needed. Allopurinol should be administered prophylactically at high doses. If
+allopurinol fails to control uric acid to less than 8 mg/dL, rasburicase, a recombinant urate
+oxidase, can be added at a dose of 0.2 mg/kg. Throughout this period, the patient should be well
+hydrated with alkalinization of the urine to a pH of greater than 7.0. This is accomplished by
+administration of intravenous normal or half-normal saline at a dose of 3000 mL/m2 daily with
+sodium bicarbonate. Prophylactic hemodialysis is not performed unless there is underlying renal
+failure prior to starting chemotherapy.
+

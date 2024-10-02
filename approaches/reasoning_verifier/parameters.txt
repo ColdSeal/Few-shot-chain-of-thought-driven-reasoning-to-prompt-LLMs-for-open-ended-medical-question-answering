@@ -1,0 +1,17 @@
+Reward Config:
+
+per_device_train_batch_size=1,
+num_train_epochs=10
+gradient_accumulation_steps=16
+gradient_checkpointing=True
+learning_rate=5e-5
+optim="adamw_torch"
+max_length=1000
+
+
+Peft Config:
+
+r=16
+lora_alpha=16
+bias="none"
+task_type="SEQ_CLS"
