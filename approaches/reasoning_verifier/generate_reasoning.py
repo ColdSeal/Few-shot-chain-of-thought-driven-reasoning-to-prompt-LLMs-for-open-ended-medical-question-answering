@@ -8,15 +8,10 @@ import torch
 import math
 import numpy as np
 import ast
-
-from genai.credentials import Credentials
-from genai.model import Model
-from genai.schemas import GenerateParams
-from genai.extensions.langchain import LangChainInterface
-
+from transformers import pipeline, BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 from huggingface_hub import login
 
-login(token = "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")
+login(token = "<Enter your token>")
 
 # random.seed(42)
 
@@ -38,17 +33,17 @@ parser.add_argument("--num_options", help="number of options : number of samples
 args = parser.parse_args()
 
 print("LOADING MODEL...")
+device = torch.device("cuda")
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-70b-chat-hf")
+tokenizer.pad_token = tokenizer.eos_token
 
-api_key = "pak-zLIXfwz3UmF2EIOrXr-T4YNw8s3A0MUCZ-5pmFezfFY"
-api_url = "https://bam-api.res.ibm.com/v1"
-creds = Credentials(api_key,api_url)
+quantization_config = BitsAndBytesConfig(load_in_8bit=False, load_in_4bit=True)
+model = AutoModelForCausalLM.from_pretrained(
+    "meta-llama/Llama-2-70b-chat-hf",
+    quantization_config=quantization_config,
+)
 
-# Instantiate parameters for text generation
-params = GenerateParams(decoding_method="greedy", max_new_tokens=args.max_new_tokens, repetition_penalty=1.1, stop_sequences=["\nQ: ","Use just the given patient history to answer the question."])
-# Instantiate a model proxy object to send your requests
-model = Model(args.model_path, params=params, credentials=creds)
-# model = LangChainInterface(model=args.model_path, params=params, credentials=creds)
-
+model = model.to(device)
 print("MODEL LOADED")
 
 qa_df = pd.read_csv(args.qa_data)
@@ -86,7 +81,6 @@ for i,elem in zip([index for index in range(args.start,args.end)],qa[args.start:
 
         instring = f"{inst}\n\nQuestion: {elem['q']}\nAnswer: {op}\nReasoning:"
 
-        # instring = f"Here is a question from a professional medical exam in the USA:\n{elem['q']}\nThe Correct answer to the above question is \"{op}\"\nProvide medically relevant reasoning to get to the answer."
         instrings.append(instring)
 
         print(f"instring :\n{instring}\n")
